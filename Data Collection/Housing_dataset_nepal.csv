@@ -1,0 +1,1265 @@
+,price,location,area,facing,no_of_bedroom,no_of_bathroom,no_of_livingroom,no_of_kitchen,parking,road_size,furniture,floors
+0,32000000,Shital height,169.539,East,5.0,4.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+1,28000000,Shital Height,126.759,West,5.0,4.0,2.0,4.0,2.0,13.0,Semi Furnished,3.5
+5,40000000,Shital height,169.012,North,6.0,4.0,2.0,2.0,4.0,13.0,Full Furnished,2.5
+6,28000000,Bhaisepati,169.012,South,6.0,3.0,2.0,2.0,4.0,16.0,Full Furnished,2.5
+7,40000000,Harisiddhi,295.771,East,6.0,4.0,2.0,2.0,4.0,13.0,Full Furnished,2.5
+8,47000000,Shital height,340.132,East,6.0,4.0,2.0,3.0,4.0,13.0,Full Furnished,3.0
+9,47000000,Cheu dada,211.265,East,6.0,5.0,2.0,2.0,2.0,13.0,Full Furnished,2.5
+10,52500000,Bhaisepati,382.385,East,6.0,5.0,2.0,2.0,4.0,16.0,Full Furnished,2.5
+11,42500000,Shital Height,169.012,North,6.0,4.0,2.0,3.0,4.0,13.0,Full Furnished,3.0
+12,60000000,Sifal chowk,361.522,East,8.0,5.0,3.0,4.0,2.0,13.0,Full Furnished,3.5
+13,35000000,baneshwor,126.759,North,5.0,3.0,3.0,4.0,1.0,10.0,Unfurnished,3.5
+14,63000000,Shital Height,253.518,South,6.0,5.0,2.0,2.0,4.0,13.0,Full Furnished,2.5
+15,28000000,Gadatantra chowk ,126.759,East,6.0,4.0,2.0,3.0,3.0,14.0,Semi Furnished,3.0
+16,53500000,Shital height,340.132,South,6.0,4.0,1.0,2.0,4.0,13.0,Full Furnished,2.5
+17,39000000,Bhaisepati,425.692,South-East,6.0,5.0,2.0,4.0,4.0,20.0,Semi Furnished,3.5
+18,45000000,Shital height,169.012,South,4.0,4.0,1.0,3.0,4.0,13.0,Full Furnished,3.0
+19,47000000,Shital height,382.91200000000003,East,6.0,7.0,3.0,3.0,1.0,13.0,Full Furnished,3.0
+20,25200000,Tikathali,126.759,South,4.0,4.0,1.0,2.0,4.0,13.0,Semi Furnished,2.5
+22,39000000,Imadol,383.439,North,7.0,5.0,1.0,4.0,4.0,16.0,Semi Furnished,3.5
+23,39000000,Shital height,27380.0,South-East,5.0,5.0,2.0,3.0,5.0,13.0,Full Furnished,3.0
+24,39500000,Shital Height,169.012,South,5.0,3.0,2.0,4.0,3.0,13.0,Semi Furnished,3.5
+25,86000000,Dallu,338.024,South-East,10.0,7.0,4.0,4.0,4.0,13.0,Semi Furnished,4.0
+26,38500000,Bojepokhari,211.792,North,8.0,6.0,3.0,3.0,4.0,20.0,Semi Furnished,3.0
+27,42000000,Shital height,254.572,South,7.0,5.0,2.0,4.0,4.0,13.0,Semi Furnished,3.5
+28,42500000,Shital height,169.012,South,7.0,5.0,2.0,4.0,3.0,13.0,Semi Furnished,3.5
+29,22000000,Tempo park,341.18600000000004,South,4.0,4.0,2.0,2.0,2.0,13.0,Semi Furnished,2.5
+30,30000000,Shital height,297.352,East,5.0,4.0,2.0,2.0,3.0,13.0,Semi Furnished,2.5
+31,63500000,PASIKOT ,509.144,North-East,6.0,5.0,3.0,2.0,5.0,13.0,Semi Furnished,2.5
+32,50000000,Sano bharyang,211.265,North-East,6.0,4.0,2.0,3.0,4.0,13.0,Full Furnished,3.0
+33,17500000,Tej Binayak,148.149,South,4.0,3.0,1.0,2.0,2.0,12.0,Semi Furnished,1.5
+34,63000000,Veenas residency,338.024,North,5.0,3.0,1.0,2.0,4.0,20.0,Semi Furnished,2.5
+35,32500000,Thapagaun,126.759,North,16.0,4.0,2.0,4.0,3.0,20.0,Semi Furnished,4.0
+36,33500000,Near karuna hospital ,169.012,West,6.0,4.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+37,31000000,Lasuntar,211.792,South-West,6.0,4.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+38,31000000,Lasuntar,211.792,South-West,6.0,4.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+39,29500000, Near karuna hospital,297.879,South,6.0,4.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+40,36500000,Bhangal,340.132,North-West,6.0,4.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+41,45000000,Shankhamul,211.265,North-East,5.0,3.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+42,80000000,Hattigauda,552.451,South-West,5.0,6.0,3.0,2.0,4.0,13.0,Semi Furnished,2.5
+43,23000000,Imadol,255.626,North-East,5.0,3.0,2.0,3.0,4.0,13.0,Full Furnished,3.0
+44,35000000,Mulpani,340.132,North-East,4.0,3.0,1.0,4.0,4.0,26.0,Semi Furnished,3.5
+45,34500000,Bhangal height,190.929,North-West,5.0,4.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+46,32500000,Gairigaun,297.879,North,6.0,4.0,3.0,4.0,3.0,12.0,Semi Furnished,3.5
+47,39500000,Ganesh Chowk,254.572,South-West,5.0,5.0,2.0,2.0,4.0,18.0,Semi Furnished,2.5
+48,268000000,Baluwatar near Nepal Rastra Bank,1014.072,East,5.0,6.0,1.0,2.0,1.0,13.0,Semi Furnished,2.5
+49,105000000,chappal karkhana,551.3969999999999,South-West,4.0,5.0,1.0,2.0,7.0,13.0,Semi Furnished,2.5
+50,26000000,Sanagaun,126.759,North,6.0,4.0,2.0,2.0,4.0,20.0,Semi Furnished,2.5
+51,31500000,Tikathali,382.385,South,5.0,6.0,1.0,2.0,4.0,13.0,Full Furnished,2.5
+52,26500000,Tikathali,126.759,South,6.0,5.0,1.0,2.0,4.0,13.0,Semi Furnished,2.5
+53,32500000,Tikathali,275.962,North,6.0,5.0,1.0,2.0,3.0,13.0,Semi Furnished,2.5
+54,47500000,Nakkhipot,211.265,East,5.0,3.0,2.0,2.0,3.0,20.0,Full Furnished,2.5
+55,30000000,Sanobharyang,126.759,North-East,4.0,3.0,3.0,4.0,3.0,20.0,Semi Furnished,3.5
+56,33000000,Sanobharyang,383.439,North-East,5.0,3.0,3.0,2.0,4.0,22.0,Semi Furnished,2.5
+57,17500000,Taukhel,126.759,North-East,2.0,2.0,1.0,1.0,3.0,10.0,Semi Furnished,1.0
+58,28500000,Padma Colony,383.439,South-West,5.0,3.0,1.0,2.0,3.0,13.0,Semi Furnished,2.5
+59,39000000,Dholahiti Lalitpur,211.792,North,5.0,3.0,2.0,2.0,4.0,13.0,Full Furnished,2.5
+60,80000000,Budhanilkantha,338.024,South-West,5.0,5.0,2.0,2.0,3.0,13.0,Semi Furnished,2.5
+61,32500000,Budhanilkantha,297.879,South-East,6.0,4.0,2.0,2.0,3.0,20.0,Semi Furnished,2.5
+62,33000000,Bafal,211.792,South-East,5.0,3.0,2.0,2.0,3.0,13.0,Semi Furnished,2.5
+63,32000000,Bhangal,169.539,South-West,6.0,4.0,2.0,2.0,3.0,13.0,Semi Furnished,2.5
+64,35000000,Tikathali,169.012,South,6.0,4.0,3.0,3.0,3.0,20.0,Semi Furnished,3.0
+65,36500000,Jala binayak colony,425.16499999999996,South,5.0,3.0,1.0,2.0,3.0,20.0,Full Furnished,2.5
+66,35000000,Jala binayak colony,382.385,South,5.0,3.0,1.0,2.0,3.0,20.0,Full Furnished,2.5
+67,25000000,Pragati Colony,297.879,West,5.0,4.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+68,57500000,Bhaisepati,253.518,East,4.0,3.0,1.0,2.0,4.0,13.0,Full Furnished,2.0
+69,28500000,Tikathali,126.759,East,5.0,4.0,2.0,4.0,4.0,13.0,Full Furnished,3.5
+70,35000000,Bhaisepati,148.149,East,4.0,4.0,1.0,2.0,4.0,20.0,Full Furnished,2.5
+71,38000000,Tinthana,360.995,South,6.0,5.0,3.0,3.0,3.0,12.0,Semi Furnished,3.0
+72,38000000,Kalanki,169.012,South-West,6.0,3.0,2.0,2.0,3.0,13.0,Semi Furnished,2.5
+74,18500000,Satungal,255.09900000000002,South-East,3.0,2.0,1.0,2.0,3.0,31.0,Semi Furnished,2.5
+75,38000000,Sitapaila,467.945,South-West,8.0,3.0,0.0,4.0,4.0,16.0,Semi Furnished,4.0
+76,70000000,Raniban,339.078,North-West,7.0,5.0,2.0,2.0,5.0,20.0,Semi Furnished,2.5
+77,80000000,Khadka Gau,507.036,North-East,6.0,6.0,2.0,2.0,7.0,14.0,Semi Furnished,2.5
+78,37500000,Imadol,297.879,South,5.0,4.0,2.0,4.0,4.0,13.0,Full Furnished,3.5
+79,52000000,Imadol,339.605,South,7.0,8.0,2.0,4.0,5.0,13.0,Full Furnished,3.5
+80,54000000,Imadol,211.265,East,7.0,7.0,2.0,3.0,4.0,20.0,Full Furnished,3.0
+81,42000000,Cozy home,340.659,East,4.0,4.0,1.0,3.0,4.0,13.0,Full Furnished,3.0
+82,42000000,Cozy Home,126.759,West,4.0,4.0,1.0,3.0,4.0,13.0,Full Furnished,3.0
+83,39000000,Dhapakhel ,340.132,East,6.0,5.0,2.0,3.0,4.0,20.0,Semi Furnished,3.0
+84,52500000,Hattiban Housing,425.692,North-East,4.0,3.0,1.0,2.0,4.0,26.0,Full Furnished,2.5
+85,70000000,Dhumbarahi,253.518,South,6.0,3.0,2.0,4.0,4.0,13.0,Full Furnished,4.0
+86,77500000,Dholahiti Lalitpur,508.09,North-East,5.0,4.0,1.0,2.0,5.0,13.0,Semi Furnished,2.5
+87,65000000,Green Hill City,382.385,South,5.0,5.0,3.0,3.0,4.0,20.0,Full Furnished,3.0
+88,23500000,Naya Basti,148.149,South,5.0,3.0,2.0,3.0,2.0,11.0,Semi Furnished,3.0
+89,70000000,Dreamz Homez Colony,467.945,North-East,4.0,4.0,2.0,2.0,3.0,16.0,Semi Furnished,2.5
+90,22000000,Bajradham Colony,383.439,East,6.0,6.0,2.0,3.0,3.0,13.0,Semi Furnished,3.0
+91,62500000,Hepali Heights,253.518,South,4.0,4.0,1.0,3.0,3.0,16.0,Semi Furnished,3.0
+92,59000000,Dhapakhel Height,658.8739999999999,South,6.0,7.0,2.0,3.0,5.0,20.0,Full Furnished,3.0
+93,80000000,Basundhara,338.024,East,8.0,4.0,2.0,3.0,6.0,26.0,Semi Furnished,3.0
+95,33000000,Balkot,255.09900000000002,East,6.0,5.0,2.0,3.0,3.0,13.0,Full Furnished,3.0
+96,80000000,Hepali Height,402.194,East,9.0,7.0,2.0,4.0,5.0,13.0,Semi Furnished,3.5
+97,29800000,Imadol,169.012,West,5.0,3.0,2.0,2.0,6.0,13.0,Semi Furnished,2.5
+98,34500000,Near Down Town Residency,297.879,North,5.0,4.0,2.0,3.0,3.0,16.0,Semi Furnished,3.0
+99,27500000,Samakhushi,105.6325,East,4.0,4.0,3.0,4.0,3.0,16.0,Semi Furnished,4.0
+100,30000000,Duwakot ,202.5943,South,4.0,3.0,1.0,2.0,1.0,13.0,Semi Furnished,2.5
+101,37500000,Imadol,254.572,West,7.0,5.0,2.0,4.0,4.0,20.0,Semi Furnished,3.5
+102,45000000,Bhaisepati,340.132,West,4.0,3.0,2.0,2.0,4.0,13.0,Full Furnished,2.5
+103,41000000,Binayak Colony,169.012,North,4.0,3.0,2.0,2.0,3.0,16.0,Full Furnished,2.5
+104,28000000,Sudarsan Height,297.879,South-West,5.0,4.0,2.0,2.0,3.0,14.0,Semi Furnished,2.5
+105,40000000,Chakku Mandir House,126.759,North,4.0,4.0,1.0,2.0,4.0,12.0,Full Furnished,2.5
+106,35500000,Manmohan hospital,169.012,South,5.0,3.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+107,65000000,Syuchatar,380.277,South-West,6.0,5.0,2.0,4.0,5.0,13.0,Full Furnished,3.5
+108,21000000,Shital height,126.759,North-West,6.0,5.0,2.0,2.0,3.0,15.0,Full Furnished,2.5
+109,50000000,Bhaisepati,296.825,East,4.0,3.0,2.0,2.0,4.0,13.0,Full Furnished,2.5
+110,42500000,Shital height,275.962,North,6.0,5.0,2.0,4.0,4.0,16.0,Full Furnished,3.5
+111,32500000,Paiyutar,426.21900000000005,South-East,6.0,4.0,2.0,2.0,3.0,14.0,Semi Furnished,2.5
+112,21000000,Lubhu,212.31900000000002,East,5.0,4.0,2.0,2.0,3.0,13.0,Semi Furnished,2.5
+113,92500000,Bakhundol,338.024,North,4.0,3.0,2.0,3.0,3.0,13.0,Semi Furnished,3.0
+114,12500000,Sudal,255.626,North,4.0,2.0,0.0,1.0,1.0,6.0,Semi Furnished,1.0
+115,27500000,Setipakha,212.31900000000002,South-West,5.0,4.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+116,67500000,Budhanilkantha,549.289,East,5.0,4.0,2.0,2.0,5.0,13.0,Semi Furnished,2.5
+117,130000000,Pasikot,760.554,North,4.0,4.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+119,170000000,Near Talim Kendra,802.807,North,3.0,3.0,1.0,2.0,10.0,16.0,Semi Furnished,2.5
+120,26500000,Shital Height,341.18600000000004,South,5.0,4.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+121,31000000,Budhanilkantha,340.132,North,6.0,6.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+122,27000000,Sanagaun,212.31900000000002,South,5.0,4.0,1.0,4.0,4.0,13.0,Full Furnished,3.5
+123,29000000,Ochu Height,255.09900000000002,East,6.0,5.0,2.0,2.0,4.0,13.0,Full Furnished,2.5
+124,135000000,Hattigauda,5476.0,East,5.0,8.0,2.0,2.0,7.0,13.0,Full Furnished,2.5
+125,55000000,Bhaisepati,211.265,South,6.0,4.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+126,39500000,Bhangal,297.352,South-West,6.0,3.0,2.0,3.0,3.0,13.0,Full Furnished,3.0
+127,33500000,ochu height,276.48900000000003,East,6.0,5.0,2.0,4.0,1.0,13.0,Full Furnished,3.5
+128,23500000,Nepal ,135.2096,East,3.0,3.0,3.0,3.0,2.0,13.0,Unfurnished,3.0
+130,38000000,Government Planning,169.012,East,4.0,4.0,1.0,2.0,1.0,13.0,Semi Furnished,2.5
+131,115000000,Sukedhara,507.036,East,5.0,4.0,2.0,2.0,7.0,14.0,Semi Furnished,2.5
+132,26900000,Nakkhu,297.879,North,5.0,5.0,2.0,2.0,4.0,16.0,Semi Furnished,2.5
+133,26000000,Dhalmal,255.626,South,6.0,5.0,2.0,3.0,2.0,13.0,Semi Furnished,3.0
+134,23000000,Tikathali,169.539,East,6.0,4.0,1.0,2.0,4.0,13.0,Semi Furnished,2.5
+135,38500000,Ochu Height,383.439,West,6.0,4.0,1.0,2.0,4.0,13.0,Full Furnished,2.5
+136,55000000,Imadol,211.265,West,5.0,4.0,2.0,4.0,3.0,13.0,Full Furnished,3.5
+137,35000000,Setipakha,297.879,South-East,7.0,6.0,2.0,4.0,4.0,13.0,Full Furnished,3.5
+138,24500000,Shital height,126.759,East,4.0,3.0,2.0,2.0,3.0,13.0,Semi Furnished,2.5
+139,75000000,Mantri Marga,295.771,South-East,5.0,6.0,2.0,2.0,6.0,13.0,Semi Furnished,2.5
+140,55000000,Bhaisepati,211.265,South,5.0,6.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+141,42500000,Shital height,275.962,North,6.0,5.0,1.0,4.0,4.0,13.0,Full Furnished,3.5
+142,45000000,Near Ganesh chowk,425.692,East,5.0,5.0,1.0,2.0,4.0,20.0,Semi Furnished,2.5
+143,28000000,Tikathali,169.539,East,6.0,4.0,1.0,2.0,4.0,13.0,Full Furnished,2.5
+144,36500000,Bhaisepati,169.012,North,4.0,5.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+145,33000000,Near Ganesh chowk,169.539,West,6.0,4.0,1.0,2.0,4.0,14.0,Full Furnished,2.5
+146,49500000,Imadol,425.692,West,6.0,3.0,1.0,4.0,6.0,13.0,Semi Furnished,3.5
+147,29500000,Imadol,297.879,South,6.0,5.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+148,42000000,Bafal,211.265,South-East,4.0,4.0,1.0,3.0,3.0,11.0,Semi Furnished,3.0
+149,24000000,Kritipur,319.269,West,7.0,4.0,1.0,4.0,4.0,13.0,Full Furnished,4.0
+152,57500000,Hattigauda,339.078,West,5.0,4.0,2.0,3.0,4.0,20.0,Semi Furnished,3.0
+153,57500000,Hattigauda,339.078,West,5.0,4.0,1.0,3.0,4.0,20.0,Semi Furnished,3.0
+154,47000000,Italitar,211.265,South,4.0,6.0,2.0,3.0,3.0,13.0,Semi Furnished,3.0
+155,75000000,Budhanilkantha,380.277,South,5.0,5.0,1.0,3.0,3.0,13.0,Semi Furnished,3.0
+156,25000000,Near Grande Hospital,1955.29,North-East,4.0,4.0,2.0,2.0,1.0,13.0,Semi Furnished,2.5
+158,48500000,Dholahiti,211.265,North,5.0,6.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+159,35000000,Sitapaila,297.879,South-East,5.0,5.0,1.0,2.0,3.0,22.0,Semi Furnished,2.5
+160,52500000,Khadka gaun,424.63800000000003,South,6.0,3.0,2.0,3.0,3.0,13.0,Semi Furnished,3.0
+165,67000000,Pasikot,296.825,East,7.0,5.0,2.0,3.0,5.0,20.0,Full Furnished,3.0
+166,52500000,Budhanilkantha,318.742,East,4.0,6.0,1.0,3.0,3.0,20.0,Semi Furnished,3.0
+168,60000000,Budhanilkantha,338.024,North-West,7.0,5.0,2.0,5.0,5.0,22.0,Semi Furnished,5.0
+169,39500000,Shital height,340.132,West,7.0,6.0,2.0,3.0,5.0,13.0,Full Furnished,3.0
+170,24000000,Near to CG Lakeview Housing,212.31900000000002,East,5.0,3.0,2.0,3.0,4.0,16.0,Semi Furnished,3.0
+171,43500000,Near LRI School,253.518,North,10.0,6.0,4.0,5.0,7.0,16.0,Semi Furnished,5.0
+172,38000000,Swoyambhu,340.132,North-East,6.0,3.0,2.0,4.0,5.0,13.0,Semi Furnished,4.0
+173,70000000,Sitapaila,658.8739999999999,North-West,6.0,4.0,2.0,4.0,7.0,13.0,Semi Furnished,4.0
+174,9500000,Itumbahal,676.048,South,2.0,2.0,1.0,1.0,10.0,16.0,Semi Furnished,1.0
+175,31000000,Simchaphat,233.709,South-West,5.0,4.0,2.0,4.0,5.0,12.0,Semi Furnished,4.0
+176,33000000,Mahalaxmisthan,126.759,South-East,6.0,3.0,1.0,3.0,6.0,11.0,Semi Furnished,3.0
+177,14000000,Near LRI School,212.31900000000002,East,4.0,3.0,2.0,3.0,1.0,4.0,Semi Furnished,3.0
+178,26000000,Dhapakhel,126.759,East,3.0,3.0,1.0,2.0,4.0,20.0,Semi Furnished,2.5
+179,27500000,100 meters from Civil Home,169.012,North,7.0,3.0,3.0,3.0,4.0,13.0,Semi Furnished,3.0
+180,38000000,Namgyal Chowk,297.879,North-East,8.0,4.0,3.0,3.0,4.0,13.0,Full Furnished,3.0
+181,19000000,Thankot,126.759,East,6.0,3.0,1.0,3.0,4.0,14.0,Semi Furnished,3.0
+182,19500000,Naikap,169.012,East,6.0,3.0,1.0,3.0,4.0,12.0,Semi Furnished,3.0
+183,26500000,Pasikot,126.759,North-East,5.0,4.0,1.0,3.0,4.0,13.0,Semi Furnished,3.0
+184,95500000,Sanepa,593.65,North,5.0,4.0,1.0,3.0,7.0,10.0,Semi Furnished,3.0
+185,32500000,tempo park,126.759,East,6.0,5.0,2.0,2.0,1.0,13.0,Semi Furnished,2.5
+186,20000000,Kathmandu ,297.879,North,6.0,2.0,1.0,2.0,2.0,8.0,Unfurnished,2.5
+188,24000000,Sanagaun,126.759,East,6.0,4.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+189,24500000,Tikathali,212.31900000000002,West,5.0,3.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+190,27500000,Sanagaun,297.879,South-East,6.0,4.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+191,27000000,Tikathali,126.759,North,5.0,4.0,1.0,3.0,4.0,13.0,Semi Furnished,3.0
+192,27500000,Tikathali,297.879,South,5.0,4.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+193,27000000,Tikathali,297.879,North,5.0,4.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+196,32000000,1 km from deuba chowk,211.265,West,4.0,3.0,1.0,2.0,4.0,13.0,Semi Furnished,2.5
+197,33000000,Sundar basti,383.439,South,4.0,4.0,2.0,3.0,5.0,13.0,Semi Furnished,3.0
+198,85000000,Bhaisepati,253.518,South-East,5.0,4.0,1.0,3.0,4.0,13.0,Full Furnished,3.0
+199,42500000,Shital Height,254.572,North-West,7.0,6.0,2.0,4.0,4.0,16.0,Semi Furnished,4.0
+200,55000000,Pasikot,253.518,South-East,8.0,5.0,3.0,3.0,4.0,13.0,Semi Furnished,3.0
+201,35000000,Imadol Tempo Park,212.31900000000002,North,6.0,4.0,2.0,3.0,5.0,13.0,Semi Furnished,3.0
+202,29500000,Halchowk,126.759,West,6.0,5.0,2.0,6.0,4.0,13.0,Semi Furnished,6.0
+203,60000000,Ishan Colony,423.584,South-East,5.0,3.0,1.0,3.0,5.0,16.0,Semi Furnished,3.0
+204,110000000,Sanepa Chowk,464.783,South,7.0,5.0,1.0,4.0,8.0,10.0,Semi Furnished,4.0
+205,22500000,Hattiban,319.796,South,5.0,2.0,1.0,3.0,4.0,12.0,Semi Furnished,3.0
+207,33000000,near Bhatbhateni,212.31900000000002,South,6.0,4.0,2.0,4.0,4.0,26.0,Semi Furnished,4.0
+208,44500000,Mahalaxmi,169.012,North-West,6.0,6.0,2.0,4.0,4.0,26.0,Semi Furnished,4.0
+209,70000000,Sunrise Height,509.144,South,6.0,5.0,2.0,4.0,4.0,13.0,Full Furnished,4.0
+210,28000000, 700 meter away from main sitapaila chowk,362.04900000000004,South-West,4.0,3.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+211,17500000,Kalanki,341.18600000000004,South,5.0,3.0,2.0,3.0,4.0,13.0,Semi Furnished,3.0
+212,29000000,Near LRI,297.879,South-East,7.0,5.0,3.0,4.0,4.0,15.0,Semi Furnished,4.0
+217,70000000,Dhumbarahi,253.518,South,9.0,8.0,4.0,4.0,4.0,13.0,Full Furnished,4.0
+218,48000000,Deuba chowk,295.771,South-East,3.0,3.0,1.0,3.0,1.0,13.0,Semi Furnished,3.0
+220,31500000,Ochu Height,212.31900000000002,East,5.0,4.0,2.0,4.0,1.0,13.0,Full Furnished,4.0
+221,32500000,Rajkulo,297.879,West,5.0,4.0,2.0,3.0,1.0,13.0,Semi Furnished,3.0
+222,29000000,Rajkulo,212.31900000000002,South,6.0,5.0,2.0,4.0,1.0,13.0,Semi Furnished,4.0
+223,46000000,Rumba Chwok,169.012,North-East,6.0,6.0,2.0,4.0,3.0,20.0,Semi Furnished,3.5
+224,32500000,Rajkulo,212.31900000000002,West,5.0,4.0,2.0,4.0,3.0,13.0,Full Furnished,4.0
+225,32500000,Yellow Gumba,169.012,South-East,5.0,6.0,2.0,2.0,3.0,16.0,Full Furnished,2.5
+228,31000000,Manjurshree tole,426.21900000000005,West,3.0,4.0,2.0,3.0,1.0,13.0,Semi Furnished,3.0
+229,43000000,Bhaisepati near Mediciti Hospital,211.265,South,6.0,5.0,2.0,3.0,1.0,13.0,Semi Furnished,3.0
+230,35000000,Bhaisepati near Mediciti hospital,383.439,South,4.0,4.0,1.0,3.0,1.0,12.0,Semi Furnished,3.0
+231,26000000,700 meter from Medicity hospital,126.759,East,4.0,4.0,1.0,3.0,1.0,14.0,Semi Furnished,3.0
+232,55000000,Shital Height,211.265,South,7.0,6.0,2.0,4.0,2.0,13.0,Full Furnished,3.5
+233,25000000,Radha krishna mandir,126.759,South-East,4.0,4.0,2.0,2.0,3.0,13.0,Unfurnished,2.5
+234,30000000, Green Hill Academy and Milandhamsthali,211.265,South-East,5.0,5.0,2.0,2.0,4.0,13.0,Full Furnished,2.5
+235,42500000,Ochu Height,169.012,East,5.0,4.0,3.0,2.0,4.0,13.0,Semi Furnished,2.5
+236,33500000,Nayabasti,256.68,North-West,5.0,6.0,2.0,3.0,3.0,20.0,Semi Furnished,3.0
+238,28000000,Tej Binayak chwok,256.68,West,7.0,5.0,2.0,2.0,4.0,20.0,Semi Furnished,2.5
+239,28000000,Gothatar,256.68,West,5.0,4.0,2.0,2.0,4.0,20.0,Semi Furnished,2.5
+240,32500000,Gandhichowk,64.17,West,5.0,5.0,3.0,4.0,3.0,14.0,Full Furnished,3.5
+242,67000000,Balkumari,382.385,South,4.0,4.0,2.0,3.0,1.0,13.0,Full Furnished,3.0
+243,64000000,Near Triton college,339.605,South,4.0,4.0,2.0,3.0,1.0,13.0,Full Furnished,3.0
+244,37500000,Shanti Chowk,256.68,North-East,6.0,6.0,2.0,4.0,4.0,20.0,Full Furnished,3.5
+245,87500000,Near Triton college,422.53,North-East,5.0,4.0,2.0,3.0,3.0,13.0,Full Furnished,3.0
+246,60000000,kalanki,338.024,North-East,7.0,4.0,1.0,2.0,4.0,13.0,Semi Furnished,2.5
+247,45000000,pasikot,169.012,East,6.0,2.0,2.0,2.0,2.0,13.0,Semi Furnished,2.5
+248,47500000,Sano bharyang Colony,177.4626,South-East,4.0,4.0,1.0,2.0,3.0,20.0,Semi Furnished,2.5
+249,24500000,2.5 km from kalanki,169.012,East,8.0,5.0,3.0,3.0,2.0,13.0,Semi Furnished,3.0
+250,100000000,Sano bharyang Colony,549.289,South-West,5.0,5.0,1.0,3.0,10.0,20.0,Semi Furnished,3.0
+251,95000000,Sitapaila,549.289,South,5.0,3.0,1.0,2.0,10.0,20.0,Full Furnished,2.5
+252,46500000,Sanagaun,211.265,West,4.0,5.0,2.0,3.0,1.0,20.0,Full Furnished,3.0
+253,49500000,Sanagaun,211.265,West,5.0,5.0,2.0,3.0,1.0,13.0,Full Furnished,3.0
+254,46500000,Sanagau,425.692,East,5.0,6.0,2.0,3.0,1.0,13.0,Semi Furnished,3.0
+255,37500000,Ochu Height,254.572,South,4.0,5.0,2.0,3.0,1.0,13.0,Full Furnished,3.0
+256,33500000,Ochu height,212.31900000000002,South,5.0,5.0,2.0,3.0,1.0,13.0,Full Furnished,3.0
+259,57000000,Shital height,211.265,West,6.0,7.0,1.0,3.0,1.0,13.0,Full Furnished,3.0
+261,33500000,Shital height,212.31900000000002,North,5.0,6.0,2.0,3.0,1.0,13.0,Full Furnished,3.0
+262,41500000,Ochu Height,190.402,South,6.0,5.0,2.0,4.0,2.0,13.0,Full Furnished,3.5
+263,33000000,ochu height,233.709,South,5.0,5.0,2.0,2.0,2.0,13.0,Full Furnished,2.5
+264,33500000,Shital height,212.31900000000002,North,5.0,5.0,3.0,3.0,1.0,13.0,Full Furnished,3.0
+265,42500000,Shital Height,383.439,South-East,6.0,7.0,4.0,3.0,1.0,13.0,Full Furnished,3.0
+266,45000000,Shital Height,169.012,South-West,6.0,5.0,2.0,3.0,1.0,13.0,Semi Furnished,3.0
+267,14000000,Thali,255.09900000000002,North-West,2.0,1.0,1.0,1.0,1.0,13.0,Semi Furnished,1.0
+268,33500000,Balaju height,340.132,East,7.0,4.0,1.0,2.0,1.0,13.0,Semi Furnished,2.5
+269,29500000,Balaju dhalmal chowk,383.439,West,5.0,4.0,1.0,2.0,1.0,13.0,Semi Furnished,2.5
+275,38000000,mandikatar faat,382.385,East,5.0,5.0,1.0,2.0,2.0,13.0,Semi Furnished,2.5
+278,21500000,Chandragiri,126.759,East,5.0,3.0,2.0,2.0,4.0,13.0,Semi Furnished,2.5
+279,23500000,kalanki,126.759,East,6.0,3.0,1.0,2.0,3.0,13.0,Semi Furnished,2.5
+280,28000000,Nakhipot,169.012,West,4.0,3.0,1.0,4.0,1.0,13.0,Semi Furnished,3.5
+281,29500000,Nakhipot,169.012,West,4.0,3.0,1.0,4.0,1.0,13.0,Full Furnished,3.5
+283,120000000,Ganesh Chowk,718.301,South,5.0,5.0,2.0,3.0,2.0,13.0,Semi Furnished,3.0
+1,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+4,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+5,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+6,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+8,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+10,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+13,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+14,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+15,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+17,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+19,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+22,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+23,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+24,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+26,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+28,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+31,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+32,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+33,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+35,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+37,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+40,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+41,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+42,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+44,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+46,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+49,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+50,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+51,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+53,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+55,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+58,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+59,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+60,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+62,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+64,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+67,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+68,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+69,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+71,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+73,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+76,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+77,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+78,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+80,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+82,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+85,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+86,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+87,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+89,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+91,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+94,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+95,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+96,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+98,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+100,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+103,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+104,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+105,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+107,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+109,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+112,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+113,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+114,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+116,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+118,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+121,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+122,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+123,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+125,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+127,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+130,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+131,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+132,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+134,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+136,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+139,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+140,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+141,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+143,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+145,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+148,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+149,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+150,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+152,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+154,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+157,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+158,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+159,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+161,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+163,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+166,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+167,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+168,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+170,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+172,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+175,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+176,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+177,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+179,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+181,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+184,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+185,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+186,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+188,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+190,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+193,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+194,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+195,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+197,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+199,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+202,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+203,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+204,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+206,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+208,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+211,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+212,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+213,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+215,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+217,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+220,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+221,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+222,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+224,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+226,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+229,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+230,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+231,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+233,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+235,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+238,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+239,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+240,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+242,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+244,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+247,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+248,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+249,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+251,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+253,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+256,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+257,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+258,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+260,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+262,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+265,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+266,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+267,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+269,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+271,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+274,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+275,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+276,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+278,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+280,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+283,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+284,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+285,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+287,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+289,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+292,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+293,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+294,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+296,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+298,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+301,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+302,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+303,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+305,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+307,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+310,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+311,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+312,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+314,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+316,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+319,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+320,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+321,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+323,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+325,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+328,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+329,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+330,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+332,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+334,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+337,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+338,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+339,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+341,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+343,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+346,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+347,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+348,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+350,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+352,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+355,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+356,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+357,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+359,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+361,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+364,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+365,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+366,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+368,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+370,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+373,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+374,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+375,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+377,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+379,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+382,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+383,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+384,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+386,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+388,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+391,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+392,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+393,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+395,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+397,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+400,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+401,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+402,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+404,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+406,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+409,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+410,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+411,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+413,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+415,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+418,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+419,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+420,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+422,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+424,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+427,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+428,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+429,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+431,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+433,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+436,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+437,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+438,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+440,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+442,45000000,Buddhanilkantha,2930.0,SOUTH-WEST,5.0,4.0,3.0,1.0,223,13.0,,
+445,63500000,Buddhanilkantha,3215.0,EAST-NORTH,6.0,5.0,3.0,1.0,225,13.0,,
+446,55000000,Budhanilkantha,2755.0,SOUTH-WEST,5.0,5.0,2.0,1.0,222,20.0,,
+447,79000000,Hattigauda,3155.0,SOUTH-WEST,5.0,6.0,3.0,1.0,334,13.0,,
+449,39500000,Budhanilkantha,1.0,SOUTH-WEST,5.0,5.0,2.0,1.0,113,18.0,,
+1,25000000,Imadol,256.68,South,7.0,4.0,2.0,2.0,8,13.0,,3.0
+4,38000000,Imadol,169.012,East,7.0,5.0,2.0,2.0,16,13.0,,3.5
+5,32000000,Imadol,126.759,East,5.0,4.0,2.0,2.0,13,13.0,,3.0
+6,115000000,Sinamangal,422.53,West,4.0,3.0,2.0,1.0,10,20.0,,2.0
+7,40000000,Harisiddhi,295.771,East,6.0,4.0,2.0,2.0,14,13.0,,2.5
+8,32500000,Safaray,169.012,South,8.0,4.0,2.0,2.0,10,13.0,,2.5
+9,28000000,Bhaisepati,169.012,South,6.0,3.0,2.0,2.0,13,16.0,,2.5
+10,22000000,Bhaisepati,105.6325,North,6.0,4.0,1.0,2.0,13,16.0,,3.5
+11,32500000,Bhaisepati,295.771,West,6.0,4.0,1.0,2.0,13,13.0,,2.0
+13,27000000,Bhaisepati,169.012,West,6.0,3.0,2.0,2.0,13,14.0,,2.5
+14,38000000,Bhaisepati,190.1385,North,6.0,3.0,2.0,2.0,13,13.0,,2.5
+17,32000000,Imadol,147.8855,East,7.0,4.0,2.0,2.0,7,13.0,,3.0
+18,115000000,Kathmandu,63.3795,East,2.0,5.0,0.0,0.0,12,26.0,,6.0
+19,52500000,Bhaisepati,232.3915,East,6.0,5.0,2.0,2.0,15,16.0,,2.5
+21,0,Bhaisepati,295.771,South,5.0,6.0,2.0,2.0,15,20.0,,2.5
+22,39000000,Bhaisepati,169.012,South,6.0,5.0,2.0,1.0,14,20.0,,3.5
+23,50000000,Bhhangal,232.3915,North,4.0,4.0,2.0,3.0,10,13.0,,3.5
+24,50000000,Bhungal,232.3915,North,3.0,3.0,1.0,2.0,7,13.0,,2.5
+25,53500000,Near,6.6,East,6.0,6.0,2.0,2.0,6,20.0,,3.5
+27,39500000,Buddhanilkanth,342.24,West,4.0,4.0,1.0,1.0,7,13.0,,2.5
+28,30000000,Lubhu,190.1385,South,4.0,4.0,2.0,2.0,6,20.0,,3.0
+29,47500000,Pasikot,211.265,East,4.0,2.0,1.0,2.0,9,20.0,,2.5
+30,39000000,Imadol,126.759,North,7.0,5.0,1.0,2.0,15,16.0,,3.5
+31,32500000,Bhaisepati,126.759,East,4.0,3.0,1.0,1.0,9,20.0,,2.5
+32,32500000,Sanagau,169.012,South,7.0,4.0,2.0,2.0,15,13.0,,3.0
+33,63000000,Shital,253.518,South,5.0,4.0,1.0,2.0,12,13.0,,3.5
+34,53500000,Shital,190.1385,South,6.0,4.0,1.0,1.0,12,13.0,,3.5
+35,39500000,Shital,169.012,South,5.0,3.0,2.0,2.0,12,13.0,,3.5
+36,41000000,Shital,126.759,East,7.0,5.0,2.0,2.0,16,13.0,,3.0
+37,42000000,Shital,169.012,South,7.0,5.0,2.0,2.0,16,13.0,,3.5
+38,42500000,Shital,169.012,South,7.0,5.0,2.0,2.0,16,13.0,,3.5
+39,28000000,Shital,126.759,West,5.0,4.0,2.0,2.0,13,13.0,,3.5
+40,30000000,Shital,169.012,East,5.0,4.0,2.0,2.0,13,13.0,,2.5
+41,36500000,Bhaisepati,169.012,North,4.0,5.0,2.0,2.0,13,13.0,,2.5
+42,50000000,Swayambhu,211.265,North,6.0,4.0,2.0,2.0,14,13.0,,3.0
+44,31000000,Imadol,126.759,West,8.0,4.0,2.0,2.0,8,20.0,,3.0
+45,17500000,Gothatar,126.759,South,4.0,3.0,1.0,1.0,9,12.0,,1.5
+46,41000000,Bhaisepati,169.012,North,4.0,3.0,2.0,2.0,11,16.0,,2.5
+47,33500000,Imadol,126.759,South,8.0,4.0,2.0,2.0,16,13.0,,3.5
+49,20000000,Gokarna,147.8855,East,6.0,3.0,2.0,1.0,9,13.0,,2.5
+52,23000000,Imadol,105.6325,North,5.0,3.0,2.0,2.0,12,13.0,,3.0
+53,19000000,Pepsicola,169.012,North,3.0,2.0,1.0,1.0,6,4.0,,2.0
+54,37000000,Manamaiju,169.012,South,5.0,3.0,2.0,3.0,16,13.0,,3.5
+55,28500000,Jorpati,126.759,West,10.0,3.0,4.0,4.0,12,10.0,,2.5
+58,39000000,Nakhipot,342.24,North,6.0,2.0,2.0,2.0,7,13.0,,2.5
+60,26500000,Tikathali,0.0,South,6.0,3.0,2.0,2.0,7,13.0,,2.5
+61,31500000,Tikathali,256.68,South,6.0,4.0,2.0,2.0,9,13.0,,2.5
+62,40000000,Nilopul,169.012,South,2.0,2.0,2.0,3.0,10,13.0,,2.5
+63,35000000,chovar,427.8,South,5.0,5.0,2.0,2.0,7,20.0,,2.5
+64,28000000,ekata,3.45,North,3.0,5.0,3.0,3.0,12,13.0,,3.5
+65,26000000,Sanagaun,126.759,North,6.0,2.0,2.0,2.0,8,13.0,,2.5
+67,35000000,Tikathali,169.012,West,6.0,4.0,3.0,3.0,10,20.0,,3.0
+68,29500000,Dhapakhel,126.759,South,4.0,5.0,2.0,2.0,8,10.0,,4.0
+70,28000000,manmaiju,3.5,South,5.0,4.0,2.0,2.0,5,13.0,,2.5
+74,41000000,Bhaisepati,169.012,North,4.0,3.0,2.0,2.0,11,16.0,,2.5
+75,28500000,Tikathali,126.759,East,5.0,4.0,2.0,2.0,13,13.0,,3.5
+76,57500000,Bhaisepati,253.518,East,4.0,3.0,1.0,1.0,9,13.0,,2.0
+77,26500000,Gothatar,126.759,North,6.0,4.0,2.0,2.0,14,13.0,,2.5
+78,33000000,Balkot,126.759,East,6.0,5.0,2.0,2.0,15,13.0,,3.0
+79,42000000,Imadol,169.012,South,6.0,5.0,2.0,2.0,15,13.0,,3.0
+80,42500000,tauk,14.0,East,0.0,0.0,0.0,0.0,16,0.0,,3.5
+82,32500000,Pepsicola,147.8855,West,8.0,6.0,2.0,2.0,18,13.0,,3.5
+83,60000000,Kalanki,253.518,East,4.0,4.0,2.0,2.0,9,10.0,,2.5
+84,41000000,Bhaisepati,169.012,North,4.0,3.0,2.0,2.0,11,16.0,,2.5
+85,45000000,Bhaisepati,190.1385,West,4.0,3.0,2.0,2.0,11,13.0,,2.5
+86,50000000,Bhaisepati,211.265,East,4.0,3.0,2.0,2.0,11,13.0,,2.5
+87,21000000,Imadol,126.759,North,6.0,5.0,2.0,2.0,15,15.0,,2.5
+88,17500000,Lamatar,147.8855,South,3.0,2.0,1.0,1.0,5,20.0,,2.5
+89,33500000,Pepsicola,147.8855,East,6.0,5.0,2.0,2.0,15,22.0,,3.5
+91,0,Bhaisepati,211.265,South,6.0,4.0,2.0,2.0,14,13.0,,3.0
+92,75000000,Bhaisepati,295.771,South,5.0,6.0,2.0,2.0,15,13.0,,2.5
+93,40000000,Ganesh,190.1385,East,5.0,4.0,2.0,2.0,13,16.0,,3.0
+94,57500000,Sital,211.265,East,7.0,6.0,2.0,2.0,17,26.0,,3.5
+95,37500000,Imadol,169.012,West,7.0,5.0,2.0,2.0,16,13.0,,3.5
+96,33500000,Imadol,126.759,South,8.0,4.0,2.0,2.0,16,13.0,,3.5
+97,0,Pasikot,253.518,South,6.0,5.0,2.0,2.0,15,20.0,,2.5
+98,0,Hattigauda,257.7433,West,5.0,6.0,2.0,2.0,15,20.0,,2.5
+99,24500000,Sitalheight,126.759,East,4.0,3.0,2.0,2.0,11,13.0,,2.5
+100,27000000,Imadol,126.759,North,5.0,5.0,2.0,2.0,14,13.0,,3.0
+101,26500000,Tikathali,126.759,West,7.0,5.0,2.0,2.0,16,13.0,,3.0
+102,31000000,Tikathali,126.759,South,7.0,4.0,2.0,2.0,15,13.0,,3.0
+103,26500000,Tikathali,126.759,South,8.0,6.0,2.0,2.0,18,13.0,,3.5
+104,25000000,Imadol,126.759,North,6.0,4.0,2.0,2.0,14,13.0,,3.5
+105,15500000,Siddhipur,126.759,North,2.0,1.0,1.0,1.0,5,13.0,,1.5
+106,33500000,Imadol,126.759,North,6.0,3.0,2.0,2.0,13,13.0,,2.5
+108,30000000,Imadol,147.8855,East,8.0,4.0,3.0,3.0,15,13.0,,3.5
+110,49000000,Chorepatan,253.518,North,5.0,4.0,2.0,2.0,11,16.0,,2.5
+111,18500000,bala,126.759,South,7.0,6.0,3.0,3.0,13,8.0,,3.5
+112,43500000,Harisiddhi,7.0,West,6.0,5.0,1.0,1.0,8,13.0,,2.5
+113,24500000,Imadol,126.759,North,8.0,6.0,2.0,2.0,8,16.0,,3.0
+114,20000000,Main,147.8855,South,2.0,4.0,2.0,2.0,7,26.0,,2.5
+116,42000000,Imadol,147.8855,West,5.0,4.0,2.0,2.0,13,13.0,,3.5
+117,30000000,Imadol,126.759,West,6.0,5.0,2.0,2.0,15,13.0,,3.0
+118,22000000,Lubhu,126.759,East,5.0,4.0,2.0,2.0,13,16.0,,2.5
+121,37000000,Hattigauda,169.012,West,4.0,3.0,1.0,1.0,9,13.0,,3.0
+122,0,Hattigauda,87616.0,East,5.0,8.0,2.0,1.0,16,13.0,,2.5
+123,29000000,Imadol,126.759,East,6.0,5.0,2.0,2.0,15,16.0,,2.5
+124,66000000,Koteshwor,360.995,East,12.0,6.0,12.0,6.0,33,20.0,,5.0
+126,60000000,Thimi,253.518,North,5.0,4.0,1.0,1.0,11,20.0,,3.0
+127,27000000,Sanagaun,126.759,South,5.0,4.0,1.0,1.0,11,13.0,,4.0
+128,55000000,Imadol,211.265,West,5.0,4.0,1.0,1.0,11,20.0,,3.0
+129,39000000,Chapali,190.1385,North,5.0,4.0,1.0,1.0,11,14.0,,3.0
+130,21500000,Ramailo,126.759,South,6.0,5.0,2.0,2.0,10,12.0,,3.5
+131,41000000,Pasikot,85.56,West,4.0,2.0,1.0,2.0,9,13.0,,2.5
+133,37000000,Hattigauda,169.012,West,4.0,2.0,1.0,2.0,9,13.0,,3.0
+134,55000000,Hattigauda,513.36,West,4.0,2.0,1.0,2.0,9,16.0,,3.0
+135,29500000,Tikathali,256.68,North,5.0,5.0,2.0,2.0,14,13.0,,3.0
+136,35500000,Setipakha,256.68,East,6.0,4.0,2.0,2.0,14,13.0,,3.0
+137,38500000,Imadol,256.68,West,6.0,4.0,1.0,2.0,13,13.0,,2.5
+138,36500000,Bhaisepati,169.012,North,4.0,5.0,2.0,1.0,12,13.0,,2.5
+145,39000000,Dhobighat,256.68,East,7.0,4.0,1.0,2.0,10,12.0,,3.5
+148,24000000,Duwakot,1069.5,South,6.0,4.0,2.0,2.0,11,13.0,,2.5
+149,21000000,Taukhel,169.012,West,0.0,0.0,0.0,0.0,0,20.0,,0.0
+153,12500000,Bade,169.012,North,4.0,3.0,1.0,1.0,6,13.0,,3.0
+162,22000000,Imadol,84.506,South,4.0,4.0,2.0,2.0,4,13.0,,2.5
+163,12500000,Akasaydara,126.759,North,2.0,4.0,2.0,2.0,10,15.0,,2.5
+165,21000000,Taukhel,169.012,East,0.0,0.0,0.0,0.0,0,13.0,,0.0
+166,7000000,Thecho,126.759,North,0.0,0.0,0.0,0.0,0,13.0,,0.0
+167,43500000,Budhanilkantha,190.1385,South,6.0,4.0,1.0,1.0,6,13.0,,2.5
+168,25000000,Imadol,126.759,South,5.0,3.0,1.0,1.0,5,13.0,,2.5
+169,49000000,Nakhipot,211.265,East,4.0,4.0,2.0,2.0,4,20.0,,2.5
+171,20000000,Dhumbarahi,147.8855,North,6.0,2.0,1.0,2.0,9,8.0,,2.5
+172,50000000,Nakhipot,211.265,East,4.0,4.0,2.0,2.0,5,20.0,,2.5
+173,31499999,Imadol,126.759,North,6.0,4.0,1.0,2.0,9,13.0,,3.0
+176,39500000,Sital,169.012,West,5.0,6.0,2.0,2.0,8,14.0,,2.5
+178,22500000,Kapan,85.56,South,6.0,5.0,2.0,2.0,7,13.0,,2.5
+182,13000000,Taukhel,5.0,East,0.0,0.0,0.0,0.0,0,13.0,,0.0
+183,23500000,Imadol,126.759,East,7.0,4.0,2.0,2.0,7,13.0,,2.5
+184,27000000,Imadol,126.759,North,5.0,5.0,2.0,2.0,5,13.0,,3.0
+213,23500000,Imadol,126.759,West,5.0,3.0,2.0,2.0,8,12.0,,2.5
+216,38500000,Pahelopul,169.012,South,13.0,5.0,1.0,4.0,18,20.0,,4.5
+218,24500000,Dhumbarahi,126.759,East,3.0,2.0,1.0,1.0,4,13.0,,2.5
+222,27500000,Hattiban,126.759,West,5.0,4.0,2.0,2.0,8,10.0,,2.5
+225,80000000,Narayanthan,422.53,East,4.0,6.0,2.0,1.0,8,20.0,,2.5
+254,22000000,Kapan,126.759,West,6.0,4.0,2.0,2.0,6,13.0,,2.5
+267,26500000,Tikathali,126.759,South,7.0,4.0,2.0,2.0,8,20.0,,2.5
+283,30000000,Satdobato,3.1,South,4.0,4.0,1.0,1.0,7,13.0,,2.5
+289,26900000,Balkot,147.8855,North,7.0,3.0,3.0,2.0,18,13.0,,3.0
+291,18500000,Karki,126.759,West,3.0,3.0,2.0,3.0,11,26.0,,2.5
+292,57000000,Imadol,211.265,South,7.0,5.0,2.0,2.0,10,13.0,,3.0
+304,47500000,Imadol,513.36,West,5.0,3.0,1.0,2.0,6,13.0,,3.0
+309,32000000,Imadol,126.759,East,4.0,3.0,1.0,1.0,7,13.0,,2.5
+310,29000000,Imadol,126.759,South,6.0,4.0,2.0,2.0,11,11.0,,3.5
+311,28000000,Imadol,126.759,South,5.0,4.0,2.0,2.0,11,13.0,,3.5
+312,40000000,Chapali,190.1385,South,5.0,4.0,1.0,1.0,7,13.0,,2.5
+315,29000000,Lamatar,425.692,East,5.0,4.0,1.0,1.0,7,13.0,,2.5
+317,39000000,ekantakuna,253.518,West,6.0,3.0,3.0,3.0,7,20.0,,3.5
+328,37500000,Sanagaun,200.70175,South,3.0,5.0,3.0,1.0,7,13.0,,3.5
+332,28000000,Balambu,190.1385,West,4.0,4.0,2.0,2.0,3,13.0,,2.5
+336,31000000,Imadol,126.759,North,5.0,5.0,2.0,2.0,7,13.0,,3.0
+337,26500000,Imadol,126.759,South,5.0,5.0,2.0,2.0,7,13.0,,2.5
+338,23000000,Tikathali,126.759,North,5.0,4.0,2.0,2.0,10,13.0,,2.5
+342,75000000,kadaghari,169.012,South,10.0,6.0,1.0,2.0,16,20.0,,4.5
+343,21500000,Balkot,169.012,East,4.0,3.0,2.0,2.0,8,12.0,,2.5
+347,35500000,Imadol,126.759,East,5.0,5.0,2.0,2.0,9,13.0,,3.5
+349,38000000,budhanikantha,169.012,East,4.0,4.0,1.0,1.0,9,16.0,,2.5
+352,31000000,Bhangal,147.8855,South,6.0,5.0,2.0,1.0,10,13.0,,2.5
+353,57500000,imadol,211.265,South,5.0,4.0,2.0,2.0,10,13.0,,3.0
+354,38000000,kapan,169.012,South,7.0,5.0,2.0,3.0,10,13.0,,2.5
+356,25000000,imadol,126.759,East,5.0,4.0,2.0,2.0,10,13.0,,3.5
+357,25500000,tikathali,126.759,East,4.0,3.0,2.0,2.0,7,13.0,,2.5
+358,26500000,jorpati,126.759,North,7.0,4.0,2.0,2.0,10,13.0,,3.5
+362,31500000,imadol,233.709,North,10.0,6.0,1.0,2.0,10,13.0,,3.5
+365,27000000,Imadol,126.759,North,4.0,4.0,2.0,4.0,1,13.0,,3.0
+366,40000000,Balkot,169.012,East,4.0,4.0,2.0,1.0,1,20.0,,2.0
+367,29000000,Imadol,169.012,South,5.0,4.0,2.0,2.0,1,13.0,,3.0
+368,35000000,Syuchatar,169.012,South,6.0,6.0,2.0,2.0,1,20.0,,2.0
+370,12500000,Kmc,126.759,North,1.0,1.0,1.0,1.0,4,12.0,,1.0
+372,18500000,Imadol,277.016,North,4.0,3.0,2.0,2.0,8,15.0,,3.5
+373,40000000,Siddhipur,211.265,South,12.0,4.0,3.0,2.0,15,16.0,,3.0
+377,32500000,Gothatar,126.759,West,6.0,4.0,2.0,2.0,1,13.0,,1.0
+378,31500000,Gothatar,126.759,South,12.0,4.0,3.0,3.0,1,13.0,,1.0
+379,21000000,Srijana,84.506,East,4.0,4.0,1.0,1.0,1,13.0,,1.0
+380,60000000,Near,295.771,North,12.0,3.0,1.0,1.0,10,12.0,,3.0
+382,58000000,Maharajgunj,295.771,West,6.0,4.0,2.0,2.0,1,20.0,,1.0
+383,38000000,Golfutar,169.012,North,3.0,3.0,1.0,1.0,1,14.0,,1.0
+384,85000000,Maharajgunj,5476.0,South,3.0,3.0,1.0,1.0,1,13.0,,1.0
+385,190000000,Rudreshwor,10952.0,South,5.0,5.0,2.0,1.0,1,13.0,,1.0
+386,104000000,Bansbari,5476.0,West,5.0,4.0,1.0,1.0,1,13.0,,1.0
+387,65000000,Bansbari,380.277,South,5.0,5.0,1.0,1.0,1,13.0,,1.0
+388,125000000,Narayanthan,549.289,North,5.0,5.0,2.0,1.0,1,14.0,,1.0
+389,96000000,Maitidevi,549.289,South,5.0,4.0,1.0,1.0,1,14.0,,1.0
+390,31000000,Katunje,169.012,South,5.0,4.0,3.0,2.0,1,13.0,,1.0
+391,112000000,Rudreshwor,93092.0,East,5.0,6.0,2.0,2.0,1,13.0,,1.0
+392,120000000,Hattigauda,591.542,East,7.0,7.0,2.0,1.0,1,16.0,,1.0
+393,135000000,Chappal,633.795,East,5.0,5.0,1.0,1.0,1,20.0,,1.0
+395,68000000,"Pasikot,",8.5,West,6.0,5.0,1.0,1.0,1,13.0,,1.0
+396,39500000,Bhangal,211.265,East,6.0,4.0,1.0,1.0,8,20.0,,2.5
+397,115000000,"Rudreshwor,",718.301,East,5.0,5.0,2.0,2.0,1,13.0,,2.5
+398,38000000,Deuba,173.23729999999998,South,5.0,6.0,2.0,2.0,1,14.0,,2.5
+399,50000000,"Rudreshwor,",295.771,North,4.0,5.0,1.0,1.0,1,13.0,,2.5
+400,48000000,"Golfutar,",7.0,East,4.0,4.0,1.0,1.0,1,13.0,,2.5
+401,26000000,Kantipur,126.759,West,4.0,4.0,1.0,1.0,1,16.0,,1.0
+402,144000000,"Manbhaban,",5476.0,South,5.0,4.0,2.0,1.0,1,13.0,,2.5
+403,35000000,Harharmahadev,169.012,South,6.0,5.0,3.0,2.0,1,13.0,,1.0
+404,32500000,Ganesh,3.1,West,6.0,6.0,1.0,2.0,1,16.0,,2.5
+405,17500000,Tej,126.759,North,2.0,1.0,1.0,1.0,1,13.0,,1.0
+406,43500000,Ganesh,4.3,West,6.0,6.0,2.0,2.0,1,13.0,,1.0
+407,150000000,"Chappalkarkhana,",802.807,South,1.0,1.0,1.0,1.0,1,20.0,,1.0
+408,70000000,"Golfutar,",422.53,South,1.0,1.0,1.0,1.0,1,13.0,,1.0
+409,28000000,Tej,126.759,East,6.0,3.0,2.0,2.0,1,20.0,,1.0
+410,23000000,Jorpati,126.759,East,2.0,2.0,1.0,1.0,1,13.0,,1.0
+411,50000000,Deuwa,253.518,West,4.0,2.0,1.0,1.0,1,20.0,,1.0
+412,77000000,Golfutar,253.518,North,5.0,4.0,2.0,2.0,1,13.0,,1.0
+413,36000000,Kadaghari,169.012,West,5.0,5.0,2.0,2.0,1,13.0,,1.0
+414,80000000,Bishalnagar,338.024,South,5.0,4.0,2.0,1.0,1,20.0,,1.0
+416,42000000,dhilahiti,169.012,South,5.0,5.0,2.0,2.0,1,16.0,,1.0
+417,110000000,Maharajgunj,295.771,South,4.0,4.0,2.0,1.0,1,18.0,,1.0
+418,28500000,Kadaghari,126.759,South,6.0,6.0,3.0,3.0,1,13.0,,1.0
+419,85000000,Bhaisepati,211.265,East,7.0,7.0,2.0,1.0,1,14.0,,1.0
+421,27500000,Imadol,126.759,North,6.0,4.0,2.0,3.0,1,20.0,,1.0
+422,152500000,Manbhawan,5476.0,South,5.0,4.0,2.0,1.0,1,16.0,,1.0
+423,130000000,Baluwatar,422.53,North,5.0,5.0,2.0,1.0,1,15.0,,1.0
+424,50000000,Baneshwor,169.012,West,6.0,3.0,2.0,2.0,1,16.0,,1.0
+426,32500000,Mandikatar,126.759,South,6.0,4.0,2.0,2.0,1,13.0,,1.0
+427,30000000,Lasuntar,126.759,South,6.0,4.0,2.0,2.0,1,13.0,,1.0
+428,47000000,Ganesh,211.265,East,6.0,6.0,2.0,2.0,1,13.0,,1.0
+429,34000000,Lasuntar,169.012,South,5.0,5.0,2.0,2.0,1,13.0,,1.0
+430,44500000,Sukedhara,253.518,East,6.0,4.0,2.0,2.0,1,16.0,,1.0
+431,29000000,Bhangal,169.012,East,6.0,5.0,2.0,2.0,1,12.0,,1.0
+432,50000000,Rudreshwor,338.024,East,5.0,4.0,1.0,1.0,1,13.0,,1.0
+433,33000000,Bhangal,126.759,East,5.0,4.0,2.0,2.0,1,13.0,,1.0
+434,140000000,Bansbari,5476.0,East,5.0,4.0,2.0,1.0,1,13.0,,1.0
+435,70000000,Golfutar,422.53,South,4.0,4.0,2.0,1.0,1,20.0,,1.0
+436,50000000,Rudreshwor,295.771,East,4.0,5.0,1.0,1.0,1,13.0,,1.0
+437,115000000,Sukedhara,507.036,East,5.0,4.0,2.0,1.0,1,14.0,,1.0
+439,37500000,Rudreshwor,211.265,South,4.0,4.0,2.0,1.0,1,13.0,,1.0
+440,120000000,Ganesh,633.795,East,6.0,6.0,1.0,1.0,1,13.0,,1.0
+441,72000000,Hepali,338.024,South,5.0,5.0,2.0,1.0,1,20.0,,1.0
+443,80000000,Naxal,422.53,East,5.0,4.0,1.0,1.0,1,14.0,,1.0
+444,100000000,Pasikot,633.795,North,5.0,5.0,1.0,1.0,1,15.0,,1.0
+445,19000000,Pabitra,2.5,East,5.0,2.0,2.0,2.0,9,10.0,,2.5
+446,19000000,Pabitra,2.5,East,5.0,2.0,2.0,2.0,9,10.0,,2.5
+447,78500000,Pasikot,338.024,West,6.0,5.0,2.0,1.0,1,13.0,,1.0
+448,27000000,Rudeshwor,169.012,East,5.0,3.0,2.0,2.0,1,8.0,,1.0
+449,152500000,tangal,5476.0,South,5.0,5.0,2.0,1.0,1,18.0,,1.0
+450,48000000,Maharajgunj,295.771,South,5.0,4.0,2.0,1.0,1,13.0,,1.0
+451,36500000,Bhangal,169.012,East,6.0,5.0,2.0,2.0,1,15.0,,1.0
+452,38500000,Narayanthan,169.012,South,6.0,5.0,2.0,2.0,1,13.0,,1.0
+455,41000000,Imadol,169.012,South,6.0,6.0,2.0,2.0,1,13.0,,1.0
+456,44500000,Tikathali,169.012,East,7.0,6.0,2.0,2.0,1,23.0,,1.0
+457,40000000,Bhangal,211.265,West,4.0,4.0,1.0,1.0,6,30.0,,2.5
+458,19500000,Chunnikhel,126.759,North,2.0,1.0,1.0,1.0,1,14.0,,1.0
+459,31500000,Imadol,126.759,South,5.0,5.0,2.0,2.0,1,13.0,,1.0
+460,25500000,Imadol,126.759,East,5.0,4.0,2.0,2.0,1,13.0,,1.0
+462,17000000,Tikathali,126.759,East,2.0,1.0,1.0,1.0,1,13.0,,1.0
+463,29500000,Harisiddhi,169.012,East,7.0,3.0,2.0,2.0,1,13.0,,1.0
+464,23500000,Imadol,84.506,South,4.0,4.0,2.0,2.0,1,13.0,,1.0
+465,22000000,Imadol,84.506,North,4.0,4.0,2.0,2.0,1,13.0,,1.0
+468,26500000,Imadol,126.759,South,5.0,5.0,2.0,2.0,9,20.0,,3.0
+469,29000000,Imadol,126.759,North,7.0,3.0,3.0,3.0,13+,20.0,,2.5
+471,155000000,Chyasundol,718.301,East,6.0,6.0,2.0,1.0,1,20.0,,2.5
+473,26000000,Tikathjali,126.759,East,6.0,3.0,2.0,2.0,10,13.0,,3.0
+474,16500000,tikathali,126.759,East,2.0,1.0,1.0,1.0,4,13.0,,1.0
+476,29000000,Imadol,169.012,North,4.0,4.0,2.0,2.0,8,13.0,,3.0
+477,25000000,Tikathali,84.506,South,3.0,4.0,2.0,2.0,7,14.0,,2.5
+478,55000000,Imadol,211.265,South,5.0,6.0,2.0,2.0,9,13.0,,3.0
+479,35500000,Imadol,126.759,South,6.0,5.0,2.0,2.0,10,13.0,,3.0
+480,29500000,Imadol,126.759,South,5.0,4.0,2.0,2.0,9,13.0,,2.5
+481,29000000,Imadol,169.012,South,6.0,4.0,2.0,2.0,10,16.0,,3.0
+482,26500000,Imadol,126.759,South,4.0,4.0,2.0,2.0,8,13.0,,2.5
+483,27500000,Imadol,126.759,East,5.0,4.0,2.0,2.0,9,13.0,,3.0
+484,23000000,Imadol,84.506,West,6.0,4.0,2.0,2.0,10,13.0,,2.5
+486,39500000,Harisiddhi,212.31900000000002,West,5.0,5.0,2.0,2.0,9,20.0,,3.0
+487,17500000,Dhunge,84.506,North,2.0,1.0,1.0,1.0,4,13.0,,1.0
+488,38000000,Harhar,169.012,West,7.0,0.0,2.0,2.0,14,13.0,,3.5
+489,39500000,Imadol,169.012,South,5.0,6.0,1.0,1.0,1,13.0,,1.0
+490,26500000,Imadol,126.759,South,4.0,3.0,2.0,2.0,1,12.0,,1.0
+491,26500000,Imadol,126.759,South,5.0,4.0,2.0,2.0,1,16.0,,1.0
+492,14500000,Imadol,84.506,West,2.0,1.0,1.0,1.0,1,13.0,,1.0
+493,35000000,Tikathali,169.012,North,5.0,4.0,2.0,2.0,1,13.0,,1.0
+494,35500000,Imadol,126.759,South,5.0,6.0,2.0,2.0,1,13.0,,1.0
+495,29900000,Imadole,126.759,South,5.0,5.0,2.0,2.0,1,13.0,,2.5
+496,21500000,Tikathali,126.759,South,4.0,4.0,2.0,2.0,1,13.0,,1.0
+497,53000000,Balkot,211.265,North,3.0,4.0,2.0,2.0,1,24.0,,1.0
+498,39500000,Kupondole,126.759,East,3.0,3.0,1.0,1.0,1,18.0,,1.0
+499,26500000,IMADOLE,126.759,South,4.0,3.0,2.0,2.0,1,13.0,,2.5
+500,46000000,Ganesh,169.012,East,7.0,5.0,2.0,2.0,1,14.0,,1.0
+501,33500000,Imadol,169.012,South,5.0,4.0,2.0,2.0,1,13.0,,2.5
+502,22500000,Tikathali,126.759,East,6.0,3.0,3.0,3.0,1,13.0,,3.0
+503,35000000,Tikathali,169.012,North,5.0,4.0,2.0,2.0,1,13.0,,3.0
+504,43000000,Ganesh,211.265,West,5.0,1.0,1.0,1.0,1,13.0,,1.0
+505,38000000,Binayak,169.012,West,6.0,5.0,2.0,2.0,1,13.0,,1.0
+506,45000000,Bhaisepati,211.265,North,4.0,5.0,1.0,1.0,1,14.0,,1.0
+507,33500000,imadol,169.012,South,6.0,5.0,2.0,2.0,1,13.0,,3.0
+508,22500000,Bashundhara,3.5,North,12.0,4.0,1.0,4.0,11,20.0,,3.5
+510,35500000,Imadol,1155.3,East,5.0,4.0,2.0,2.0,1,13.0,,1.0
+511,33500000,Imadol,338.024,North,5.0,5.0,2.0,2.0,1,13.0,,1.0
+512,31500000,Imadol,126.759,South,5.0,4.0,2.0,2.0,1,13.0,,2.5
+513,41500000,khumaltar,169.012,West,6.0,5.0,2.0,2.0,1,13.0,,1.0
+514,140000000,bhaisepati,718.301,North,5.0,3.0,1.0,1.0,1,20.0,,1.0
+515,260000000,Mudkhu,71188.0,North,5.0,3.0,2.0,1.0,1,20.0,,1.0
+516,29000000,Imadol,126.759,West,5.0,4.0,2.0,2.0,1,13.0,,1.0
+517,65000000,Bhaisepati,232.3915,North,4.0,5.0,2.0,1.0,1,13.0,,2.5
+518,40000000,Godawari,318.215,South,5.0,4.0,1.0,1.0,6,30.0,,2.5
+519,72500000,Khumaltar,422.53,North,5.0,5.0,1.0,1.0,7,20.0,,2.5
+521,44000000,Rajmargha,393.74725639999997,South,12.0,5.0,2.0,2.0,8,20.0,,2.5
+522,27000000,"Lolang,",340.132,North,12.0,6.0,1.0,1.0,14,12.0,,3.5
+523,14500000,Tejvinayak,126.759,East,4.0,2.0,1.0,1.0,6,13.0,,1.5
+524,70000000,pokhara,464.783,North,12.0,5.0,2.0,2.0,12,26.0,,3.0
+525,13500000,"Thali,",256.68,East,4.0,2.0,2.0,2.0,8,10.0,,2.5
+529,35000000,"Budhanilkantha,Mahankal",169.012,East,4.0,4.0,1.0,1.0,6,13.0,,2.0
+530,47500000,"Budhanilkantha,Mahankal",211.265,North,5.0,4.0,1.0,1.0,7,16.0,,2.5
+531,42500000,"Budhanilkantha,Mahakal",173.23729999999998,East,7.0,3.0,2.0,2.0,11,20.0,,2.5
+533,47500000,Budhanilkantha,211.265,East,6.0,3.0,2.0,2.0,10,13.0,,2.0
+534,31500000,Satdobato,169.012,South,5.0,4.0,1.0,1.0,7,13.0,,2.5
+535,32000000,Lampati,2.5,South,3.0,3.0,1.0,1.0,10,13.0,,3.5
+536,28500000,"Chardobato,",169.012,South,5.0,3.0,2.0,2.0,9,13.0,,2.5
+537,30500000,"Imadol,Lalitpur",126.759,South,5.0,4.0,2.0,2.0,9,13.0,,3.5
+538,55000000,Imadol,211.265,South,6.0,7.0,2.0,2.0,10,13.0,,3.5
+539,56000000,Chandol,211.265,East,3.0,3.0,2.0,1.0,5,12.0,,2.5
+540,55000000,Imadol,211.265,South,6.0,5.0,4.0,2.0,12,16.0,,3.5
+541,31000000,Imadol,126.759,West,5.0,4.0,2.0,2.0,9,13.0,,3.0
+543,17500000,Lamatar,126.759,South,3.0,3.0,1.0,1.0,5,13.0,,2.0
+544,70000000,Baneshwor,338.024,East,5.0,4.0,1.0,1.0,7,13.0,,2.0
+546,42500000,Gharipatan,190.1385,East,7.0,7.0,1.0,1.0,9,20.0,,2.5
+547,24000000,"Setipakha,Imadol",126.759,West,4.0,4.0,2.0,2.0,8,13.0,,3.0
+548,28500000,Harisiddhi,126.759,North,5.0,4.0,2.0,1.0,8,13.0,,3.5
+550,28500000,Harisiddhi,126.759,North,4.0,4.0,2.0,2.0,8,20.0,,3.0
+551,65000000,"Gharipatan,Pokhara",169.012,South,5.0,4.0,1.0,1.0,7,22.0,,3.5
+552,22000000,"Imadol,",169.012,South,6.0,3.0,1.0,1.0,8,13.0,,3.0
+553,35500000,Ochu,126.759,South,5.0,5.0,2.0,2.0,9,20.0,,3.0
+555,8500000,Jharuwarasi,105.6325,East,1.0,1.0,1.0,1.0,4,10.0,,1.0
+556,55600000,Deuba,338.024,East,12.0,4.0,1.0,2.0,11,13.0,,2.5
+557,14000000,Jhaukhel,169.012,North,2.0,1.0,1.0,1.0,1,12.0,,1.0
+559,23000000,Tikathali,84.506,East,4.0,3.0,1.0,2.0,7,13.0,,2.5
+560,65000000,Baluwakhani,380.277,West,7.0,4.0,3.0,3.0,13+,13.0,,3.5
+561,38000000,Bouddha,173.23729999999998,South,7.0,4.0,2.0,2.0,11,13.0,,3.5
+562,47000000,Ochu,211.265,West,5.0,6.0,1.0,2.0,8,14.0,,3.5
+564,29900000,"Imadol,Mahalaxmi",126.759,North,6.0,5.0,1.0,2.0,9,13.0,,2.5
+565,28000000,"Imadol,Mahalaxmi",126.759,South,6.0,4.0,1.0,2.0,9,13.0,,3.0
+566,27500000,Imadol,126.759,East,4.0,4.0,2.0,2.0,8,13.0,,3.0
+567,75000000,Budhanilkantha,295.771,East,4.0,5.0,1.0,1.0,6,20.0,,2.0
+568,32500000,LMC,177.4626,North,5.0,5.0,3.0,3.0,1,26.0,,3.0
+569,20000000,Lubhu,126.759,West,7.0,3.0,2.0,3.0,12,13.0,,2.5
+571,16500000,Lubhu,126.759,East,5.0,4.0,1.0,1.0,7,18.0,,2.5
+572,27500000,Nakhipot,256.68,North,5.0,4.0,1.0,2.0,8,16.0,,1.0
+574,18000000,Tikathali,126.759,North,2.0,1.0,1.0,1.0,4,13.0,,1.0
+575,26000000,Tikathali,126.759,East,5.0,3.0,2.0,2.0,9,11.0,,2.5
+576,42500000,Dholahiti,169.012,South,12.0,5.0,1.0,2.0,11,16.0,,2.5
+577,39500000,Sital,169.012,South,6.0,5.0,2.0,2.0,10,13.0,,3.5
+578,23500000,Shital,84.506,South,4.0,3.0,2.0,2.0,8,13.0,,2.5
+579,48000000,Imadol,211.265,South,5.0,5.0,1.0,1.0,7,20.0,,2.5
+580,31000000,Dhapakhel,169.012,North,7.0,5.0,1.0,2.0,10,20.0,,3.5
+581,27500000,Dhapakhel,233.709,North,6.0,3.0,3.0,3.0,12,13.0,,3.5
+582,21000000,imadol,171.12,South,4.0,4.0,1.0,2.0,7,13.0,,1.0
+583,31000000,"Bojhepokhari,",126.759,South,5.0,5.0,1.0,2.0,8,13.0,,3.0
+584,39999999,"Hattiban,",169.012,South,6.0,4.0,1.0,1.0,8,13.0,,2.5
+585,17000000,"Lubhu,Mahalaxmi",126.759,North,2.0,1.0,1.0,1.0,4,20.0,,1.0
+586,19500000,"JitpurRoad,Tarakeshwor",169.012,West,2.0,1.0,1.0,1.0,4,26.0,,1.0
+587,45000000,Lalitpur,253.518,West,5.0,5.0,1.0,1.0,7,13.0,,2.5
+588,33000000,Tikathali,169.012,North,6.0,5.0,3.0,3.0,12,10.0,,3.0
+589,31000000,setipakha,232.3915,East,4.0,4.0,2.0,2.0,7,10.0,,2.5
+590,16000000,changathali,256.68,South,2.0,1.0,1.0,1.0,4,13.0,,1.0
+591,15500000,Makalbari,800.0,East,1.0,1.0,1.0,1.0,1,13.0,,1.5
+593,12000000,Dhapakhel,84.506,South,1.0,1.0,1.0,1.0,3,10.0,,1.0
+594,31000000,Bhaisipati,211.265,East,6.0,3.0,2.0,2.0,10,13.0,,1.0
+595,36500000,Imadol,126.759,East,5.0,3.0,2.0,2.0,9,13.0,,1.0
+596,15000000,Sheetal,84.506,West,6.0,4.0,2.0,2.0,10,10.0,,1.0
+597,22000000,Tikathali,171.12,North,5.0,3.0,3.0,2.0,10,13.0,,1.0
+601,50000000,Hattigauda,1500.0,North,7.0,6.0,15.0,2.0,0,17.0,,3.0
+602,16000000,Teku,3657.8,South,1.0,1.0,1.0,2.0,0,13.0,,1.0
+603,42500000,"Shantinagar,",126.759,South,6.0,4.0,3.0,2.0,11,10.0,,4.0
+604,60000000,Bir,700.0,East,1.0,1.0,5.0,2.0,0,6.0,,6.0
+606,19500000,Sainik,126.759,North,4.0,3.0,8.0,2.0,8,20.0,,2.0
+609,22500000,NEAR,126.759,East,5.0,3.0,11.0,2.0,0,10.0,,3.0
+610,33000000,Hariyali,1280.0,East,3.0,4.0,6.0,2.0,0,20.0,,2.5
+612,25000000,Simara,211.265,West,1.0,3.0,15.0,2.0,0,20.0,,3.0
+614,29000000,Iscon,1500.0,East,1.0,1.0,1.0,2.0,0,16.0,,2.5
+616,10500000,Goldhunga,126.759,East,2.0,1.0,4.0,2.0,0,13.0,,1.0
+618,30000000,Fulbari,1615.0,West,4.0,2.0,1.0,2.0,0,12.0,,2.0
+620,67500000,"Golfutar,",338.024,South,5.0,4.0,12.0,2.0,0,13.0,,3.5
+621,29000000,Kageshwori,443.91999999999996,West,5.0,3.0,10.0,2.0,0,20.0,,2.5
+622,13000000,Ansari,900.0,South,2.0,2.0,3.0,2.0,0,13.0,,1.5
+627,90000000,Maharajgunj,169.012,East,5.0,4.0,1.0,1.0,7,13.0,,2.0
+629,11000000,Charikot,1500.0,East,1.0,6.0,10.0,2.0,0,20.0,,3.0
+630,30000000,Gothatar,169.012,East,5.0,3.0,9.0,2.0,0,20.0,,2.5
+633,31500000,Near,1200.0,East,4.0,3.0,1.0,2.0,0,13.0,,3.0
+636,1100000000,Akasay,16.0,East,3.0,3.0,1.0,2.0,0,13.0,,3.0
+637,26800000,imadol,158.44875,East,4.0,4.0,2.0,2.0,0,16.0,,3.0
+638,7000000,Nepalgunj,2227.0,West,2.0,1.0,5.0,2.0,0,27.0,,1.0
+639,16500000,Darjelling,255.626,East,3.0,3.0,5.0,2.0,0,13.0,,2.5
+640,19000000,Ochu,341.18600000000004,East,5.0,3.0,9.0,2.0,0,13.0,,1.0
+641,30300000,Imadol,383.439,East,6.0,4.0,11.0,2.0,0,16.0,,2.5
+642,15500000,Gothatar,126.759,South,2.0,1.0,4.0,2.0,0,13.0,,1.0
+643,21700000,Kadaghari,126.759,East,6.0,4.0,11.0,2.0,0,13.0,,2.5
+644,26200000,Gothatar,169.012,East,5.0,4.0,10.0,2.0,0,13.0,,2.5
+645,30500000,Swayambhu,148.149,East,6.0,5.0,11.0,2.0,0,16.0,,2.5
+646,17500000,Gothatar,126.759,East,2.0,2.0,4.0,2.0,0,13.0,,1.0
+647,35000000,Sundar,383.439,East,4.0,4.0,10.0,2.0,0,13.0,,2.5
+648,31500000,Bhangal,169.539,South,6.0,4.0,10.0,2.0,0,13.0,,2.5
+649,27000000,Bhangal,126.759,East,6.0,4.0,10.0,2.0,0,13.0,,2.5
+650,39500000,Imadol,169.012,North,7.0,6.0,13.0,2.0,0,18.0,,3.5
+651,24500000,Imadol,126.759,East,5.0,4.0,10.0,2.0,0,13.0,,2.5
+652,28000000,Imadol,169.539,East,6.0,4.0,11.0,2.0,0,13.0,,2.5
+653,22000000,Tikathali,126.759,South,5.0,4.0,11.0,2.0,0,13.0,,2.5
+654,49000000,Pokhara,2000.0,East,6.0,3.0,1.0,2.0,0,20.0,,2.5
+656,17500000,Tilathali,126.759,South,2.0,1.0,1.0,1.0,4,10.0,,1.0
+657,72500000,150,464.783,East,3.0,3.0,5.0,2.0,0,13.0,,2.0
+659,23000000,Machhegau,297.879,North,7.0,4.0,11.0,2.0,0,13.0,,2.0
+660,40700000,Nakhu,464.783,North,2.0,2.0,2.0,2.0,0,13.0,,1.0
+661,57000000,Gyaneshwor,253.518,South,6.0,4.0,13.0,2.0,0,14.0,,3.5
+662,15000000,Kapan,84.506,East,1.0,1.0,9.0,2.0,0,8.0,,3.0
+663,16000000,Ghatta,126.759,North,2.0,1.0,1.0,1.0,4,12.0,,1.0
+664,32500000,"Imadol,",169.012,East,7.0,5.0,11.0,2.0,0,16.0,,3.5
+666,28000000,Chamati,135.2096,East,4.0,3.0,1.0,2.0,0,26.0,,2.5
+668,252000000,Baneshwor,1183.084,East,4.0,4.0,1.0,2.0,0,13.0,,2.5
+669,77500000,Rudreshwor,338.024,South,6.0,5.0,1.0,2.0,0,13.0,,2.5
+670,230000000,Dhapasi,1014.072,East,12.0,0.0,15.0,2.0,0,40.0,,4.0
+671,33000000,bijeshwori,3.0,East,1.0,1.0,1.0,2.0,0,13.0,,1.0
+672,52500000,muhanpokhari,464.783,East,4.0,5.0,7.0,2.0,0,13.0,,2.5
+673,22000000,Ratnanagar,1500.0,South,12.0,0.0,10.0,2.0,0,16.0,,1.0
+674,22000000,Near,1000.0,West,12.0,6.0,10.0,2.0,0,20.0,,3.0
+676,21000000,"Kadaghari,birendra",147.8855,East,6.0,3.0,11.0,2.0,0,6.0,,2.5
+677,28500000,Jarankhu,1100.0,East,6.0,3.0,11.0,2.0,0,13.0,,3.0
+680,26000000,Near,1200.0,West,6.0,4.0,9.0,2.0,0,13.0,,2.5
+681,27500000,Naya,1000.0,East,7.0,6.0,10.0,2.0,0,20.0,,3.0
+682,28500000,Near,1300.0,East,7.0,6.0,11.0,2.0,0,13.0,,3.0
+683,105000000,hattigauda,642.2456,South,5.0,4.0,9.0,2.0,0,20.0,,2.5
+684,21000000,Thankot,126.759,East,4.0,3.0,7.0,2.0,0,984.0,,2.5
+685,24000000,Hattiban,3.0,North,3.0,4.0,1.0,2.0,0,20.0,,2.5
+686,32000000,bhangal,190.1385,West,7.0,5.0,12.0,2.0,0,13.0,,2.5
+687,38000000,Mid,700.0,East,1.0,1.0,1.0,2.0,0,13.0,,3.0
+689,19000000,imadol,126.759,East,4.0,3.0,1.0,2.0,0,6.0,,2.5
+690,27500000,Ochuheight,1100.0,East,5.0,5.0,1.0,2.0,0,13.0,,3.0
+691,25000000,"Lasuntar,Kapan",126.759,North,5.0,3.0,9.0,2.0,0,14.0,,2.5
+692,60000000,Budhanilkantha,6.0,North,5.0,5.0,1.0,2.0,0,16.0,,2.5
+693,120000000,GahanaPokhari,10.0,North,6.0,6.0,1.0,2.0,0,14.0,,2.5
+695,23500000,Tikathali,190.929,East,5.0,4.0,1.0,2.0,9,13.0,,2.5
+697,24000000,Maitidevi,1500.0,South,5.0,3.0,2.0,2.0,7,13.0,,2.5
+698,26000000,Mahadevsthan,1500.0,East,7.0,5.0,8.0,2.0,0,13.0,,2.5
+699,34000000,Grande,3.75,South,6.0,4.0,9.0,2.0,0,13.0,,2.5
+700,100000001,jharuwarashi,5814.0,South,12.0,0.0,1.0,2.0,0,10.0,,3.5
+702,9000000,Ugranchandi,2.3,East,4.0,2.0,6.0,2.0,0,13.0,,4.5
+703,47500000,Rudreshwor,5.5,South,4.0,5.0,1.0,2.0,0,14.0,,2.5
+704,37500000,Muhan,5.0,South,6.0,5.0,1.0,2.0,0,14.0,,2.5
+705,120000000,Near,13.0,North,5.0,4.0,1.0,2.0,0,14.0,,2.5
+707,60000000,Kuleshore,253.518,South,1.0,1.0,1.0,2.0,0,16.0,,3.0
+709,9800000,GAGAN,5.5,East,4.0,4.0,1.0,2.0,0,13.0,,1.0
+710,11500000,Surunga,1361.0,East,3.0,3.0,7.0,2.0,0,13.0,,2.5
+711,77500000,Teku,2560.0,East,7.0,4.0,13.0,2.0,0,10.0,,3.5
+712,65000000,Tangal,7.2,North,5.0,3.0,9.0,2.0,0,16.0,,3.5
+714,25000000,Changathali,179.57525,South,6.0,3.0,11.0,3.0,0,12.0,,2.5
+715,35000000,Sanepa,120.42105000000001,East,3.0,2.0,5.0,2.0,0,13.0,,3.0
+716,73500000,Manamaiju,390.84025,South,4.0,3.0,7.0,2.0,0,13.0,,3.0
+719,30000000,Tallo,253.518,East,12.0,7.0,14.0,2.0,0,25.0,,3.0
+720,100000000,Basundhara,422.53,East,5.0,5.0,14.0,2.0,0,22.0,,2.5
+721,22500000,400m,126.759,East,6.0,3.0,11.0,2.0,0,16.0,,3.0
+722,28000000,Hattiban,126.759,North,4.0,4.0,1.0,1.0,6,13.0,,2.5
+723,31500000,Beside,179.57525,North,6.0,4.0,10.0,2.0,0,13.0,,2.5
+725,45000000,Kusunti-13,1000.0,West,6.0,5.0,9.0,2.0,0,13.0,,3.5
+728,30750000,Imadol,1070.0,South,3.0,4.0,7.0,2.0,0,10.0,,2.5
+729,77000000,hattigauda,490.21974,West,4.0,5.0,1.0,2.0,0,30.0,,2.5
+730,187000000,Bhaisepati,22.0,East,1.0,1.0,1.0,2.0,0,13.0,,1.0
+731,135000000,Bhaisepati,13.0,South,1.0,1.0,1.0,2.0,0,16.0,,1.0
+734,32000000,Dadhikot,4.75,East,7.0,4.0,13.0,2.0,0,13.0,,3.5
+736,16000000,Basantapur,700.0,East,12.0,0.0,1.0,2.0,0,13.0,,7.0
+737,60000000,Sitapaila,380.277,South,5.0,3.0,5.0,2.0,0,12.0,,2.5
+739,25000000,"Ringroad,",424.63800000000003,South,7.0,6.0,14.0,2.0,0,10.0,,3.5
+740,4000000,"26.7102432,",1800.0,East,3.0,1.0,1.0,1.0,6,16.0,,1.0
+741,28000000,Chauthe,900.0,South,6.0,6.0,10.0,2.0,0,20.0,,2.5
+742,4000000,Thasikhel,297.352,West,6.0,2.0,9.0,2.0,0,3.5,,2.0
+744,39000000,Baluwakhani,169.012,East,6.0,4.0,12.0,2.0,0,12.0,,3.5
+745,13500000,Tarkari,105.6325,East,4.0,2.0,1.0,2.0,0,16.0,,2.5
+746,35000000,Dhapakhel,211.265,East,12.0,7.0,2.0,3.0,13+,13.0,,3.5
+747,18500000,Sangla,700.0,South,3.0,4.0,9.0,2.0,0,12.0,,3.0
+748,15000000,Swayambhu,1000.0,East,1.0,1.0,1.0,2.0,0,13.0,,1.0
+749,36000000,"Nakhkhu,",179.57525,South,4.0,5.0,6.0,2.0,0,13.0,,2.5
+750,10000000,"Bansbari,",211.265,East,2.0,1.0,4.0,2.0,0,13.0,,1.0
+752,20000000,Hattiban,126.759,South,3.0,2.0,6.0,2.0,0,13.0,,2.0
+753,59500000,Dadhikot,422.53,East,5.0,6.0,11.0,2.0,0,14.0,,2.5
+754,27000000,Tarkeshwor,1711.0,East,6.0,2.0,10.0,2.0,0,20.0,,2.0
+757,5700000,Chitawon,1200.0,East,1.0,1.0,1.0,2.0,0,13.0,,1.0
+758,39000000,Godawari,190.1385,East,5.0,4.0,5.0,2.0,0,20.0,,2.5
+759,43500000,kotesower,1500.0,East,1.0,1.0,1.0,2.0,0,13.0,,3.5
+760,13600000,jhaukhel,169.012,East,1.0,1.0,1.0,2.0,0,13.0,,1.0
+761,87000000,New,466.36400000000003,East,6.0,3.0,1.0,1.0,0,13.0,,2.0
+763,34000000,khusibu,3.2,East,5.0,3.0,5.0,2.0,0,13.0,,2.5
+764,24500000,"Narayantar,",126.759,East,5.0,3.0,11.0,2.0,0,13.0,,2.5
+765,25000000,Narayanthan,1100.0,East,2.0,1.0,1.0,1.0,4,13.0,,3.0
+766,16000000,Budibazar,169.012,East,5.0,5.0,7.0,2.0,0,25.0,,2.0
+769,27000000,Gatthghar,700.0,East,3.0,1.0,4.0,2.0,0,6.0,,3.0
+770,16200000,Sesmati,1100.0,North,12.0,6.0,14.0,2.0,0,13.0,,3.5
+771,26400000,Jarankhu,211.265,East,5.0,6.0,13.0,2.0,0,20.0,,3.0
+772,24500000,600,3.0,North,4.0,4.0,9.0,2.0,0,15.0,,2.5
+773,3200000,Buddhanagar,1200.0,East,2.0,2.0,4.0,2.0,0,20.0,,1.0
+774,70000000,Near,7.0,South,5.0,5.0,1.0,2.0,0,13.0,,2.5
+775,75000000,Inside,10.0,North,5.0,4.0,1.0,2.0,0,13.0,,2.5
+776,159500000,150,29.0,East,5.0,4.0,1.0,2.0,0,13.0,,2.5
+777,35000000,Kapan,4.5,East,6.0,4.0,9.0,2.0,0,13.0,,3.5
+778,13500000,balaju,1100.0,South,4.0,2.0,6.0,2.0,0,16.0,,2.5
+779,30000000,Banasthali,3.8,South,3.0,2.0,2.0,2.0,0,10.0,,3.5
+781,30000000,Bhangal,147.8855,South,3.0,3.0,1.0,2.0,9,10.0,,2.0
+782,45000000,"Imadol,",5.0,North,1.0,1.0,1.0,2.0,0,13.0,,1.0
+784,33000000,"Imadol,",3.3,West,1.0,1.0,1.0,2.0,0,13.0,,2.5
+785,42000000,Near,4.1,South,7.0,5.0,1.0,2.0,0,13.0,,2.5
+786,28000000,Guheshwori,700.0,North,5.0,4.0,15.0,2.0,0,13.0,,3.5
+787,32000000,Gairikhet,3.0,North,7.0,3.0,12.0,2.0,0,18.0,,2.5
+789,89900000,Baneshwor,2203.22,East,8.0,4.0,1.0,2.0,0,13.0,,4.0
+790,27500000,Baluwakhani,169.012,West,6.0,3.0,11.0,2.0,0,20.0,,2.5
+793,15500000,Khatris,3.5,East,2.0,1.0,1.0,2.0,0,14.0,,1.0
+794,17000000,Thankot,147.8855,East,6.0,3.0,10.0,2.0,0,13.0,,2.5
+795,80000000,Ganesh,8.1,East,5.0,5.0,1.0,2.0,0,20.0,,2.5
+796,105000000,"Maharajgunj,",11.0,East,4.0,4.0,1.0,2.0,0,10.0,,2.5
+797,135000000,Dhapasi,16.0,East,5.0,5.0,1.0,2.0,0,13.0,,2.5
+798,79000000,Deuba,8.0,East,5.0,5.0,1.0,2.0,0,20.0,,2.5
+799,85000000,"Rudreshwor,",11.0,South,6.0,6.0,1.0,2.0,0,13.0,,2.5
+800,71500000,Bhaisepati,6.0,North,4.0,5.0,1.0,2.0,0,16.0,,2.5
+801,67500000,"Rudreshwor,",6.3,East,5.0,4.0,1.0,2.0,0,20.0,,2.5
+802,100000000,Pasikot,20.0,South,5.0,4.0,1.0,2.0,0,16.0,,2.5
+803,57500000,Muhan-Pokhari,11.0,North,5.0,5.0,1.0,2.0,0,16.0,,2.5
+804,48000000,Budhanilkantha,10.5,East,1.0,1.0,1.0,2.0,0,13.0,,1.0
+805,25000000,"Imadol,",3.0,East,1.0,1.0,1.0,2.0,0,16.0,,1.0
+806,85000000,"Golfutar,",9.0,East,1.0,1.0,1.0,2.0,0,20.0,,1.0
+808,85000000,Bhaisepati,7.0,East,5.0,6.0,1.0,2.0,0,13.0,,2.5
+809,12000000,"lalbandi,",1280.0,South,4.0,2.0,2.0,2.0,8,8.0,,2.0
+810,140000000,Bhaisepati,8.0,East,6.0,7.0,1.0,2.0,0,13.0,,2.5
+811,78000000,"Bhaisepati,",6.02,South,5.0,5.0,1.0,2.0,0,13.0,,2.0
+812,85000000,Bhaisepati,7.0,South,5.0,5.0,1.0,2.0,0,13.0,,2.5
+813,47500000,Mandikatar,5.0,South,6.0,6.0,1.0,2.0,0,13.0,,2.5
+814,39000000,Mandikatar,4.0,East,1.0,1.0,1.0,2.0,0,13.0,,2.5
+815,47500000,"Rudreshwor,",4.5,East,4.0,4.0,1.0,2.0,0,20.0,,2.5
+816,42000000,Pasikot,5.0,East,1.0,1.0,1.0,2.0,0,13.0,,2.5
+817,14000000,Basudev,1000.0,North,5.0,2.0,1.0,2.0,9,7.0,,2.5
+820,25000000,Brahmakhel,297.879,North,4.0,2.0,1.0,2.0,0,22.0,,2.0
+821,13500000,Dhapasi,2.5,East,6.0,2.0,1.0,2.0,0,6.0,,1.5
+823,21000000,Nepaltar,1020.0,East,12.0,4.0,13.0,2.0,0,9.0,,3.5
+824,22500000,Sesmati,130.9843,South,12.0,5.0,13.0,2.0,0,13.0,,3.0
+825,28500000,Jaranku,211.265,East,5.0,6.0,10.0,2.0,0,20.0,,3.5
+826,22000000,Jaranku,148.149,West,12.0,5.0,1.0,2.0,0,13.0,,3.0
+827,21900000,Jaranku,126.759,North,12.0,5.0,11.0,2.0,0,13.0,,3.0
+828,25000000,Airport,1500.0,East,1.0,1.0,1.0,2.0,0,13.0,,1.0
+829,29000000,Lolang,1205.0,South,7.0,6.0,13.0,2.0,0,13.0,,3.5
+831,18500000,Tarkeshower,1000.0,East,1.0,3.0,11.0,2.0,11,10.0,,2.5
+832,3200000,near,1275.75,East,1.0,1.0,1.0,2.0,0,13.0,,1.0
+835,18000000,BIRATNAGAR,1822.5,East,6.0,2.0,7.0,2.0,0,20.0,,2.5
+836,36700000,"Maitidevi,",126.759,North,4.0,4.0,15.0,2.0,0,8.0,,4.0
+837,21600000,Nepaltar,126.759,North,12.0,4.0,14.0,2.0,0,11.0,,3.5
+838,15000000,Thali,4.0,East,2.0,1.0,1.0,1.0,4,12.0,,1.0
+839,66000000,"Balkumari,",295.771,North,3.0,6.0,13.0,2.0,0,16.0,,4.5
+840,61750000,Bhaisipati,401.4035,East,5.0,2.0,10.0,2.0,0,12.0,,3.0
+841,21900000,"Nepaltar,",126.759,East,1.0,1.0,13.0,2.0,0,11.0,,1.0
+842,29500000,Imadole,135.2096,East,5.0,3.0,6.0,2.0,0,28.0,,2.5
+843,50000000,Birendra,211.265,East,12.0,0.0,15.0,2.0,0,16.0,,4.0
+847,30000000,Maitidevi,126.759,South,5.0,3.0,9.0,2.0,0,8.0,,3.0
+848,46000000,Shantinagar,126.759,South,12.0,1.0,11.0,2.0,0,10.0,,4.0
+851,24000000,Thapa,1500.0,North,4.0,2.0,7.0,2.0,0,26.0,,2.0
+852,62500000,Sitapaila,534.0556,South,4.0,5.0,1.0,2.0,0,20.0,,2.5
+853,16000000,Near,1000.0,East,4.0,2.0,8.0,2.0,0,10.0,,2.5
+855,50000000,Bhaisepati,5.0,East,1.0,1.0,1.0,2.0,0,13.0,,2.5
+856,39900000,"Sundarbasti,",211.265,East,1.0,1.0,13.0,2.0,0,20.0,,2.5
+857,27500000,Dhalmal,1200.0,South,7.0,3.0,11.0,2.0,0,12.0,,2.5
+859,26600000,tikathali,256.68,South,6.0,3.0,11.0,2.0,0,12.0,,2.5
+862,31500000,"Shankhamul,",126.759,South,4.0,3.0,1.0,2.0,0,10.0,,3.0
+863,65000000,Dhumbarahi,382.385,North,12.0,7.0,15.0,2.0,0,13.0,,3.5
+864,67500000,Dhumbhari,424.63800000000003,South,12.0,5.0,1.0,2.0,0,16.0,,2.5
+865,30000000,"Chunikhel,",126.759,South,6.0,5.0,11.0,2.0,0,13.0,,3.0
+866,10000000,Phutung,126.759,East,2.0,1.0,4.0,2.0,0,8.0,,1.0
+868,52500000,Tahachal,513.36,East,1.0,1.0,8.0,2.0,0,8.0,,2.5
+869,19500000,"Chunikhel,",84.506,South,4.0,3.0,9.0,2.0,0,10.0,,2.5
+871,17000000,"Tarkeshwor-08,",126.759,East,12.0,6.0,14.0,2.0,0,10.0,,3.5
+872,35000000,Jorpati,1600.0,South,12.0,5.0,15.0,2.0,0,12.0,,3.5
+873,11500000,"Chandragiri,",126.759,South,3.0,1.0,4.0,2.0,0,22.0,,1.0
+874,35000000,"Kalanki,",126.759,East,12.0,7.0,15.0,2.0,0,14.0,,4.0
+875,28000000,Manamaiju,126.759,East,12.0,6.0,1.0,2.0,0,11.0,,3.0
+876,28000000,Balaju,126.759,West,12.0,0.0,15.0,2.0,0,26.0,,3.5
+877,16500000,"Thankot,",126.759,West,5.0,1.0,6.0,2.0,0,13.0,,2.0
+880,28000000,"Ramkot,",169.012,East,1.0,1.0,1.0,2.0,0,16.0,,2.5
+881,25000000,Harisiddhi,700.0,East,6.0,3.0,1.0,2.0,0,16.0,,4.0
+882,70000000,Satdobato,422.53,East,12.0,6.0,1.0,2.0,0,16.0,,2.5
+883,13500000,Thankot,126.759,West,7.0,2.0,1.0,2.0,0,13.0,,3.0
+884,17000000,Thankot,255.09900000000002,North,6.0,3.0,1.0,2.0,0,11.0,,3.0
+885,17000000,Thankot,126.759,North,4.0,4.0,9.0,2.0,0,13.0,,3.0
+886,22000000,Kadaghari,126.759,West,4.0,1.0,1.0,2.0,0,30.0,,2.5
+887,9500000,Sindhuli,3.5,East,4.0,2.0,1.0,2.0,4,13.0,,2.0
+888,29000000,Godamchaur,507.036,South,12.0,6.0,15.0,2.0,0,13.0,,2.5
+890,32500000,Kapan,211.265,South,6.0,3.0,3.0,3.0,12,13.0,,3.0
+894,51500000,Narayanthan,342.2493,South,6.0,3.0,8.0,2.0,0,13.0,,3.0
+895,33000000,Rudranagar,190.1385,West,6.0,1.0,10.0,2.0,0,20.0,,3.5
+896,26700000,"Chandragiri-06,",211.265,West,6.0,1.0,11.0,2.0,0,20.0,,2.5
+897,28500000,"Paiyatar,",126.759,East,7.0,3.0,11.0,2.0,0,13.0,,2.5
+898,18000000,Gurung,169.012,North,2.0,4.0,1.0,2.0,0,16.0,,1.0
+899,12000000,"Tarkeshwor-04,",318.742,West,1.0,1.0,1.0,2.0,0,3.0,,1.0
+900,35000000,Chappal,126.759,South,4.0,4.0,5.0,2.0,0,16.0,,3.5
+901,85000000,Sanobharyang,509.144,West,7.0,5.0,1.0,2.0,0,16.0,,4.5
+902,17000000,Kathmandu,255.626,West,4.0,2.0,1.0,2.0,0,16.0,,2.5
+903,29500000,Dhapasi,126.759,West,5.0,3.0,9.0,2.0,0,13.0,,2.5
+904,29000000,Jalpa,169.012,South,1.0,1.0,11.0,2.0,0,13.0,,1.0
+905,57500000,Nakhipot,1500.0,East,5.0,6.0,15.0,2.0,0,20.0,,3.5
+907,17200000,"Khahare,",126.759,South,5.0,1.0,9.0,2.0,0,10.0,,1.0
+908,32500000,"Kadaghari,",147.8855,East,6.0,1.0,12.0,2.0,0,13.0,,1.0
+909,27000000,"Narephat,",105.6325,East,1.0,1.0,9.0,2.0,0,28.0,,1.0
+910,25500000,"BUDHANILKANTHA,",215.4903,East,5.0,3.0,9.0,2.0,0,14.0,,1.0
+911,29000000,Kapan,169.012,South,1.0,1.0,1.0,2.0,0,10.0,,3.0
+912,27500000,Paradise,126.759,South,3.0,3.0,7.0,2.0,0,13.0,,1.0
+913,41000000,"Sanep,",126.759,South,6.0,5.0,7.0,2.0,0,10.0,,2.5
+914,38500000,Nayabasti,425.692,East,6.0,5.0,10.0,2.0,0,20.0,,2.5
+915,23000000,Siddhikali,169.012,North,5.0,3.0,9.0,2.0,9,20.0,,3.0
+917,28500000,"Besigaun,",190.1385,South,5.0,2.0,6.0,2.0,6,12.0,,2.5
+918,50000000,Hattiban,1200.0,North,4.0,3.0,1.0,2.0,0,20.0,,2.5
+919,26000000,Bhojad,1098.578,South,4.0,4.0,6.0,2.0,0,20.0,,2.0
+920,58000000,Bafal,616.0939999999999,East,6.0,5.0,8.0,2.0,0,12.0,,2.5
+922,20500000,Tribhuwan,169.012,North,5.0,4.0,1.0,2.0,0,13.0,,2.5
+923,60000000,Gwarko,338.024,East,12.0,6.0,15.0,2.0,0,10.0,,3.5
+925,56000000,Narayanghat,1000.0,East,1.0,1.0,1.0,2.0,0,6.0,,1.0
+926,23500000,nayabasti,5.0,South,1.0,1.0,8.0,2.0,0,10.0,,2.0
+929,26000000,Naikap,4.0,East,3.0,3.0,8.0,2.0,0,13.0,,2.5
+930,13000000,gokarna,126.759,East,2.0,1.0,4.0,2.0,0,13.0,,1.0
+933,25000000,Kalikasthan,85.56,East,3.0,2.0,5.0,2.0,0,13.0,,2.5
+934,38000000,Sanothimi,342.24,West,6.0,4.0,15.0,2.0,0,13.0,,2.5
+935,32500000,Imadol,169.012,North,5.0,4.0,9.0,2.0,0,13.0,,2.5
+939,140000000,"Chamati,",388.6191,West,1.0,1.0,1.0,2.0,0,26.0,,6.0
+940,7500000,Bhuwanbasti,3645.0,North,4.0,1.0,1.0,1.0,6,20.0,,1.0
+941,16000000,Bhuwanbasti,7290.0,South,6.0,2.0,2.0,2.0,10,20.0,,2.5
+942,17000000,Banepa,1000.0,East,12.0,4.0,14.0,2.0,14,20.0,,3.5
+944,17500000,Jorpati,1500.0,East,2.0,1.0,5.0,2.0,0,13.0,,1.5
+945,27000000,Kageshwori,126.759,North,6.0,3.0,11.0,2.0,0,13.0,,2.5
+947,16000000,Imadol,500.0,South,2.0,2.0,5.0,2.0,0,13.0,,1.5
+948,16500000,"Imadol,",126.759,East,2.0,1.0,5.0,2.0,0,13.0,,1.5
+949,67500000,Panipokhari,250.08010000000002,North,4.0,1.0,5.0,2.0,0,20.0,,3.5
+950,45000000,Samakhusi,1711.25,East,7.0,4.0,2.0,2.0,10,10.0,,2.5
+951,30000000,"Taukhel,",1540.125,East,5.0,5.0,8.0,2.0,0,6.0,,2.5
+952,16000000,mulpani,1000.0,East,4.0,3.0,8.0,2.0,0,10.0,,3.5
+953,17500000,Gothatar,126.759,East,4.0,3.0,8.0,2.0,8,13.0,,2.5
+954,17000000,Near,1200.0,East,6.0,2.0,6.0,2.0,0,10.0,,2.5
+958,55000000,Deuwa,338.024,East,8.0,4.0,11.0,2.0,0,12.0,,2.5
+960,21000000,"Sudal,",383.439,East,8.0,3.0,11.0,2.0,0,10.0,,3.5
+963,100000000,Bishalnagar,338.024,South,5.0,3.0,6.0,2.0,0,16.0,,2.5
+964,105000000,Khusibu,381.331,South,8.0,5.0,12.0,2.0,0,16.0,,4.0
+965,36500000,Khumaltar,319.269,East,3.0,4.0,3.0,2.0,0,13.0,,2.5
+966,70000000,Sukhedhara,295.771,East,4.0,3.0,4.0,2.0,0,12.0,,2.5
+967,77000000,Sanepa,380.277,East,6.0,4.0,9.0,2.0,0,13.0,,2.5
+969,23500000,Imadol,126.759,East,4.0,4.0,1.0,2.0,7,13.0,,2.5
+970,31000000,Setipakha,169.012,East,1.0,1.0,1.0,2.0,0,13.0,,1.0
+971,26000000,Panchakanya,169.012,North,2.0,2.0,1.0,1.0,4,10.0,,2.0
+972,42000000,Kohinoor,169.012,South,4.0,3.0,5.0,2.0,0,14.0,,2.5
+973,160000000,Koteswore,718.301,East,6.0,4.0,1.0,2.0,0,20.0,,2.5
+975,75000000,sanepa,380.277,South,5.0,2.0,7.0,2.0,0,20.0,,2.0
+976,8000000,Sanischare,151.25,East,4.0,1.0,1.0,2.0,4,24.0,,1.0
+979,23500000,Kapan,147.8855,South,5.0,3.0,10.0,2.0,0,10.0,,2.5
+980,26500000,Kapan,169.012,East,5.0,3.0,10.0,2.0,0,10.0,,2.5
+982,16000000,Imadol,148.149,East,2.0,2.0,1.0,1.0,4,13.0,,1.0
+983,35500000,Sitapaila,1500.0,East,6.0,4.0,10.0,2.0,0,10.0,,2.5
+984,150000000,Futung,3.5,South,2.0,1.0,4.0,2.0,0,16.0,,1.0
+985,30000000,Near,212.31900000000002,West,3.0,4.0,8.0,2.0,0,13.0,,2.5
+986,19500000,3,126.759,West,6.0,3.0,9.0,2.0,0,13.0,,2.5
+987,28000000,Lamachaur,169.012,East,6.0,5.0,10.0,2.0,10,13.0,,2.5
+989,22350000,Balkhu,126.759,North,3.0,3.0,1.0,1.0,6,5.0,,2.5
+990,29500000,Goldhunga,1500.0,West,8.0,4.0,15.0,2.0,0,10.0,,3.5
+991,45000000,Banasthali,361.522,North,7.0,5.0,9.0,2.0,0,13.0,,3.0
+994,12700000,"Lambagar,",126.759,North,3.0,1.0,4.0,2.0,0,10.0,,1.0
+996,200000000,Old,5602.759,West,8.0,5.0,1.0,2.0,0,20.0,,3.5
+997,39500000,Grande,200.70175,North,4.0,3.0,6.0,2.0,0,20.0,,1.0
+998,11500000,Siran,1200.0,West,8.0,3.0,3.0,2.0,0,12.0,,2.5
+999,41500000,Koteshwor,126.759,East,1.0,4.0,9.0,2.0,0,10.0,,3.5
+1000,24000000,Kageshwori,147.8855,East,6.0,3.0,11.0,2.0,0,20.0,,2.5
+1001,120000000,Tinkune,507.036,South,8.0,5.0,15.0,2.0,0,20.0,,3.5
+1002,55000000,Lubhu,253.518,North,7.0,5.0,13.0,2.0,0,16.0,,3.5
+1003,750000000,Duwakot,130.9843,South,4.0,1.0,4.0,2.0,0,10.0,,1.0
+1004,25000000,Imadol,898.44,East,6.0,3.0,1.0,2.0,12,10.0,,3.5
+1005,32000000,Near,3080.0,South,1.0,2.0,10.0,2.0,0,32.0,,2.5
+1006,65000000,Bhangal,642.2456,West,6.0,5.0,11.0,2.0,0,13.0,,3.5
+1012,45000000,Budhanilkantha,6.25,North,8.0,5.0,1.0,2.0,13+,14.0,,2.5
+1013,19500000,"Imadol,Lalitpur",116.19575,East,4.0,3.0,8.0,2.0,0,20.0,,2.5
+1014,19000000,Lubhu,1000.0,East,5.0,3.0,8.0,2.0,0,13.0,,2.5
+1015,24000000,Radhe,800.0,North,4.0,4.0,1.0,2.0,0,7.5,,4.0
+1016,21000000,Satdobato,169.012,East,8.0,3.0,2.0,2.0,11,6.0,,3.0
+1017,27000000,Shankhamul,2.5,West,3.0,1.0,8.0,2.0,0,20.0,,4.5
+1018,25000000,BASUNDHARA,169.012,South,6.0,4.0,1.0,3.0,10,13.0,,3.5
+1020,58000000,Dhapasi,9.24,North,5.0,5.0,14.0,2.0,0,6.0,,3.5
+1021,23500000,Chasidol,169.012,West,6.0,3.0,2.0,2.0,13+,13.0,,3.0
+1025,23500000,Hattiban,1197.87,South,5.0,3.0,8.0,2.0,0,13.0,,2.5
+1027,35000000,Basundhara,232.3915,East,2.0,1.0,8.0,2.0,0,13.0,,2.5
+1028,60000000,Hupra,1500.0,East,8.0,4.0,1.0,2.0,0,20.0,,3.0
+1031,24000000,Imadol,148.149,East,4.0,3.0,8.0,2.0,0,13.0,,2.5
+1032,19000000,Imadol,126.759,South,4.0,3.0,7.0,2.0,0,13.0,,2.5
+1033,30000000,Swoyambhu,295.771,East,1.0,1.0,1.0,2.0,0,13.0,,3.0
+1034,13000000,Jharuwarashi,169.012,West,3.0,2.0,5.0,2.0,0,12.0,,2.0
+1036,17000000,Checkpost,5.0,East,7.0,2.0,1.0,1.0,9,13.0,,2.0
+1039,25000000,Hattiban,700.0,North,6.0,3.0,11.0,2.0,0,20.0,,3.0
+1040,68000000,Budhanilkantha,304.2216,South,6.0,5.0,11.0,2.0,0,16.0,,1.0
+1041,37000000,Bhaisepati,211.265,East,4.0,4.0,1.0,2.0,0,16.0,,2.5
+1042,391000000,Maitidevi,1436.602,East,1.0,1.0,1.0,2.0,0,13.0,,1.0
+1044,65000000,Koteshwor,388.7276,South,6.0,3.0,1.0,2.0,0,16.0,,3.5
+1045,39000000,Khumaltar,177.4626,East,4.0,4.0,1.0,2.0,0,16.0,,2.5
+1046,24000000,Budhanilkantha,169.012,East,1.0,1.0,1.0,2.0,0,20.0,,1.0
+1047,27000000,Balwakhani,1440.0,East,3.0,3.0,7.0,2.0,0,12.0,,2.5
+1050,69500000,Bhaisepati,261.9686,South,6.0,3.0,1.0,2.0,0,20.0,,2.5
+1051,23000000,Budhanilkantha,147.8855,East,4.0,3.0,1.0,2.0,0,16.0,,3.0
+1052,16000000,Chunikhel,3.1,North,2.0,1.0,4.0,2.0,0,13.0,,2.0
+1053,40000000,Hanumanghat,1863.0,South,1.0,4.0,15.0,2.0,0,12.0,,3.5
+1054,35000000,"Taukhel,",4.0,West,5.0,4.0,11.0,2.0,0,13.0,,1.0
+1055,22500000,Balkumari,126.759,West,7.0,1.0,11.0,2.0,0,13.0,,3.5
+1057,16000000,Hattiban,126.759,East,1.0,1.0,1.0,2.0,0,20.0,,3.0
+1059,26000000,Balaju,190.1385,East,4.0,3.0,8.0,2.0,0,13.0,,2.5
+1061,23500000,10,422.53,West,6.0,2.0,1.0,2.0,0,13.0,,2.5
+1063,35000000,Bhaisapati,147.8855,East,4.0,4.0,1.0,2.0,0,13.0,,1.0
+1065,25000000,Gokarna,318.215,East,8.0,3.0,3.0,1.0,12,44.0,,2.5
+1068,16000000,Harisiddhi,147.8855,East,4.0,3.0,1.0,3.0,8,13.0,,2.5
+1069,4200000,Makwanpur,1200.0,East,4.0,1.0,3.0,2.0,0,13.0,,1.0
+1070,40000000,Hattigauda,382.385,South,8.0,6.0,1.0,3.0,14,28.0,,4.0
+1072,35000000,Saurahachowk,1822.5,East,8.0,5.0,15.0,2.0,0,20.0,,3.5
+1073,65000000,Grande,338.024,West,5.0,5.0,8.0,2.0,0,18.0,,3.0
+1074,9000000,Samanthali,3.1,North,3.0,2.0,6.0,2.0,0,10.0,,1.5
+1075,19499988,Kalanki,1200.0,West,3.0,3.0,6.0,2.0,0,6.0,,2.5
+1076,19800000,Dhapakhel,126.759,South,4.0,3.0,2.0,2.0,8,20.0,,2.5
+1077,29000000,Lubhu,1750.0,South,5.0,4.0,9.0,2.0,0,20.0,,1.0
+1079,24500000,Sano,147.8855,North,5.0,3.0,9.0,2.0,0,20.0,,2.5
+1080,5500000,Dhangadhi,800.0,North,4.0,1.0,4.0,2.0,0,13.0,,1.0
+1082,35000000,Birtabazar,1500.0,East,4.0,1.0,1.0,2.0,0,60.0,,1.0
+1083,25000000,Phutung,361.522,East,5.0,4.0,1.0,2.0,0,12.0,,2.5
+1085,32000000,Panchetaar,200.70175,East,5.0,4.0,7.0,1.0,7,20.0,,2.5
+1088,11000000,Bhainsepati,126.759,South,3.0,2.0,5.0,2.0,0,40.0,,2.0
+1089,45000000,Syuchatar,464.783,East,7.0,4.0,1.0,2.0,0,20.0,,3.0
+1093,35000000,United,232.3915,West,5.0,4.0,2.0,1.0,10,13.0,,3.0
+1096,9100000,Thali,900.0,West,3.0,2.0,6.0,2.0,0,10.0,,2.0
+1097,19000000,Imadol,383.439,East,4.0,3.0,8.0,2.0,0,14.0,,2.5
+1098,35000000,United,232.3915,South,5.0,4.0,1.0,1.0,10,13.0,,3.0
+1100,28000000,Near,126.759,South,8.0,3.0,14.0,2.0,0,25.0,,4.0
+1101,32000000,near,4.2,East,8.0,5.0,14.0,2.0,0,20.0,,3.0
+1102,40000000,Harisiddhi,338.024,East,8.0,5.0,1.0,2.0,0,12.0,,2.5
+1105,28500000,7,295.771,East,1.0,3.0,15.0,2.0,0,20.0,,6.0
+1107,37000000,Kapan,257.7433,East,7.0,4.0,11.0,2.0,0,20.0,,3.5
+1108,32500000,Tinthana,1500.0,East,8.0,4.0,10.0,2.0,0,16.0,,3.0
+1109,22000000,815,4.0,North,5.0,3.0,11.0,2.0,0,20.0,,3.0
+1110,150000000,Dhapasi-Height,1352.096,South,4.0,4.0,2.0,1.0,8,9.0,,3.0
+1111,20000000,New,7.0,East,8.0,5.0,1.0,2.0,0,13.0,,3.5
+1113,26500000,kalanki,169.012,East,1.0,1.0,1.0,2.0,0,13.0,,7.0
+1114,30000000,Jorpati,1200.0,East,8.0,3.0,12.0,2.0,0,13.0,,3.0
+1115,30000000,Syuchatar,4.5,East,1.0,5.0,14.0,2.0,0,10.0,,3.5
+1117,11500000,Makalbari,63.58,East,2.0,2.0,5.0,2.0,0,13.0,,2.5
+1118,35000000,Gongabu,169.012,South,8.0,5.0,3.0,3.0,13+,12.0,,3.5
+1119,14500000,Sitapaila,135.2096,East,3.0,3.0,1.0,1.0,8,10.0,,2.5
+1120,26000000,Tokha,1500.0,East,5.0,4.0,1.0,2.0,0,20.0,,2.5
+1122,50000000,Balaju,382.91200000000003,South,8.0,8.0,4.0,3.0,14,10.0,,4.0
+1123,31000000,Chabahil,1194.0,East,8.0,5.0,15.0,2.0,0,13.0,,3.5
+1124,37500000,Bhimsenthan,169.012,East,8.0,5.0,15.0,2.0,0,12.0,,4.0
+1126,28000000,Kapan,169.012,East,7.0,4.0,11.0,2.0,0,13.0,,2.5
+1127,15500000,Duwakot,253.518,East,4.0,2.0,2.0,1.0,6,20.0,,1.5
+1128,24000000,Kapan,3.5,West,7.0,4.0,13.0,2.0,0,13.0,,3.5
+1129,80000000,Nayagaun,507.036,North,7.0,5.0,2.0,2.0,14,20.0,,2.5
+1130,16000000,Doleswor,700.0,East,6.0,3.0,7.0,2.0,0,6.0,,3.0
+1131,16000000,Hetauda,2151.0,East,2.0,1.0,1.0,2.0,0,13.0,,1.0
+1132,27500000,Naikap,169.012,South,5.0,3.0,10.0,2.0,0,13.0,,2.5
+1133,13900000,KAPAN,1200.0,North,2.0,1.0,4.0,2.0,0,13.0,,1.0
+1134,21500000,Khumaltar,212.31900000000002,South,3.0,3.0,8.0,2.0,0,12.0,,2.5
+1135,19000000,Kapan,4.0,West,2.0,1.0,4.0,2.0,0,10.0,,1.0
+1136,52500000,Bhairahawa,3380.0,North,8.0,5.0,14.0,4.0,14,42.0,,2.0
+1137,130000000,Hadigaon,941.1600000000001,South,4.0,5.0,2.0,2.0,0,13.0,,2.5
+1138,15000000,Ranjha,760.554,East,5.0,4.0,8.0,2.0,8,13.0,,2.0
+1139,12500000,Townplanning,2.5,South,2.0,1.0,4.0,2.0,0,8.0,,1.0
+1140,18000000,Bhatkepati,297.879,South,6.0,3.0,1.0,1.0,9,13.0,,2.5
+1142,10500000,Dadathok,383.966,West,3.0,2.0,2.0,2.0,7,13.0,,3.0
+1143,20000000,Banasthali,1027.0,North,5.0,3.0,2.0,2.0,12,7.6,,2.5
+1144,16000000,Teku,464.783,North,1.0,1.0,1.0,2.0,0,13.0,,4.0
+1145,14500000,Mathatirtha,169.012,East,8.0,3.0,10.0,2.0,0,13.0,,2.5
+1146,350000000,"Dillibazar,",1500.0,South,7.0,3.0,1.0,2.0,0,10.0,,3.0
+1147,140000000,Basundhara,8214.0,North,8.0,3.0,3.0,3.0,0,13.0,,3.0
+1148,16000000,Sukedhara,126.759,East,6.0,3.0,2.0,2.0,8,20.0,,2.5
+1151,25500000,Syuchatar,425.16499999999996,West,4.0,2.0,7.0,2.0,0,10.0,,2.5
+1153,19500000,Imadol,900.0,East,5.0,5.0,9.0,2.0,9,13.0,,2.5
+1156,19900000,Sanagaun,297.879,East,8.0,4.0,2.0,2.0,11,12.0,,2.5
+1157,22000000,bhangal,297.879,East,7.0,5.0,11.0,2.0,0,13.0,,2.5
+1158,12000000,suryabinayak,126.759,East,2.0,1.0,1.0,1.0,1,12.0,,1.0
+1159,23000000,Sipadol,297.352,South,5.0,3.0,3.0,2.0,9,12.0,,2.5
+1160,11500000,Tikathali,255.626,East,3.0,1.0,1.0,1.0,4,12.0,,1.5
+1161,19000000,Jharankhu,0.0,East,7.0,4.0,2.0,2.0,11,13.0,,2.5
+1162,27000000,Kapan,169.012,East,5.0,5.0,10.0,2.0,10,13.0,,2.5
+1163,35000000,Sukedhara,446.555,north,9.0,4.0,3.0,3.0,0,12.0,,3.5
+1165,30000000,Sanepa,340.132,East,6.0,5.0,2.0,2.0,1,12.0,,2.5

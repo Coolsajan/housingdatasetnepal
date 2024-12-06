@@ -1,0 +1,287 @@
+price,location,area,facing,no_of_bedroom,no_of_bathroom,no_of_livingroom,no_of_kitchen,parking,road_size,furniture,floors
+32000000,"Shital height, Imadol",0-3-0-2,East,5,4,2,3,4,13,Semi Furnished,3
+28000000,Shital Height,0-3-0-0,West,5,4,2,3.5,2,13,Semi Furnished,3.5
+32500000,House for sale bhangal,,South,,,,,,,Select Furnishing,
+20000000,Pulchowk birtamode ,,East,3,1,1,1,3,,Select Furnishing,1
+32500000,"Koteshwor, Kathmandu",,West,5,3,2,2.5,1,,,2.5
+40000000,"Shital height, Imadol",0-4-0-0,North,6,4,2,2.5,4,13,Full Furnished,2.5
+28000000,Bhaisepati,0-4-0-0,South,6,3,2,2.5,4,16,Full Furnished,2.5
+40000000,Harisiddhi,0-7-0-0,East,6,4,2,2.5,4,13,Full Furnished,2.5
+47000000,"Shital height, Imadol",0-4-2-0,East,6,4,2,3,4,13,Full Furnished,3
+47000000,Cheu dada,5 aana,East,6,5,,2.5,2,,Full Furnished,2.5
+52500000,Bhaisepati,0-5-2-0,East,6,5,2,2.5,4,16,Full Furnished,2.5
+42500000,Shital Height,0-4-0-0,North,6,4,2,3,4,13,Full Furnished,3
+60000000,Sifal chowk,0-4-2-1,East,8,5,3,3.5,2,,Full Furnished,3.5
+35000000,baneshwor,3 aana,North,,3,3,3.5,1,10,Unfurnished,3.5
+63000000,Shital Height,0-6-0-0,South,6,5,2,2.5,4,13,Full Furnished,2.5
+28000000,"Gadatantra chowk , Saraswotinagar ",0-3-0-0,East,6,4,2,3,3,14,Semi Furnished,3
+53500000,"Shital height, Imadol",0-4-2-0,South,6,4,1,2.5,4,13,Full Furnished,2.5
+39000000,Bhaisepati,0-4-3-0,South-East,6,5,2,3.5,4,20,Semi Furnished,3.5
+45000000,"Shital height, Imadol",0-4-0-0,South,4,4,1,3,4,13,Full Furnished,3
+47000000,"Shital height, Imadol",0-4-2-2,East,6,7,3,3,1,,Full Furnished,3
+25200000,"Tikathali, Lalitpur",0-3-0-0,South,4,4,1,2.5,4,13,Semi Furnished,2.5
+6000000,"mahottrai,Bardibas",8dhur,South,2,1,0,1,1,100,Full Furnished,1
+39000000,Imadol,0-3-3-0,North,7,5,1,3.5,4,16,Semi Furnished,3.5
+39000000,Shital height,5 ropani,South-East,5,5,2,3,5,,Full Furnished,3
+39500000,Shital Height,0-4-0-0,South,5,3,2,3.5,3,13,Semi Furnished,3.5
+86000000,"Dallu, Kathmandu",0-8-0-0,South-East,10,7,4,4,4,13,Semi Furnished,4
+38500000,"Bojepokhari, Imadol",0-4-0-2,North,8,6,3,3,4,20,Semi Furnished,3
+42000000,"Shital height, Imadol",0-4-1-0,South,7,5,2,3.5,4,13,Semi Furnished,3.5
+42500000,"Shital height, Imadol",0-4-0-0,South,7,5,2,3.5,3,13,Semi Furnished,3.5
+22000000,Tempo park,0-2-3-0,South,4,4,2,2.5,2,13,Semi Furnished,2.5
+30000000,"Shital height, Imadol",0-4-1-2,East,5,4,2,2.5,3,13,Semi Furnished,2.5
+63500000,PASIKOT ,0-8-2-0,North-East,6,5,3,2.5,5,13,Semi Furnished,2.5
+50000000,Sano bharyang,0-5-0-0,North-East,6,4,2,3,4,13,Full Furnished,3
+17500000,Tej Binayak,0-3-0-1,South,4,3,1,1.5,2,12,Semi Furnished,1.5
+63000000,Veenas residency,0-8-0-0,North,5,3,1,2.5,4,20,Semi Furnished,2.5
+32500000,Thapagaun,0-3-0-0,North,16,4,2,4,3,20,Semi Furnished,4
+33500000,Near karuna hospital ,0-4-0-0,West,6,4,2,2.5,4,13,Semi Furnished,2.5
+31000000,"Lasuntar, kapan",0-4-0-2,South-West,6,4,2,2.5,4,13,Semi Furnished,2.5
+31000000,Lasuntar,0-4-0-2,South-West,6,4,2,2.5,4,13,Semi Furnished,2.5
+29500000, Near karuna hospital,0-3-2-0,South,6,4,2,2.5,4,13,Semi Furnished,2.5
+36500000,Bhangal,0-4-2-0,North-West,6,4,2,2.5,4,13,Semi Furnished,2.5
+45000000,Shankhamul,0-5-0-0,North-East,5,3,2,2.5,4,13,Semi Furnished,2.5
+80000000,"Hattigauda, Budhanilkantha",0-7-3-0,South-West,5,6,3,2.5,4,,Semi Furnished,2.5
+23000000,"Imadol, Lalitpur",0-2-2-0,North-East,5,3,2,3,4,13,Full Furnished,3
+35000000,Mulpani,0-4-2-0,North-East,4,3,1,3.5,4,26,Semi Furnished,3.5
+34500000,Bhangal height,0-3-0-3,North-West,5,4,2,3,4,13,Semi Furnished,3
+32500000,"Gairigaun,  Duidhara",0-3-2-0,North,6,4,3,3.5,3,12,Semi Furnished,3.5
+39500000,Ganesh Chowk,0-4-1-0,South-West,5,5,2,2.5,4,18,Semi Furnished,2.5
+268000000,Baluwatar near Nepal Rastra Bank,0-24-0-0,East,5,6,1,2.5,1,,Semi Furnished,2.5
+105000000,chappal karkhana,0-9-2-0,South-West,4,5,1,2.5,7,13,Semi Furnished,2.5
+26000000,"Sanagaun, Lalitpur",0-3-0-0,North,6,4,2,2.5,4,20,Semi Furnished,2.5
+31500000,"Tikathali, Lalitpur",0-5-2-0,South,5,6,1,2.5,4,13,Full Furnished,2.5
+26500000,"Tikathali, Lalitpur",0-3-0-0,South,6,5,1,2.5,4,13,Semi Furnished,2.5
+32500000,"Tikathali, Lalitpur",0-4-1-1,North,6,5,1,2.5,3,13,Semi Furnished,2.5
+47500000,Nakkhipot,0-5-0-0,East,5,3,2,2.5,3,20,Full Furnished,2.5
+30000000,Sanobharyang,0-3-0-0,North-East,4,3,3,3.5,3,20,Semi Furnished,3.5
+33000000,Sanobharyang,0-3-3-0,North-East,5,3,3,2.5,4,22,Semi Furnished,2.5
+17500000,"Taukhel, Ramkot",0-3-0-0,North-East,2,2,1,1,3,10,Semi Furnished,1
+28500000,Padma Colony,0-3-3-0,South-West,5,3,1,2.5,3,13,Semi Furnished,2.5
+39000000,Dholahiti Lalitpur,0-4-0-2,North,5,3,2,2.5,4,13,Full Furnished,2.5
+80000000,"Budhanilkantha, Kathmandu",0-8-0-0,South-West,5,5,2,2.5,3,13,Semi Furnished,2.5
+32500000,"Budhanilkantha, Kathmandu",0-3-2-0,South-East,6,4,2,2.5,3,20,Semi Furnished,2.5
+33000000,"Bafal, Kathmandu",0-4-0-2,South-East,5,3,2,2.5,3,13,Semi Furnished,2.5
+32000000,"Bhangal, budhanilkantha",0-3-0-2,South-West,6,4,2,2.5,3,13,Semi Furnished,2.5
+35000000,"Tikathali, Lalitpur",0-4-0-0,South,6,4,3,3,3,20,Semi Furnished,3
+36500000,Jala binayak colony,0-5-2-2,South,5,3,1,2.5,3,20,Full Furnished,2.5
+35000000,Jala binayak colony,0-5-2-0,South,5,3,1,2.5,3,20,Full Furnished,2.5
+25000000,Pragati Colony,0-3-2-0,West,5,4,2,3,4,13,Semi Furnished,3
+57500000,Bhaisepati,0-6-0-0,East,4,3,1,2,4,13,Full Furnished,2
+28500000,"Tikathali, Lalitpur",0-3-0-0,East,5,4,2,3.5,4,13,Full Furnished,3.5
+35000000,Bhaisepati,0-3-0-1,East,4,4,1,2.5,4,20,Full Furnished,2.5
+38000000,Tinthana,0-5-1-3,South,6,5,3,3,3,12,Semi Furnished,3
+38000000,"Kalanki, Syuchatar ",0-4-0-0,South-West,6,3,2,2.5,3,13,Semi Furnished,2.5
+36000000,"Thamel, Galkopakha ",,South,9,3,,3,,,Semi Furnished,3
+18500000,Satungal,0-3-1-2,South-East,3,2,1,2.5,3,31,Semi Furnished,2.5
+38000000,"Sitapaila, Kathmandu",0-5-3-0,South-West,8,3,0,4,4,16,Semi Furnished,4
+70000000,"Raniban, Kathmandu",0-6-1-0,North-West,7,5,2,2.5,5,20,Semi Furnished,2.5
+80000000,Khadka Gau,0-12-0-0,North-East,6,6,2,2.5,7,14,Semi Furnished,2.5
+37500000,Imadol,0-3-2-0,South,5,4,2,3.5,4,13,Full Furnished,3.5
+52000000,"Imadol, lalitpur",0-5-1-2,South,7,8,2,3.5,5,13,Full Furnished,3.5
+54000000,Imadol,0-5-0-0,East,7,7,2,3,4,20,Full Furnished,3
+42000000,Cozy home,0-3-2-2,East,4,4,1,3,4,13,Full Furnished,3
+42000000,Cozy Home,0-3-0-0,West,4,4,1,3,4,13,Full Furnished,3
+39000000,Dhapakhel ,0-4-2-0,East,6,5,2,3,4,20,Semi Furnished,3
+52500000,Hattiban Housing,0-4-3-0,North-East,4,3,1,2.5,4,26,Full Furnished,2.5
+70000000,Dhumbarahi,0-6-0-0,South,6,3,2,4,4,13,Full Furnished,4
+77500000,Dholahiti Lalitpur,0-10-1-0,North-East,5,4,1,2.5,5,13,Semi Furnished,2.5
+65000000,Green Hill City,0-5-2-0,South,5,5,3,3,4,20,Full Furnished,3
+23500000,Naya Basti,0-3-0-1,South,5,3,2,3,2,11,Semi Furnished,3
+70000000,Dreamz Homez Colony,0-5-3-0,North-East,4,4,2,2.5,3,16,Semi Furnished,2.5
+22000000,Bajradham Colony,0-3-3-0,East,6,6,2,3,3,13,Semi Furnished,3
+62500000,Hepali Heights,0-6-0-0,South,4,4,1,3,3,16,Semi Furnished,3
+59000000,Dhapakhel Height,0-8-3-3,South,6,7,2,3,5,20,Full Furnished,3
+80000000,"Basundhara, Kathmandu",0-8-0-0,East,8,4,2,3,6,26,Semi Furnished,3
+27500000,Lalitpur Metropolitan City-24,Nepal,North,3,3,3,3.5,2,13,Semi Furnished,3.5
+33000000,"Balkot, Bhaktapur",0-3-1-2,East,6,5,2,3,3,13,Full Furnished,3
+80000000,Hepali Height,0-8-0-3,East,9,7,2,3.5,5,13,Semi Furnished,3.5
+29800000,"Imadol, Krishna Mandir",0-4-0-0,West,5,3,2,2.5,6,13,Semi Furnished,2.5
+34500000,Near Down Town Residency,0-3-2-0,North,5,4,2,3,3,16,Semi Furnished,3
+27500000,Samakhushi,2.5 aana,East,4,4,3,4,3,16,Semi Furnished,4
+30000000,"Duwakot , Bhaktapur",0-4-0-1.57,South,4,3,1,2.5,1,,Semi Furnished,2.5
+37500000,Imadol,0-4-1-0,West,7,5,2,3.5,4,20,Semi Furnished,3.5
+45000000,Bhaisepati,0-4-2-0,West,4,3,2,2.5,4,13,Full Furnished,2.5
+41000000,Binayak Colony,0-4-0-0,North,4,3,2,2.5,3,16,Full Furnished,2.5
+28000000,Sudarsan Height,0-3-2-0,South-West,5,4,2,2.5,3,14,Semi Furnished,2.5
+40000000,Chakku Mandir House,0-3-0-0,North,4,4,1,2.5,4,12,Full Furnished,2.5
+35500000,Manmohan hospital,0-4-0-0,South,5,3,2,2.5,4,13,Semi Furnished,2.5
+65000000,Syuchatar,0-9-0-0,South-West,6,5,2,3.5,5,13,Full Furnished,3.5
+21000000,"Shital height, Imadol",0-3-0-0,North-West,6,5,2,2.5,3,15,Full Furnished,2.5
+50000000,Bhaisepati,0-5-1-0,East,4,3,2,2.5,4,13,Full Furnished,2.5
+42500000,"Shital height, Imadol",0-4-1-1,North,6,5,2,3.5,4,16,Full Furnished,3.5
+32500000,Paiyutar,0-3-3-2,South-East,6,4,2,2.5,3,14,Semi Furnished,2.5
+21000000,"Lubhu, Lalitpur",0-3-1-0,East,5,4,2,2.5,3,13,Semi Furnished,2.5
+92500000,"Bakhundol, Lalitpur",0-8-0-0,North,4,3,2,3,3,13,Semi Furnished,3
+12500000,Sudal,0-2-2-0,North,4,2,0,1,1,6,Semi Furnished,1
+27500000,Setipakha,0-3-1-0,South-West,5,4,2,2.5,4,13,Semi Furnished,2.5
+67500000,"Budhanilkantha, Kathmandu",0-13-0-0,East,5,4,2,2.5,5,13,Semi Furnished,2.5
+130000000,"Pasikot, Budhanilkantha",0-18-0-0,North,4,4,2,2.5,4,13,Semi Furnished,2.5
+30000000,"Bagdol, Namuna Marg Paschim, Lalitpur",Nepal,West,2,2,1,2.5,2,,Semi Furnished,2.5
+170000000,Near Talim Kendra,0-19-0-0,North,3,3,1,2.5,10,16,Semi Furnished,2.5
+26500000,Shital Height,0-2-3-0,South,5,4,2,3,4,13,Semi Furnished,3
+31000000,"Budhanilkantha, Kathmandu",0-4-2-0,North,6,6,2,2.5,4,13,Semi Furnished,2.5
+27000000,"Sanagaun, Lalitpur",0-3-1-0,South,5,4,1,3.5,4,13,Full Furnished,3.5
+29000000,Ochu Height,0-3-1-2,East,6,5,2,2.5,4,13,Full Furnished,2.5
+135000000,Hattigauda,1-0-0-0,East,5,8,2,2.5,7,13,Full Furnished,2.5
+55000000,"Bhaisepati, Lalitpur",0-5-0-0,South,6,4,2,3,4,13,Semi Furnished,3
+39500000,Bhangal,0-4-1-2,South-West,6,3,2,3,3,13,Full Furnished,3
+33500000,ochu height,0-3-1-3,East,6,5,2,3.5,1,,Full Furnished,3.5
+23500000,Nepal ,3.2 Aana,East,3,3,3,3,2,,Unfurnished,3
+25000000,chyasundole ,Nepal,East,4,4,2,2.5,1,,Unfurnished,2.5
+38000000,Government Planning,4 aana 2 paisa,East,4,4,1,2.5,1,,Semi Furnished,2.5
+115000000,Sukedhara,0-12-0-0,East,5,4,2,2.5,7,14,Semi Furnished,2.5
+26900000,Nakkhu,0-3-2-0,North,5,5,2,2.5,4,16,Semi Furnished,2.5
+26000000,Dhalmal,0-2-2-0,South,6,5,2,3,2,13,Semi Furnished,3
+23000000,"Tikathali, Lalitpur",0-3-0-2,East,6,4,1,2.5,4,13,Semi Furnished,2.5
+38500000,Ochu Height,0-3-3-0,West,6,4,1,2.5,4,13,Full Furnished,2.5
+55000000,Imadol,0-5-0-0,West,5,4,2,3.5,3,13,Full Furnished,3.5
+35000000,Setipakha,0-3-2-0,South-East,7,6,2,3.5,4,13,Full Furnished,3.5
+24500000,"Shital height, Imadol",0-3-0-0,East,4,3,2,2.5,3,13,Semi Furnished,2.5
+75000000,Mantri Marga,0-7-0-0,South-East,5,6,2,2.5,6,13,Semi Furnished,2.5
+55000000,"Bhaisepati, Lalitpur",0-5-0-0,South,5,6,2,2.5,4,13,Semi Furnished,2.5
+42500000,"Shital height, Imadol",0-4-1-1,North,6,5,1,3.5,4,13,Full Furnished,3.5
+45000000,Near Ganesh chowk,0-4-3-0,East,5,5,1,2.5,4,20,Semi Furnished,2.5
+28000000,"Tikathali, Lalitpur",0-3-0-2,East,6,4,1,2.5,4,13,Full Furnished,2.5
+36500000,"Bhaisepati, Lalitpur",0-4-0-0,North,4,5,2,2.5,4,13,Semi Furnished,2.5
+33000000,Near Ganesh chowk,0-3-0-2,West,6,4,1,2.5,4,14,Full Furnished,2.5
+49500000,"Imadol, Lalitpur",0-4-3-0,West,6,3,1,3.5,6,13,Semi Furnished,3.5
+29500000,"Imadol, Lalitpur",0-3-2-0,South,6,5,2,3,4,13,Semi Furnished,3
+42000000,"Bafal, Kathmandu",0-5-0-0,South-East,4,4,1,3,3,11,Semi Furnished,3
+24000000,"Kritipur, Kathmandu",0-3-2-1,West,7,4,1,4,4,13,Full Furnished,4
+25500000,Sitapaila,3.2.3,North,3,3,1,2.5,1,20,Unfurnished,2.5
+37000000,Sitapaila Aadheshwor 5,5 Ana,East,5,2,1,3.5,2,13,Semi Furnished,3.5
+57500000,"Hattigauda, Budhanilkantha",0-6-1-0,West,5,4,2,3,4,20,Semi Furnished,3
+57500000,"Hattigauda, Budhanilkantha",0-6-1-0,West,5,4,1,3,4,20,Semi Furnished,3
+47000000,"Italitar, Budhanilkantha",0-5-0-0,South,4,6,2,3,3,13,Semi Furnished,3
+75000000,"Budhanilkantha, Kathmandu",0-9-0-0,South,5,5,1,3,3,13,Semi Furnished,3
+25000000,Near Grande Hospital,1955.29,North-East,4,4,2,2.5,1,,Semi Furnished,2.5
+45000000,Bhangal,,North,9,7,2,4,2,,Semi Furnished,4
+48500000,"Dholahiti, Lalitpur",0-5-0-0,North,5,6,2,2.5,4,13,Semi Furnished,2.5
+35000000,"Sitapaila, Kathmandu",0-3-2-0,South-East,5,5,1,2.5,3,22,Semi Furnished,2.5
+52500000,Khadka gaun,0-6-2-0,South,6,3,2,3,3,13,Semi Furnished,3
+62500000,Budhanilkantha ,,South,5,6,2,3,3,,Unfurnished,3
+35500000,Budhanilkantha ,,South,,,,,,,Select Furnishing,
+75000000,Budhanilkantha ,,East,7,4,2,7,3,,Semi Furnished,7
+165000,Bansbari ,,South,,,,,,,Select Furnishing,
+67000000,"Pasikot, Budhanilkantha",0-5-1-0,East,7,5,2,3,5,20,Full Furnished,3
+52500000,"Budhanilkantha, Kathmandu",0-4-1-3,East,4,6,1,3,3,20,Semi Furnished,3
+29500000,Budhanilkantha,,South,4,,2,2,1,,Semi Furnished,2
+60000000,"Budhanilkantha, Kathmandu",0-8-0-0,North-West,7,5,2,5,5,22,Semi Furnished,5
+39500000,"Shital height, Imadol",0-4-2-0,West,7,6,2,3,5,13,Full Furnished,3
+24000000,Near to CG Lakeview Housing,0-3-1-0,East,5,3,2,3,4,16,Semi Furnished,3
+43500000,Near LRI School,0-6-0-0,North,10,6,4,5,7,16,Semi Furnished,5
+38000000,"Swoyambhu, Karkhana Chowk",0-4-2-0,North-East,6,3,2,4,5,13,Semi Furnished,4
+70000000,"Sitapaila, Kathmandu",0-8-3-3,North-West,6,4,2,4,7,13,Semi Furnished,4
+9500000,"Itumbahal,Yatkha ",0-16-0-0,South,2,2,1,1,10,16,Semi Furnished,1
+31000000,"Simchaphat,Gurjudhara ",0-3-1-1,South-West,5,4,2,4,5,12,Semi Furnished,4
+33000000,"Mahalaxmisthan, Lagankhel",0-3-0-0,South-East,6,3,1,3,6,11,Semi Furnished,3
+14000000,Near LRI School,0-3-1-0,East,4,3,2,3,1,4,Semi Furnished,3
+26000000,"Dhapakhel, lalitpur",0-3-0-0,East,3,3,1,2.5,4,20,Semi Furnished,2.5
+27500000,100 meters from Civil Home,0-4-0-0,North,7,3,3,3,4,13,Semi Furnished,3
+38000000,Namgyal Chowk,0-3-2-0,North-East,8,4,3,3,4,13,Full Furnished,3
+19000000,"Thankot, kathmandu",0-3-0-0,East,6,3,1,3,4,14,Semi Furnished,3
+19500000,"Naikap, Basantatol ",0-4-0-0,East,6,3,1,3,4,12,Semi Furnished,3
+26500000,"Pasikot, budhanilkantha",0-3-0-0,North-East,5,4,1,3,4,13,Semi Furnished,3
+95500000,"Sanepa, lalitpur",0-10-2-0,North,5,4,1,3,7,10,Semi Furnished,3
+32500000,tempo park,3 aana 2 paisa,East,6,5,2,2.5,1,,Semi Furnished,2.5
+20000000,"Kathmandu ,Dhumbarai-4,Near pipal bot chowk.",0-3-2-0,North,6,2,1,2.5,2,8,Unfurnished,2.5
+70000000,Indrapur,,West,5,2,1,,2,,Semi Furnished,
+24000000,"Sanagaun, Lalitpur",0-3-0-0,East,6,4,2,3,4,13,Semi Furnished,3
+24500000,"Tikathali, Lalitpur",0-3-1-0,West,5,3,2,3,4,13,Semi Furnished,3
+27500000,"Sanagaun, Lalitpur",0-3-2-0,South-East,6,4,2,3,4,13,Semi Furnished,3
+27000000,"Tikathali, Lalitpur",0-3-0-0,North,5,4,1,3,4,13,Semi Furnished,3
+27500000,"Tikathali, lalitpur",0-3-2-0,South,5,4,2,3,4,13,Semi Furnished,3
+27000000,"Tikathali, Lalitpur",0-3-2-0,North,5,4,2,3,4,13,Semi Furnished,3
+30000000,"Bista gaun,GS colony",4 ana,South-East,4,1,1,2.5,1,,Full Furnished,2.5
+35000000,dhapasi,Nepal,North-East,6,4,2,2.5,1,,Unfurnished,2.5
+32000000,1 km from deuba chowk,0-5-0-0,West,4,3,1,2.5,4,13,Semi Furnished,2.5
+33000000,Sundar basti,0-3-3-0,South,4,4,2,3,5,,Semi Furnished,3
+85000000,Bhaisepati,6 aana 3 paisa,South-East,5,4,1,3,4,,Full Furnished,3
+42500000,"Shital Height, Imadol",0-4-1-0,North-West,7,6,2,4,4,16,Semi Furnished,4
+55000000,Pasikot,0-6-0-0,South-East,8,5,3,3,4,,Semi Furnished,3
+35000000,Imadol Tempo Park,0-3-1-0,North,6,4,2,3,5,13,Semi Furnished,3
+29500000,"Halchowk, Single Tree",0-3-0-0,West,6,5,2,6,4,13,Semi Furnished,6
+60000000,Ishan Colony,0-8-1-0,South-East,5,3,1,3,5,16,Semi Furnished,3
+110000000,Sanepa Chowk,0-11-0-0,South,7,5,1,4,8,10,Semi Furnished,4
+22500000,"Hattiban, Lalitpur",0-2-2-3,South,5,2,1,3,4,12,Semi Furnished,3
+92500000,sitapaila,Nepal,South,4,3,1,2.5,4,,Full Furnished,2.5
+33000000,near Bhatbhateni,0-3-1-0,South,6,4,2,4,4,26,Semi Furnished,4
+44500000,Mahalaxmi,0-4-0-0,North-West,6,6,2,4,4,26,Semi Furnished,4
+70000000,"Sunrise Height, Raniban",0-8-2-0,South,6,5,2,4,4,13,Full Furnished,4
+28000000, 700 meter away from main sitapaila chowk,0-3-2-3,South-West,4,3,2,3,4,,Semi Furnished,3
+17500000,"Kalanki, kathmandu",0-2-3-0,South,5,3,2,3,4,13,Semi Furnished,3
+29000000,Near LRI,0-3-2-0,South-East,7,5,3,4,4,15,Semi Furnished,4
+41000000,Budanilkantha-7,Nepal,North-East,4,4,2,2.5,2,,Full Furnished,2.5
+33000000,kapan,Nepal,East,7,3,3,3.5,1,,Unfurnished,3.5
+11000000,Malangwa-03 ,0-1-0,East,2,2,1,1,2,10,Semi Furnished,1
+30000000,budhanilkantha,Nepal,West,5,4,2,2.5,1,,Unfurnished,2.5
+70000000,Dhumbarahi,6 aana,South,9,8,4,4,4,,Full Furnished,4
+48000000,"Deuba chowk, Budhanilkantha",0-7-0-0,South-East,3,3,1,3,1,13,Semi Furnished,3
+62500000,budhanilkantha,Nepal,West,5,4,1,2.5,1,,Unfurnished,2.5
+31500000,Ochu Height,0-3-1-0,East,5,4,2,4,1,13,Full Furnished,4
+32500000,"Rajkulo, Imadol",0-3-2-0,West,5,4,2,3,1,13,Semi Furnished,3
+29000000,"Rajkulo, Imadol",0-3-1-0,South,6,5,2,4,1,13,Semi Furnished,4
+46000000,Rumba Chwok,4 aana,North-East,6,6,2,3.5,3,20,Semi Furnished,3.5
+32500000,"Rajkulo, Imadol",0-3-1-0,West,5,4,2,4,3,13,Full Furnished,4
+32500000,Yellow Gumba,4 aana ,South-East,5,6,2,2.5,3,16,Full Furnished,2.5
+35000000,dhapasi,Nepal,East,6,4,1,2.5,1,,Unfurnished,2.5
+45000000,samakhusi,Nepal,East,8,5,3,3.5,1,,Unfurnished,3.5
+31000000,"Manjurshree tole, bhaisepati",0-3-3-2,West,3,4,2,3,1,13,Semi Furnished,3
+43000000,Bhaisepati near Mediciti Hospital,0-5-0-0,South,6,5,2,3,1,13,Semi Furnished,3
+35000000,Bhaisepati near Mediciti hospital,0-3-3-0,South,4,4,1,3,1,12,Semi Furnished,3
+26000000,700 meter from Medicity hospital,0-3-0-0,East,4,4,1,3,1,14,Semi Furnished,3
+55000000,Shital Height,5 aana 1 paisa,South,7,6,2,3.5,2,,Full Furnished,3.5
+25000000,Radha krishna mandir,3 aana,South-East,4,4,2,2.5,3,13,Unfurnished,2.5
+30000000, Green Hill Academy and Milandhamsthali,5 aana 2 paisa 2 daam,South-East,5,5,2,2.5,4,13,Full Furnished,2.5
+42500000,Ochu Height,4 aana 1 paisa,East,5,4,3,2.5,4,13,Semi Furnished,2.5
+33500000,Nayabasti,3 anna 2 paisa,North-West,5,6,2,3,3,20,Semi Furnished,3
+7500000,"mahottrai,Bardibas",8dhur,South,2,1,0,1,2,100,Full Furnished,1
+28000000,Tej Binayak chwok,3 anna 1 paisa,West,7,5,2,2.5,4,20,Semi Furnished,2.5
+28000000,Gothatar,3 anna 1 paisa,West,5,4,2,2.5,4,20,Semi Furnished,2.5
+32500000,Gandhichowk,3 anna 2 daam,West,5,5,3,3.5,3,14,Full Furnished,3.5
+90000000,Near medicity hospital,Starting from 6 aana,East,5,4,2,3,1,,Semi Furnished,3
+67000000,Balkumari,0-5-2-0,South,4,4,2,3,1,13,Full Furnished,3
+64000000,Near Triton college,0-5-1-2,South,4,4,2,3,1,13,Full Furnished,3
+37500000,Shanti Chowk,3 anna 2 paisa,North-East,6,6,2,3.5,4,20,Full Furnished,3.5
+87500000,Near Triton college,10 aana,North-East,5,4,2,3,3,,Full Furnished,3
+60000000,kalanki,8 aana,North-East,7,4,1,2.5,,13,Semi Furnished,2.5
+45000000,pasikot,4 aana 1 paisa,East,6,2,2,2.5,2,13,Semi Furnished,2.5
+47500000,"Sano bharyang Colony,Ward no.2",4.2 aana,South-East,4,4,1,2.5,3,20,Semi Furnished,2.5
+24500000,2.5 km from kalanki,4 aana 1 paisa 3 daam,East,8,5,3,3,2,13,Semi Furnished,3
+100000000,Sano bharyang Colony,13 aana,South-West,5,5,1,3,10,20,Semi Furnished,3
+95000000,"Sitapaila,Comfort housing",13 aana 2 paisa,South,5,3,1,2.5,10,20,Full Furnished,2.5
+46500000,"Sanagaun, lalitpur",0-5-0-0,West,4,5,2,3,1,20,Full Furnished,3
+49500000,"Sanagaun, lalitpur",0-5-0-0,West,5,5,2,3,1,,Full Furnished,3
+46500000,"Sanagau, Lalitpur",0-4-3-0,East,5,6,2,3,1,13,Semi Furnished,3
+37500000,"Ochu Height, Imadol",0-4-1-0,South,4,5,2,3,1,13,Full Furnished,3
+33500000,"Ochu height, Imadol",0-3-1-0,South,5,5,2,3,1,13,Full Furnished,3
+42500000,imadol sitalheight,Nepal,North-East,,3,2,2.5,2,13,Full Furnished,2.5
+26500000,"Tikathali, Mahalaxmi, Nepal",3Anna 3Daam,West,,2,2,3,3,13,Semi Furnished,3
+57000000,"Shital height, Imadol",0-5-0-0,West,6,7,1,3,1,,Full Furnished,3
+67500000,mid baneshwor ,Nepal,East,5,4,1,2.5,2,,Unfurnished,2.5
+33500000,"Shital height, Imadol",0-3-1-0,North,5,6,2,3,1,,Full Furnished,3
+41500000,Ochu Height,0-4-0-1,South,6,5,2,3.5,2,,Full Furnished,3.5
+33000000,ochu height,0-3-1-1,South,5,5,2,2.5,2,,Full Furnished,2.5
+33500000,"Shital height, Imadol",0-3-1-0,North,5,5,3,3,1,13,Full Furnished,3
+42500000,"Shital Height, Imadol ",0-3-3-0,South-East,6,7,4,3,1,,Full Furnished,3
+45000000,"Shital Height, Imadol",0-4-0-0,South-West,6,5,2,3,1,,Semi Furnished,3
+14000000,Thali,0-3-1-2,North-West,2,1,1,1,1,,Semi Furnished,1
+33500000,"Balaju height, Bohoratar",0-4-2-0,East,7,4,1,2.5,1,,Semi Furnished,2.5
+29500000,Balaju dhalmal chowk,0-3-3-0,West,5,4,1,2.5,1,,Semi Furnished,2.5
+29500000,imadol,Nepal,South,6,4,2,3,3,13,Semi Furnished,3
+9500000,Bistachap,,East,2,1,1,1,1,,Select Furnishing,1
+57000000,imadol sitalheight,Nepal,South,7,5,2,3,3,13,Full Furnished,3
+32500000,imadol sitalheight,Nepal,North,5,4,3,4,2,13,Full Furnished,4
+39000000,pasikot,Nepal,North-East,5,6,2,2.5,2,,Unfurnished,2.5
+38000000,mandikatar faat,0-5-2-0,East,5,5,1,2.5,2,,Semi Furnished,2.5
+140000000,bhatbhateni ,Nepal,East,5,4,1,2.5,4,,Semi Furnished,2.5
+350000,Bagmati,,East,,,,,,,Unfurnished,
+21500000,Chandragiri,3 Aana 2 Daam,East,5,3,2,2.5,4,13,Semi Furnished,2.5
+23500000,kalanki,3 Aana 2 Daam,East,6,3,1,2.5,3,,Semi Furnished,2.5
+28000000,Nakhipot,0-4-0-0,West,4,3,1,3.5,1,,Semi Furnished,3.5
+29500000,Nakhipot,0-4-0-0,West,4,3,1,3.5,1,,Full Furnished,3.5
+98000000,maitidevi to ghategulo ,Nepal,North-West,5,4,1,2.5,4,,Semi Furnished,2.5
+120000000,Ganesh Chowk,17 aana,South,5,5,2,3,2,,Semi Furnished,3
+38500000,"Hattiban, Lalitpur, Nepal",Nepal,North,5,4,2,2.5,2,13,Semi Furnished,2.5
+32000000,budhanikantha ,Nepal,West,5,4,2,3.5,2,13,Full Furnished,3.5

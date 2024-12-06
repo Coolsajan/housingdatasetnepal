@@ -1,0 +1,1167 @@
+,price,location,area,facing,no_of_bedroom,no_of_bathroom,no_of_livingroom,no_of_kitchen,parking,road_size,floors
+0,"रु.2,40,00,000",Kapan,3.30anna,South,4,4,2,undefined,10,15,2.5
+1,"रु.2,50,00,000",Imadol,3 ana 1 paisa,South,7,4,2,2,8,,3
+2,"रु.3,65,00,000",Imadol,3.5 aana,Select,8,4,2,2,8,24,3
+3,"रु.2,15,00,000",Imadol,Paune 3 ana,Select,7,4,2,2,7,,3
+4,"रु.3,80,00,000",Imadol,4 Aana 1 Paisa,East,7,5,2,2,16,13,3.5
+5,"रु.3,20,00,000",Imadol,3 Aana 2 Daam,East,5,4,2,2,13,13,3
+6,"रु.11,50,00,000",Sinamangal,10 Aana,West,4,3,2,1,10,20Ft,2
+7,"रु.4,00,00,000",Harisiddhi,7 aana,East,6,4,2,2,14,13,2.5
+8,"रु.3,25,00,000",Safaray,4 aana,South,8,4,2,2,10,13ft,2.5
+9,"रु.2,80,00,000",Bhaisepati,4 Aana,South,6,3,2,2,13,16,2.5
+10,"रु.2,20,00,000",Bhaisepati,2.5 Aana,North,6,4,1,2,13,16,3.5
+11,"रु.3,25,00,000",Bhaisepati,7 Aana,West,6,4,1,2,13,13,2
+12,"रु.3,10,00,000","Rani,",2 kathha,Select,3,1,1,1,5,,undefined
+13,"रु.2,70,00,000",Bhaisepati,4 Aana 3 Paisa,West,6,3,2,2,13,14,2.5
+14,"रु.3,80,00,000",Bhaisepati,4.5 Aana,North,6,3,2,2,13,13,2.5
+15,"रु.2,75,00,000",Gangabu,3anna,South,15,3,3,3,15,13,3
+16,"रु.2,20,00,000",Imadol,2.5 ana,Select,5,3,2,2,7,13,2.5
+17,"रु.3,20,00,000",Imadol,3.5 aana,East,7,4,2,2,7,13,3
+18,"रु.11,50,00,000",Kathmandu,1.5 Aana,East,2,5,0,0,12,26,6
+19,"रु.5,25,00,000",Bhaisepati,5.5 Aana,East,6,5,2,2,15,16,2.5
+20,"रु.3,00,00,000",Bhaisepati,5 aana,Select,6,3,3,3,15,13,3
+21,रु.0,Bhaisepati,7 Aana,South,5,6,2,2,15,20,2.5
+22,"रु.3,90,00,000",Bhaisepati,4 Aana 3 Paisa,South,6,5,2,1,14,20,3.5
+23,"रु.5,00,00,000",Bhhangal,5.5 aana,North,4,4,2,3,10,13,3.5
+24,"रु.5,00,00,000",Bhungal,5.5 aana,North,3,3,1,2,7,13,2.5
+25,"रु.5,35,00,000",Near,6.6,East,6,6,2,2,6,20,3.5
+26,"रु.5,00,00,000",Safaray,6anna,North,4,4,3,1,7,16,2.5
+27,"रु.3,95,00,000",Buddhanilkanth,4 Anna 1 paisa,West,4,4,1,1,7,13,2.5
+28,"रु.3,00,00,000",Lubhu,4.5 aana,South,4,4,2,2,6,20,3
+29,"रु.4,75,00,000",Pasikot,5 Aana,East,4,2,1,2,9,20,2.5
+30,"रु.3,90,00,000",Imadol,3 Aana 3 Paisa,North,7,5,1,2,15,16,3.5
+31,"रु.3,25,00,000",Bhaisepati,3 Aana 1 Daam,East,4,3,1,1,9,20,2.5
+32,"रु.3,25,00,000",Sanagau,4 Aana 1 Paisa,South,7,4,2,2,15,13,3
+33,"रु.6,30,00,000",Shital,6 aana,South,5,4,1,2,12,13,3.5
+34,"रु.5,35,00,000",Shital,4.5 aana,South,6,4,1,1,12,13,3.5
+35,"रु.3,95,00,000",Shital,4 aana,South,5,3,2,2,12,13,3.5
+36,"रु.4,10,00,000",Shital,3 Aana 2 Paisa,East,7,5,2,2,16,13,3
+37,"रु.4,20,00,000",Shital,4 Aana 1 Paisa,South,7,5,2,2,16,13,3.5
+38,"रु.4,25,00,000",Shital,4 aana,South,7,5,2,2,16,13,3.5
+39,"रु.2,80,00,000",Shital,3 aana,West,5,4,2,2,13,13,3.5
+40,"रु.3,00,00,000",Shital,4 Aana 1 Paisa 2 Daam,East,5,4,2,2,13,13,2.5
+41,"रु.3,65,00,000",Bhaisepati,4 aana,North,4,5,2,2,13,13,2.5
+42,"रु.5,00,00,000",Swayambhu,5 aana,North,6,4,2,2,14,13,3
+43,"रु.3,90,00,000",Shital,5 aana,South,5,undefined,2,2,10,16,3
+44,"रु.3,10,00,000",Imadol,3 aana,West,8,4,2,2,8,20,3
+45,"रु.1,75,00,000",Gothatar,3 Aana 1 Daam,South,4,3,1,1,9,12,1.5
+46,"रु.4,10,00,000",Bhaisepati,4 aana,North,4,3,2,2,11,16,2.5
+47,"रु.3,35,00,000",Imadol,3 Aana 1 Paisa 1 Daam,South,8,4,2,2,16,13,3.5
+48,"रु.2,50,00,000",Imadol,3 aana,Select,undefined,7,2,2,8,16,3
+49,"रु.2,00,00,000",Gokarna,3.5 aana,East,6,3,2,1,9,13,2.5
+50,"रु.4,50,00,000",Baneshwor,5 Anna,East,5,3,2,2,6,14,2.5
+51,"रु.1,60,00,000",Kapan,2 aana,Select,4,2,2,2,6,12,undefined
+52,"रु.2,30,00,000",Imadol,2.5 Aana,North,5,3,2,2,12,13,3
+53,"रु.1,90,00,000",Pepsicola,4 aana,North,3,2,1,1,6,4,2
+54,"रु.3,70,00,000",Manamaiju,4 aana 1 paisa 1 dam,South,5,3,2,3,16,,3.5
+55,"रु.2,85,00,000",Jorpati,3 aana,West,10,3,4,4,12,10,2.5
+56,"रु.2,10,00,000",Imadol,3.5 aana,North,5,4,2,2,undefined,20,2.5
+57,"रु.4,75,00,000",Nakhipot,5 Anna,East,5,4,1,1,7,20,2.5
+58,"रु.3,90,00,000",Nakhipot,4 Anna 2 Paisa,North,6,2,2,2,7,13,2.5
+59,"रु.3,25,00,000",Tikathali,4 Anna ! paisa 1 Dam,North,4,2,2,2,undefined,13,2.5
+60,"रु.2,65,00,000",Tikathali,0,South,6,3,2,2,7,13,2.5
+61,"रु.3,15,00,000",Tikathali,3 anna 2 paisa,South,6,4,2,2,9,13,2.5
+62,"रु.4,00,00,000",Nilopul,4 aana,South,2,2,2,3,10,13,2.5
+63,"रु.3,50,00,000",chovar,5. Anna 2 Paisa / 5 Anna 2 paisa 2 dam,South,5,5,2,2,7,20,2.5
+64,"रु.2,80,00,000",ekata,3.45,North,3,5,3,3,12,13ft,3.5
+65,"रु.2,60,00,000",Sanagaun,3 aana,North,6,2,2,2,8,13,2.5
+66,"रु.3,85,00,000",Imadol,4 anna 2 dam,North,8,4,2,2,9,13,3
+67,"रु.3,50,00,000",Tikathali,4 aana,West,6,4,3,3,10,20,3
+68,"रु.2,95,00,000",Dhapakhel,3 aana,South,4,5,2,2,8,10,4
+69,"रु.3,35,00,000",Sanagaun,4 Anna 1 Paisa,South,5,4,2,2,undefined,20,2.5
+70,"रु.2,80,00,000",manmaiju,3.5,South,5,4,2,2,5,,2.5
+71,"रु.3,50,00,000",Bhaisepati,3.5 aana,East,undefined,undefined,undefined,undefined,undefined,20,2.5
+72,"रु.8,50,00,000",Balkot,14ana,North,6,6,3,1,18,24ft,3
+73,"रु.4,50,00,000",Bhaisepati,4.5 aana,Select,4,3,2,2,11,13,2.5
+74,"रु.4,10,00,000",Bhaisepati,4 aana,North,4,3,2,2,11,16,2.5
+75,"रु.2,85,00,000",Tikathali,3 aana,East,5,4,2,2,13,13,3.5
+76,"रु.5,75,00,000",Bhaisepati,6 aana,East,4,3,1,1,9,13,2
+77,"रु.2,65,00,000",Gothatar,3 aana,North,6,4,2,2,14,13,2.5
+78,"रु.3,30,00,000",Balkot,3 Aana 1 Paisa 2 Daam,East,6,5,2,2,15,13,3
+79,"रु.4,20,00,000",Imadol,4 aana,South,6,5,2,2,15,13,3
+80,"रु.4,25,00,000",tauk,14,East,0,0,0,0,16,0,3.5
+81,"रु.1,15,00,000",Chagunarayan,2 ana 3 paisa 1 dam,East,5,2,undefined,1,6,13,2
+82,"रु.3,25,00,000",Pepsicola,3.5 aana,West,8,6,2,2,18,13,3.5
+83,"रु.6,00,00,000",Kalanki,6 aana,East,4,4,2,2,9,10,2.5
+84,"रु.4,10,00,000",Bhaisepati,4 aana,North,4,3,2,2,11,16,2.5
+85,"रु.4,50,00,000",Bhaisepati,4.5 aana,West,4,3,2,2,11,13,2.5
+86,"रु.5,00,00,000",Bhaisepati,5 Aana 1 Daam,East,4,3,2,2,11,13,2.5
+87,"रु.2,10,00,000",Imadol,3 aana,North,6,5,2,2,15,15,2.5
+88,"रु.1,75,00,000",Lamatar,3.5 aana,South,3,2,1,1,5,20,2.5
+89,"रु.3,35,00,000",Pepsicola,3.5 aana,East,6,5,2,2,15,22,3.5
+90,"रु.1,85,00,000",Sanagaun,3 aana,Select,7,4,2,2,8,13,3
+91,रु.0,Bhaisepati,5 aana,South,6,4,2,2,14,13,3
+92,"रु.7,50,00,000",Bhaisepati,7 aana,South,5,6,2,2,15,13,2.5
+93,"रु.4,00,00,000",Ganesh,4.5 aana,East,5,4,2,2,13,16,3
+94,"रु.5,75,00,000",Sital,5 Aana 1 Paisa,East,7,6,2,2,17,26,3.5
+95,"रु.3,75,00,000",Imadol,4 Aana 1 Paisa,West,7,5,2,2,16,13,3.5
+96,"रु.3,35,00,000",Imadol,3 Aana 1 Paisa 1 Daam,South,8,4,2,2,16,13,3.5
+97,रु.0,Pasikot,6 aana,South,6,5,2,2,15,20,2.5
+98,रु.0,Hattigauda,6.1 Aana,West,5,6,2,2,15,20,2.5
+99,"रु.2,45,00,000",Sitalheight,3 Aana,East,4,3,2,2,11,13,2.5
+100,"रु.2,70,00,000",Imadol,3 Aana 2 Daam,North,5,5,2,2,14,13,3
+101,"रु.2,65,00,000",Tikathali,3 Aana 3 Paisa,West,7,5,2,2,16,13,3
+102,"रु.3,10,00,000",Tikathali,3 Aana 2 Paisa 2 Daam,South,7,4,2,2,15,13,3
+103,"रु.2,65,00,000",Tikathali,3 Aana 1.5 Daam,South,8,6,2,2,18,13,3.5
+104,"रु.2,50,00,000",Imadol,3 aana,North,6,4,2,2,14,13,3.5
+105,"रु.1,55,00,000",Siddhipur,3 aana,North,2,1,1,1,5,13,1.5
+106,"रु.3,35,00,000",Imadol,3 Aana 1 Paisa,North,6,3,2,2,13,13,2.5
+107,"रु.3,00,00,000",Bagdole,5 aana,Select,2,2,2,2,6,,2.5
+108,"रु.3,00,00,000",Imadol,3.5 aana,East,8+,4,3,3,15,13,3.5
+109,"रु.7,00,00,000",Lamachaur,9aana 2paisa,Select,5,2,7,2,9,10,2
+110,"रु.4,90,00,000",Chorepatan,6 aana,North,5,4,2,2,11,16,2.5
+111,"रु.1,85,00,000",bala,3 aana,South,7,6,3,3,13,8,3.5
+112,"रु.4,35,00,000",Harisiddhi,7,West,6,5,1,1,8,13,2.5
+113,"रु.2,45,00,000",Imadol,3 aana,North,8,6,2,2,8,16,3
+114,"रु.2,00,00,000",Main,3.5 aana,South,2,4,2,2,7,26,2.5
+115,रु.,Sajha,5250Sqm,North,undefined,undefined,undefined,undefined,undefined,East,undefined
+116,"रु.4,20,00,000",Imadol,3.5 Aana,West,5,4,2,2,13,13,3.5
+117,"रु.3,00,00,000",Imadol,3 Aana 1 Paisa,West,6,5,2,2,15,13,3
+118,"रु.2,20,00,000",Lubhu,3 Aana 1 Paisa,East,5,4,2,2,13,16,2.5
+119,"रु.4,45,00,000",Imadol,4 ana 1 dam,West,11,6,2,2,11,20,3
+120,"रु.2,50,00,000",budhanilkantha,3 aana 1 paisa,East,4,4,2,2,undefined,13,2.5
+121,"रु.3,70,00,000",Hattigauda,4 Aana,West,4,3,1,1,9,13,3
+122,रु.0,Hattigauda,16 Aana 1 Ropani,East,5,8,2,1,16,13,2.5
+123,"रु.2,90,00,000",Imadol,3 Aana 1 Paisa 2 Daam,East,6,5,2,2,15,16,2.5
+124,"रु.6,60,00,000",Koteshwor,0-5-1-3,East,12,6,12,6,33,20ft,5
+125,"रु.4,90,00,000",Dhapakhel,8.2 ana,South,6,4,3,2,3,20,2.5
+126,"रु.6,00,00,000",Thimi,6 Aana,North,5,4,1,1,11,20,3
+127,"रु.2,70,00,000",Sanagaun,3 Aana 1 Paisa,South,5,4,1,1,11,13,4
+128,"रु.5,50,00,000",Imadol,5 aana,West,5,4,1,1,11,20,3
+129,"रु.3,90,00,000",Chapali,4.5 aana,North,5,4,1,1,11,14,3
+130,"रु.2,15,00,000",Ramailo,3 aana 3 paisa 3 dam,South,6,5,2,2,10,12,3.5
+131,"रु.4,10,00,000",Pasikot,4 Anna 1 Daam,West,4,2,1,2,9,13,2.5
+132,"रु.4,75,00,000",Pasikot,5 Anna,East,4,2,1,2,9,20,2.5
+133,"रु.3,70,00,000",Hattigauda,4 aana,West,4,2,1,2,9,13,3
+134,"रु.5,50,00,000",Hattigauda,6 Anna 1 Paisa,West,4,2,1,2,9,16,3
+135,"रु.2,95,00,000",Tikathali,3 Anna 3 Paisa,North,5,5,2,2,14,13,3
+136,"रु.3,55,00,000",Setipakha,3 Anna 2 Paisa,East,6,4,2,2,14,13,3
+137,"रु.3,85,00,000",Imadol,3 Anna 3 Paisa,West,6,4,1,2,13,13,2.5
+138,"रु.3,65,00,000",Bhaisepati,4 aana,North,4,5,2,1,12,13,2.5
+139,"रु.1,80,00,000",Payuntar,4anna,South,8,4,2,3,8,,2.5
+140,"रु.2,50,00,000",Tikathali,3 ana,South,8,6,2,2,10,13,3
+141,"रु.2,69,00,000",Tikathali,3 Anna 2 Dam,East,6,4,2,2,7,13,2.5
+142,"रु.3,45,00,000",Bhangal,4 Aana,South,6,4,2,2,undefined,13,3.5
+143,"रु.2,85,00,000",Lasuntar,3 Aana 3 Paisa,North,6,4,2,2,undefined,13,2.5
+144,"रु.2,90,00,000",Imadol,3 aana,South,5,3,1,1,undefined,13,2.5
+145,"रु.3,90,00,000",Dhobighat,"3 Anna, 3 Paisa, 3 Dam",East,7,4,1,2,10,12,3.5
+146,"रु.3,85,00,000",Akasaydar,4.5anna,North,4,4,2,2,6,13,2
+147,"रु.2,70,00,000",Nakkhu,3 aana,South,7,3,undefined,3,undefined,13,3.5
+148,"रु.2,40,00,000",Duwakot,1069.5,South,6,4,2,2,11,,2.5
+149,"रु.2,10,00,000",Taukhel,4 aana,West,0,0,0,0,0,20,0
+150,"रु.4,50,00,000",Ganesh,4 Anna 3 Paisa,East,5,4,1,2,7,,undefined
+151,"रु.5,50,00,000",Pasikot,6 aana,South,8,4,2,2,undefined,20,2.5
+152,"रु.2,50,00,000",Kapan,3 aana,South,6,4,2,2,undefined,13,3.5
+153,"रु.1,25,00,000",Bade,4 aana,North,4,3,1,1,6,13,3
+154,"रु.5,50,00,000",Bhaisepati,5 aana,South,5,6,2,2,undefined,13,2.5
+155,"रु.3,75,00,000",Kalanki,4 aana,East,6,3,2,2,undefined,13,2.5
+156,"रु.2,60,00,000",ganesh,3 aana 1 paisa,North,10,3,2,2,undefined,20,2.5
+157,"रु.3,50,00,000",Bhangal,3 aana 3 paisa,North,5,3,2,1,undefined,13,2.5
+158,"रु.4,75,00,000",ganesh,3 aana 3 paisa,West,4,5,2,1,undefined,20,2.5
+159,"रु.4,70,00,000",Bhaisepati,5 aana,South,6,4,2,2,6,13,undefined
+160,"रु.3,20,00,000",Gothatar,3 aana 2 Paisa,North,7,4,2,2,undefined,20,3
+161,"रु.2,45,00,000",Sital,3 aana,East,4,3,2,2,4,13,undefined
+162,"रु.2,20,00,000",Imadol,2 Aana 3 Paisa,South,4,4,2,2,4,13,2.5
+163,"रु.1,25,00,000",Akasaydara,3 aana,North,2,4,2,2,10,15ft,2.5
+164,"रु.3,15,00,000",Satdobato,4 aana,South,4,4,undefined,undefined,4,13,2.5
+165,"रु.2,10,00,000",Taukhel,4 aana,East,0,0,0,0,0,,0
+166,"रु.70,00,000",Thecho,3 aana,North,0,0,0,0,0,13,0
+167,"रु.4,35,00,000",Budhanilkantha,4.5 aana,South,6,4,1,1,6,13,2.5
+168,"रु.2,50,00,000",Imadol,3 aana,South,5,3,1,1,5,13,2.5
+169,"रु.4,90,00,000",Nakhipot,5 aana,East,4,4,2,2,4,20,2.5
+170,"रु.2,95,00,000",Tikathali,3 Anna 3 Paisa,North,5,5,undefined,2,5,20,2
+171,"रु.2,00,00,000",Dhumbarahi,3.5 aana,North,6,2,1,2,9,8,2.5
+172,"रु.5,00,00,000",Nakhipot,5 aana,East,4,4,2,2,5,20,2.5
+173,"रु.3,14,99,999",Imadol,3 aana 1 paisa 1 dam,North,6,4,1,2,9,13ft,3
+174,"रु.2,75,00,000",Gothatar,3 AANA 1 PAISA,West,7,4,2,undefined,undefined,20,2.5
+175,"रु.3,00,00,000",Jorpati,5 aana 3 paisa,South,2,1,1,1,undefined,13,1
+176,"रु.3,95,00,000",Sital,4 aana,West,5,6,2,2,8,14,2.5
+177,"रु.3,95,00,000",Imadol,4 ana 2 dam,Select,8,4,2,2,8,20,3
+178,"रु.2,25,00,000",Kapan,4 Anna 2 Daam,South,6,5,2,2,7,13,2.5
+179,"रु.2,35,00,000",Gothatar,3 Aana,North,6,4,2,2,undefined,18,2.5
+180,"रु.3,20,00,000",Imadol,3Anna 1Paisa,North,5,4,2,1,7,13,2.5
+181,"रु.4,60,00,000",Dhapakhel,5.5 Anna,South,5,5,2,2,7,20,2.5
+182,"रु.1,30,00,000",Taukhel,5,East,0,0,0,0,0,13,0
+183,"रु.2,35,00,000",Imadol,3 aana,East,7,4,2,2,7,13,2.5
+184,"रु.2,70,00,000",Imadol,3 aana 2 paisa,North,5,5,2,2,5,13,3
+185,"रु.2,99,00,000",Tikathali,Nepal,North,5,4,2,1,6,20,2.5
+186,"रु.5,50,00,000",Bhaisepati,5 aana,South,5,6,2,1,undefined,13,2.5
+187,"रु.4,50,00,000",Kapan,5 aana,North,5,6,2,2,undefined,13,2.5
+188,"रु.3,50,00,000",nepaltar,7 aana,South,8,5,1,3,undefined,13,2.5
+189,"रु.3,50,00,000",Dhapasi,4 aana,North,6,4,2,2,undefined,13,2.5
+190,"रु.2,40,00,000",padamsal,3 aana 2 daam,North,4,4,3,3,undefined,13,2.5
+191,"रु.6,00,00,000",Baniyatar,6 aana,East,6,7,2,2,undefined,13,3.5
+192,"रु.4,20,00,000",Imadol,3 aana 1 paisa,South,7,4,2,2,undefined,13,2.5
+193,"रु.2,75,00,000",Imadol,3 aana 1 paisa,South,5,4,2,2,undefined,13,2.5
+194,"रु.4,20,00,000",Nakhipot,4 aana 1 paisa,South,7,5,2,2,undefined,13,2.5
+195,"रु.6,25,00,000",Bhaisepati,6.5 aana,North,4,5,1,1,undefined,13,2.5
+196,"रु.4,10,00,000",Imadol,4 aana 1 pasia,West,9,6,2,2,undefined,13,3.5
+197,"रु.3,95,00,000",Imadol,4 aana 2 paisa,West,6,6,2,2,undefined,13,3
+198,"रु.2,60,00,000",Baniyatar,2 aana 2 paisa,South,6,5,2,1,undefined,13,3
+199,"रु.2,25,00,000",Kalanki,2 aana 2 paisa,West,6,5,2,2,undefined,14,3
+200,"रु.2,25,00,000",Kalanki,2 aana 2 paisa,West,6,5,2,2,undefined,14,3
+201,"रु.2,80,00,000",Baniyatar,4 AANA 2 PAISA,South,5,4,3,3,undefined,13,3.5
+202,"रु.3,50,00,000",Imadol,3.25Ana,North,5,4,2,2,undefined,13,3
+203,"रु.4,25,00,000",Balkhu,4 AANA 2 PAISA,North,5,6,2,1,undefined,13,2.5
+204,"रु.4,25,00,000",Kalanki,6 aana,South,10,9,3,3,undefined,13,4.5
+205,"रु.2,85,00,000",kala,3 aana 2 paisa,West,5,5,2,3,undefined,13,3
+206,"रु.2,85,00,000",kala,3 aana 2 paisa,West,5,5,2,3,undefined,13,3
+207,"रु.9,25,00,000",Sitapaila,13.5 aana,South,4,3,1,1,undefined,20,2.5
+208,"रु.4,70,00,000",Bhangal,5.1,Select,7,6,2,2,10,12,2.5
+209,"रु.2,50,00,000",Taukhel,3/2/2000,South,0,0,0,0,0,13,2.5
+210,"रु.1,65,00,000",Imadol,2/3/2000,East,0,0,0,0,0,10,2.5
+211,"रु.1,75,00,000",Imadol,2/1/2003,East,0,0,0,0,0,16,2.5
+212,"रु.3,30,00,000",Kapan,3 aana 3 dam,East,7,4,3,3,undefined,13,3.5
+213,"रु.2,35,00,000",Imadol,3 aana,West,5,3,2,2,8,12,2.5
+214,"रु.3,00,00,000",chyasundole,4 aana,West,5,4,2,2,undefined,13,2.5
+215,"रु.6,25,00,000",budhanilkantha,7 aana,West,5,4,1,1,undefined,13,2.5
+216,"रु.3,85,00,000",Pahelopul,4 aana,South,13,5,1,4,18,20,4.5
+217,"रु.3,25,00,000",Sital,Nepal,North,4,4,1,2,7,13,2.5
+218,"रु.2,45,00,000",Dhumbarahi,3 aana,East,3,2,1,1,4,13,2.5
+219,"रु.2,65,00,000",Tikathali,3 Anna 3 Paisa,West,5,5,undefined,2,7,13,2.5
+220,"रु.3,50,00,000",Dhapasi,4 aana,East,6,4,1,1,undefined,20ft,2.5
+221,"रु.4,50,00,000",Samakhusi,5 aana,East,8,5,3,3,undefined,13ft,3.5
+222,"रु.2,75,00,000",Hattiban,3 aana,West,5,4,2,2,8,10,2.5
+223,"रु.3,95,00,000",Tikathali,4 ana 1 paisa,Select,8,6,2,2,8,,3.5
+224,"रु.3,50,00,000",wasik,6 aana,South,6,5,2,2,undefined,13,2.5
+225,"रु.8,00,00,000",Narayanthan,10 aana 3 paisa,East,4,6,2,1,8,20,2.5
+226,"रु.3,65,00,000",Thulobharyang,3 aana,North,6,3,2,1,undefined,13,2.5
+227,"रु.2,50,00,000",Kapan,3 aana,East,5,3,3,3,undefined,13,3.5
+228,"रु.3,65,00,000",Bhaisepati,4 aana,North,4,5,2,1,undefined,13,2.5
+229,"रु.2,50,00,000",Imadol,Nepal,North,undefined,3,2,2,7,13,2.5
+230,"रु.8,50,00,000",Rudreshwor,9 aana,East,6,5,2,1,undefined,13,2.5
+231,"रु.2,75,00,000",Imadol,Nepal,West,7,5,3,2,9,13,2.5
+232,"रु.2,20,00,000",Goldhunga,3 aana 2 paisa,East,5,5,2,2,undefined,13,2.5
+233,"रु.2,70,00,000",Goldhunga,4 aana,North,5,6,1,3,undefined,13,3.5
+234,"रु.3,25,00,000",budhanilkantha,3 aana 1 paisa,West,6,5,2,2,undefined,13,2.5
+235,"रु.3,00,00,000",Kapan,3 aana 1 paisa,South,6,6,2,2,undefined,13,2.5
+236,"रु.3,50,00,000",budhanilkantha,6 aana,South,6,3,2,1,undefined,13,2.5
+237,"रु.3,80,00,000",Khalte,8.2 Aana,Select,4,4,2,1,undefined,,2.5
+238,"रु.3,85,00,000",Chunikhel,4 aana 2 daam,North,6,5,2,2,undefined,13,2.5
+239,"रु.4,75,00,000",Bhaisepati,5 aana,South,6,6,2,2,undefined,13,3
+240,"रु.3,85,00,000",Bhaisepati,4 aana,South,7,7,2,2,undefined,13,2.5
+241,"रु.4,15,00,000",Chapali,4 aana 1 paisa,North,7,7,2,2,undefined,13,2.5
+242,"रु.3,80,00,000",ganesh,4 aana,West,6,4,2,2,undefined,13,2.5
+243,"रु.6,50,00,000",Kalanki,5 aana,East,5,5,2,1,undefined,13,2.5
+244,"रु.3,25,00,000",Kapan,3 aana 2 paisa 1 daam,West,6,3,2,2,undefined,13,2.5
+245,"रु.4,35,00,000",Wasik,4 aana 2 paisa,North,5,5,2,1,undefined,20,2
+246,"रु.3,00,00,000",jagdol,3 aana 2 daam,South,5,3,2,2,undefined,13,3.5
+247,"रु.3,70,00,000",Dharmasthali,4 aana,North,8,6,1,3,undefined,13,3.5
+248,"रु.4,85,00,000",dholahiti,5 aana,East,5,6,2,1,undefined,13,2.5
+249,"रु.2,75,00,000",Gothatar,3.1 aana,West,6,4,2,2,undefined,20,2.5
+250,"रु.2,69,00,000",nakkhu,3 Aana 2 Paisa,North,5,5,2,2,undefined,16,undefined
+251,"रु.5,50,00,000",Sukedhara,7 aana 2 paisa,North,5,3,1,1,undefined,13,undefined
+252,"रु.2,80,00,000",Dhaneshwor,4 aana,North,8,5,3,3,undefined,14,3.5
+253,"रु.4,25,00,000",Dhalahiti,4.25 Aana,South,6,5,2,2,undefined,14,2.5
+254,"रु.2,20,00,000",Kapan,3 aana,West,6,4,2,2,6,13,2.5
+255,"रु.4,35,00,000",lasuntar,5 aana,South,6,5,2,2,undefined,13,2.5
+256,"रु.3,30,00,000",Sukedhara,3 aana,South,5,5,3,3,undefined,14,3.5
+257,"रु.1,90,00,000",Hattigauda,4 aana,East,2,2,2,1,undefined,13,1
+258,"रु.6,00,00,000",Kalanki,8 aana,North,7,4,1,1,undefined,13,2.5
+259,"रु.4,50,00,000",Pasikot,4.1 aana,East,6,5,2,2,undefined,13,2.5
+260,"रु.5,00,00,000",Budhanilkantha,6 aana,North,6,5,2,2,undefined,16,2.5
+261,"रु.1,70,00,000",Tikathali,3 aana,Select,3,1,1,1,3,13,1
+262,"रु.4,95,00,000",Imadol,Nepal,Select,6,5,2,2,7,13,2.5
+263,"रु.4,30,00,000",Budhanilkantha,4 anna 2 paisa,North,5,5,2,1,undefined,20,2.5
+264,"रु.3,10,00,000",Hattigauda,4.5 Aana,North,6,6,2,2,undefined,13,2.5
+265,"रु.3,35,00,000",Imadol,Nepal,North,5,3,2,2,6,13,2.5
+266,"रु.3,33,00,000",Tikathali,3 ana 3 paisa,Select,8,5,2,2,8,20,3
+267,"रु.2,65,00,000",Tikathali,3 aana,South,7,4,2,2,8,20,2.5
+268,"रु.4,25,00,000",Imadol,3 Anna 3 pasia,East,7,3,2,2,7,13,2.5
+269,"रु.1,70,00,000",Hulas,22.5 dhur,South,undefined,undefined,undefined,undefined,18,16,3
+270,"रु.2,85,00,000",Tikathali,Nepal,East,7,5,2,2,7,20,undefined
+271,"रु.2,65,00,000",Tika,Nepal,West,5,2,1,1,6,13,3
+272,"रु.3,65,00,000",Thulobharyang,4 Aana,North,6,3,2,2,undefined,13,2.5
+273,"रु.1,85,00,000",Tokha,3.5 aana,South,1,1,1,1,undefined,13,1
+274,"रु.2,45,00,000",Kadhaghari,3 aana,South,6,3,3,3,undefined,13,2.5
+275,"रु.1,10,00,000",THAIBA,4 aana,North,3,undefined,undefined,undefined,undefined,13,1
+276,"रु.2,75,00,000",Chyasundol,3 aana 3 Paisa 2 Daam,South,3,2,1,1,undefined,22,2
+277,"रु.3,40,00,000",Kapan,4 Aana 2 Paisa,East,6,5,2,2,undefined,13,2.5
+278,"रु.3,50,00,000",kapan,4 Aana 2 Daam,East,6,5,2,2,undefined,13,2.5
+279,"रु.4,50,00,000",Tokha,5 Aana 1 Paisa 2 Daam,South,6,6,2,2,undefined,13,2.5
+280,"रु.3,20,00,000",Kapan,4 Aana,North,6,6,3,3,undefined,13,3.5
+281,"रु.1,95,00,000",Tokha,4 aana,West,2,1,1,1,undefined,13,1.5
+282,"रु.4,25,00,000",kap,4 aana,South,6,5,1,1,undefined,10,2.5
+283,"रु.3,00,00,000",Satdobato,3.1,South,4,4,1,1,7,13,2.5
+284,"रु.5,75,00,000",Imadol,5 aana,West,5,5,2,2,undefined,13,2.5
+285,"रु.3,35,00,000",Imadol,3 aana 1 paisa 1 daam,South,5,4,2,2,undefined,13,3
+286,"रु.2,90,00,000",Tokha,3 Aana 1 Paisa 3 Daam,North,5,5,3,2,undefined,13,2.5
+287,"रु.2,90,00,000",Tokha,3 Aana 1 Paisa 3 Daam,North,5,5,3,2,undefined,13,2.5
+288,"रु.4,00,00,000",Payutar,4 aana,North,6,5,2,1,undefined,10,3.5
+289,"रु.2,69,00,000",Balkot,3.5 aana,North,7,3,3,2,18,13,3
+290,"रु.2,95,00,000",Imadol,3aana 2paisa,South,6,5,2,2,11,13,3
+291,"रु.1,85,00,000",Karki,3 aana,West,3,3,2,3,11,26,2.5
+292,"रु.5,70,00,000",Imadol,5 aana,South,7,5,2,2,10,13,3
+293,"रु.3,25,00,000",Imadol,3aana 2daam,North,5,4,3,3,19,13,4
+294,"रु.2,15,00,000",Kalanki,3 Aana 2 Daam,East,5,3,2,2,undefined,13,2.5
+295,"रु.2,35,00,000",Kalanki,3 Aana 2 Daam,East,6,3,1,2,undefined,10,2.5
+296,"रु.4,50,00,000",Kalanki,4 Aana 2 Paisa,South,8,7,3,2,undefined,13,3
+297,"रु.3,20,00,000",Kapan,3aana 2daam,West,5,4,2,3,10,13,3.5
+298,"रु.9,50,00,000",Dadhikot,13,North,5,5,3,1,undefined,26,2.5
+299,"रु.3,15,00,000",Imadol,3 Aana 1 Paisa 1 Daam,South,6,4,1,2,undefined,13,3.5
+300,"रु.3,75,00,000",Imadol,4 Aana 2 Daam,South,6,7,1,2,undefined,13,3.5
+301,"रु.3,50,00,000",Thulobharyang,5 Aana,East,5,3,1,1,undefined,13,3
+302,"रु.4,25,00,000",Lubhu,5.2 Anna,North,5,4,2,2,7,16,3
+303,"रु.10,20,00,000",Nayabazar,12 anna,South,3,3,2,1,undefined,20,2
+304,"रु.4,75,00,000",Imadol,6 anna 2 paisa,West,5,3,1,2,6,13,3
+305,"रु.2,30,00,000",Syuchatar,4.2 aana,North,8,5,3,2,undefined,12,3
+306,"रु.2,40,00,000",Manmaiju,5 aana,South,9,6,3,3,undefined,13,3
+307,"रु.4,35,00,000",Deuba,4 Aana 2 Paisa 1 Daam,North,5,5,2,1,undefined,20,2.5
+308,"रु.4,15,00,000",Imadol,4 Aana 1.5 Daam,South,7,5,1,2,undefined,13,2.5
+309,"रु.3,20,00,000",Imadol,3 aana 2paisa,East,4,3,1,1,7,13,2.5
+310,"रु.2,90,00,000",Imadol,3 aana,South,6,4,2,2,11,11,3.5
+311,"रु.2,80,00,000",Imadol,3 aana,South,5,4,2,2,11,13,3.5
+312,"रु.4,00,00,000",Chapali,4.5 aana,South,5,4,1,1,7,13,2.5
+313,"रु.4,10,00,000",Chapali,4 aana 1paisa,East,6,4,1,undefined,11,20,2.5
+314,"रु.1,40,00,000",Bishnupaduka,9 dhur,South,4,2,1,1,4,13,1.5
+315,"रु.2,90,00,000",Lamatar,0-4-3-0,East,5,4,1,1,7,13,2.5
+316,"रु.2,25,00,000",Imadol,2aana 3paisa,West,6,4,1,2,9,13,2.5
+317,"रु.3,90,00,000",ekantakuna,6 aana,West,6,3,3,3,7,20,3.5
+318,"रु.3,45,00,000",Hattiban,4 aana,Select,5,4,2,1,8,12,3
+319,"रु.8,50,00,000",Rudreshwor,9 Aana,East,6,5,2,1,undefined,18,2.5
+320,"रु.3,80,00,000",Kapan,4 Aana 1 Paisa,East,6,6,2,2,undefined,14,2.5
+321,"रु.3,20,00,000",Sital,3 ana 3 dam,South,8,5,2,2,8,13,3
+322,"रु.4,00,00,000",Raniban,5 aana,South,7,4,2,2,undefined,20,2.5
+323,"रु.2,70,00,000",Imadol,3aana 2daam,North,6,5,2,2,10,20,3.5
+324,"रु.3,60,00,000",Bhangal,6 Aana,East,5,4,2,2,undefined,15,2.5
+325,"रु.2,75,00,000",Sital,3 aana,Select,7,4,2,2,7,16,3
+326,"रु.5,00,00,000",Bhangal,6 Aana,North,7,6,3,2,undefined,13,2.5
+327,"रु.4,50,00,000",Sanepa,2 aana 2 paisa,Select,undefined,5,undefined,undefined,5,20,5
+328,"रु.3,75,00,000",Sanagaun,4.75 aana,South,3,5,3,1,7,13,3.5
+329,"रु.3,60,00,000",Nakhipot,3 Aana 3 Paisa,North,5,5,2,2,undefined,26,2.5
+330,"रु.4,25,00,000",Bhangal,4 Aana 2 Paisa,South,6,5,2,2,undefined,16,2.5
+331,"रु.2,90,00,000",Kapan,4 Aana 3 Daam,South,6,5,2,2,undefined,13,2.5
+332,"रु.2,80,00,000",Balambu,4.5 aana,West,4,4,2,2,3,13,2.5
+333,"रु.3,15,00,000",Mahalaxmi,3ana 1 paisa,North,7,6,2,2,8,20,3
+334,"रु.2,15,00,000",Kalanki,1069.726,East,5,3,2,2,undefined,13,2.5
+335,"रु.4,15,00,000",Imadol,4aana 2daam,South,5,5,2,2,7,13,2.5
+336,"रु.3,10,00,000",Imadol,3 aana,North,5,5,2,2,7,13,3
+337,"रु.2,65,00,000",Imadol,3 aana 2p2d,South,5,5,2,2,7,13,2.5
+338,"रु.2,30,00,000",Tikathali,3 aana,North,5,4,2,2,10,13,2.5
+339,"रु.2,60,00,000",Dadhikot,6 aana,North,5,3,2,2,undefined,13,2
+340,"रु.1,85,00,000",Sukedhara,4 anna,East,4,4,4,4,7,4ft,3
+341,"रु.1,60,00,000",Nayapati,6 Aana 2 Paisa,North,1,1,1,1,4,16,undefined
+342,"रु.7,50,00,000",kadaghari,4 aana,South,10,6,1,2,16,20,4.5
+343,"रु.2,15,00,000",Balkot,4 aana,East,4,3,2,2,8,12,2.5
+344,"रु.1,85,00,000",go,3,Select,7,6,3,3,19,9,3.5
+345,"रु.3,15,00,000",Guwarko,3ana 1 paisa,North,7,4,2,2,8,13,3
+346,"रु.4,75,00,000",Bhangal,5 aana,East,5,4,2,2,undefined,16,2.5
+347,"रु.3,55,00,000",Imadol,3 aana 1paisa 2daam,East,5,5,2,2,9,13,3.5
+348,"रु.2,20,00,000",Imadol,2aana3paisa,East,4,4,1,1,8,13,2.5
+349,"रु.3,80,00,000",budhanikantha,4 aana2paisa,East,4,4,1,1,9,16,2.5
+350,"रु.2,80,00,000",grandi,2.5aana,East,3,2,1,1,5,15,2.5
+351,"रु.3,35,00,000",Bhangal,4aana2daam,West,6,4,1,1,9,13,2
+352,"रु.3,10,00,000",Bhangal,3.5 aana,South,6,5,2,1,10,13,2.5
+353,"रु.5,75,00,000",imadol,5 aana,South,5,4,2,2,10,,3
+354,"रु.3,80,00,000",kapan,4 aana1paisa,South,7,5,2,3,10,13,2.5
+355,"रु.4,00,00,000",lubhu,12aana 2daam,South,5,5,2,2,10,13,3
+356,"रु.2,50,00,000",imadol,3 aana,East,5,4,2,2,10,13,3.5
+357,"रु.2,55,00,000",tikathali,3 aana1paisa,East,4,3,2,2,7,13,2.5
+358,"रु.2,65,00,000",jorpati,3 aana,North,7,4,2,2,10,13,3.5
+359,"रु.3,75,00,000",imadol,4aana1paisa,South,6,5,2,2,10,16,3.5
+360,"रु.4,15,00,000",imadol,4aana 2 daam,South,4,3,1,2,10,13,3
+361,"रु.4,65,00,000",imadol,4aana1paisa,South,7,3,1,1,7,13,3
+362,"रु.3,15,00,000",imadol,0-3-1-1,North,10,6,1,2,10,13,3.5
+363,"रु.2,75,00,000",Harisiddhi,3 aana,North,5,4,3,undefined,undefined,20,2.5
+364,"रु.2,00,00,000",TAUKHEL,5ANA 1 PAISA,East,1,1,1,1,1,16,1
+365,"रु.2,70,00,000",Imadol,3 aana 3 daam,North,4,4,2,4,1,13,3
+366,"रु.4,00,00,000",Balkot,4 aana,East,4,4,2,1,1,20,2
+367,"रु.2,90,00,000",Imadol,4 aana,South,5,4,2,2,1,13,3
+368,"रु.3,50,00,000",Syuchatar,4 aana 2 daam,South,6,6,2,2,1,20,2
+369,"रु.2,30,00,000",Mahalaxmi,3 ana,West,7,6,2,2,7,20,2.5
+370,"रु.1,25,00,000",Kmc,3 aana 2 paisa,North,1,1,1,1,4,12,1
+371,"रु.2,50,00,000",Sitapaila,4anna,North,5,4,2,3,7,26,3.5
+372,"रु.1,85,00,000",Imadol,0-2-2-1,North,4,3,2,2,8,15,3.5
+373,"रु.4,00,00,000",Siddhipur,5 aana,South,12-Aug,4,3,2,15,16,3
+374,"रु.6,00,00,000",sukedhara,7aana,East,5,4,1,1,7,14,2.5
+375,"रु.2,75,00,000",Ghataghar,3 Anaa,East,4,3,1,1,4,13,1
+376,"रु.3,95,00,000",Kapan,4.5 ana,South,5,5,2,1,8,11,2.5
+377,"रु.3,25,00,000",Gothatar,3 aana 2 paisa,West,6,4,2,2,1,13,1
+378,"रु.3,15,00,000",Gothatar,3 aana 3 paisa,South,12-Aug,4,3,3,1,13,1
+379,"रु.2,10,00,000",Srijana,2 aana 2 paisa,East,4,4,1,1,1,13,1
+380,"रु.6,00,00,000",Near,7 aana3paisa,North,12-Aug,3,1,1,10,12,3
+381,"रु.2,00,00,000",Dharma,3ana3pais,South,12-Aug,2,5+,2,11,4,2
+382,"रु.5,80,00,000",Maharajgunj,7 aana 2 paisa,West,6,4,2,2,1,20,1
+383,"रु.3,80,00,000",Golfutar,4 aana 3 paisa 3 daam,North,3,3,1,1,1,14,1
+384,"रु.8,50,00,000",Maharajgunj,1 ropani 4 aana,South,3,3,1,1,1,13,1
+385,"रु.19,00,00,000",Rudreshwor,2 ropani 2 aana,South,5,5,2,1,1,13,1
+386,"रु.10,40,00,000",Bansbari,1 ropani,West,5,4,1,1,1,13,1
+387,"रु.6,50,00,000",Bansbari,9 aana,South,5,5,1,1,1,13,1
+388,"रु.12,50,00,000",Narayanthan,13 aana,North,5,5,2,1,1,14,1
+389,"रु.9,60,00,000",Maitidevi,13 aana 3 paisa,South,5,4,1,1,1,14,1
+390,"रु.3,10,00,000",Katunje,4 aana 1 paisa 1 daam,South,5,4,3,2,1,13,1
+391,"रु.11,20,00,000",Rudreshwor,17 Ropani,East,5,6,2,2,1,13,1
+392,"रु.12,00,00,000",Hattigauda,14 aana 1 daam,East,7,7,2,1,1,16,1
+393,"रु.13,50,00,000",Chappal,15 Aana,East,5,5,1,1,1,20,1
+394,"रु.2,75,00,000",specail,3.5aana,South,4,2,2,2,6,12,2.5
+395,"रु.6,80,00,000","Pasikot,",8.5,West,6,5,1,1,1,13,1
+396,"रु.3,95,00,000",Bhangal,5 aana,East,6,4,1,1,8,20,2.5
+397,"रु.11,50,00,000","Rudreshwor,",17 Aana,East,5,5,2,2,1,13,2.5
+398,"रु.3,80,00,000",Deuba,4.1 Aana,South,5,6,2,2,1,14,2.5
+399,"रु.5,00,00,000","Rudreshwor,",7 Aana,North,4,5,1,1,1,13,2.5
+400,"रु.4,80,00,000","Golfutar,",7,East,4,4,1,1,1,13,2.5
+401,"रु.2,60,00,000",Kantipur,3 aana 3 paisa 3 daam,West,4,4,1,1,1,16,1
+402,"रु.14,40,00,000","Manbhaban,",1 Ropani,South,5,4,2,1,1,13,2.5
+403,"रु.3,50,00,000",Harharmahadev,4 aana 1 paisa 2 daam,South,6,5,3,2,1,13,1
+404,"रु.3,25,00,000",Ganesh,3.1,West,6,6,1,2,1,16,2.5
+405,"रु.1,75,00,000",Tej,3 aana 1 daam,North,2,1,1,1,1,13,1
+406,"रु.4,35,00,000",Ganesh,4.3,West,6,6,2,2,1,13,1
+407,"रु.15,00,00,000","Chappalkarkhana,",19 Aana,South,1,1,1,1,1,20,1
+408,"रु.7,00,00,000","Golfutar,",10 Aana,South,1,1,1,1,1,13,1
+409,"रु.2,80,00,000",Tej,3 aana 1 paisa,East,6,3,2,2,1,20,1
+410,"रु.2,30,00,000",Jorpati,3 aana,East,2,2,1,1,1,13,1
+411,"रु.5,00,00,000",Deuwa,6 aana,West,4,2,1,1,1,20,1
+412,"रु.7,70,00,000",Golfutar,6 aana 1 paisa,North,5,4,2,2,1,13,1
+413,"रु.3,60,00,000",Kadaghari,4 aana,West,5,5,2,2,1,13,1
+414,"रु.8,00,00,000",Bishalnagar,8 aana 3 paisa,South,5,4,2,1,1,20,1
+415,"रु.1,20,00,000",kupondole,30.5 anna,East,5,4,1,1,7,20,1
+416,"रु.4,20,00,000",dhilahiti,4 aana 1 Paisa 2 Daam,South,5,5,2,2,1,16,1
+417,"रु.11,00,00,000",Maharajgunj,7 aana,South,4,4,2,1,1,18,1
+418,"रु.2,85,00,000",Kadaghari,3 aana,South,6,6,3,3,1,13,1
+419,"रु.8,50,00,000",Bhaisepati,5 aana,East,7,7,2,1,1,14,1
+420,"रु.2,90,00,000",harisiddhi,3 anna,North,5,3,2,2,9,13,1
+421,"रु.2,75,00,000",Imadol,3 aana 2 daam,North,6,4,2,3,1,20,1
+422,"रु.15,25,00,000",Manbhawan,1 ropani,South,5,4,2,1,1,16,1
+423,"रु.13,00,00,000",Baluwatar,10 aana,North,5,5,2,1,1,15,1
+424,"रु.5,00,00,000",Baneshwor,4 Aana 3 Daam,West,6,3,2,2,1,16,1
+425,"रु.2,35,00,000",sanagaun,3 anna,West,7,5,2,2,11,20,1
+426,"रु.3,25,00,000",Mandikatar,3 aana 1 paisa 2 daam,South,6,4,2,2,1,13,1
+427,"रु.3,00,00,000",Lasuntar,3 aana 5 paisa,South,6,4,2,2,1,13,1
+428,"रु.4,70,00,000",Ganesh,5 aana,East,6,6,2,2,1,13,1
+429,"रु.3,40,00,000",Lasuntar,4 aana 2 daam,South,5,5,2,2,1,13,1
+430,"रु.4,45,00,000",Sukedhara,6 aana,East,6,4,2,2,1,16,1
+431,"रु.2,90,00,000",Bhangal,4 aana,East,6,5,2,2,1,12,1
+432,"रु.5,00,00,000",Rudreshwor,8 aana,East,5,4,1,1,1,13,1
+433,"रु.3,30,00,000",Bhangal,3 aana 3 paisa,East,5,4,2,2,1,13,1
+434,"रु.14,00,00,000",Bansbari,1 ropani 2 aana,East,5,4,2,1,1,13,1
+435,"रु.7,00,00,000",Golfutar,10 Aana,South,4,4,2,1,1,20,1
+436,"रु.5,00,00,000",Rudreshwor,7 aana,East,4,5,1,1,1,13,1
+437,"रु.11,50,00,000",Sukedhara,12 aana,East,5,4,2,1,1,14,1
+438,"रु.3,00,00,000",Nepal,4 anna,East,12-Aug,4,2,2,4,10,3
+439,"रु.3,75,00,000",Rudreshwor,5 aana 2 paisa,South,4,4,2,1,1,13,1
+440,"रु.12,00,00,000",Ganesh,15 aana 1 paisa,East,6,6,1,1,1,,1
+441,"रु.7,20,00,000",Hepali,8 aana,South,5,5,2,1,1,20,1
+442,"रु.2,40,00,000",Tikathali,3 Ana 2 Dam,West,6,5,3,2,1,13,3
+443,"रु.8,00,00,000",Naxal,10 aana,East,5,4,1,1,1,14,1
+444,"रु.10,00,00,000",Pasikot,15 Aana,North,5,5,1,1,1,15,1
+445,"रु.1,90,00,000",Pabitra,2.5,East,5,2,2,2,9,10,2.5
+446,"रु.1,90,00,000",Pabitra,2.5,East,5,2,2,2,9,10,2.5
+447,"रु.7,85,00,000",Pasikot,8 aana 2 paisa,West,6,5,2,1,1,,1
+448,"रु.2,70,00,000",Rudeshwor,4 Aana,East,5,3,2,2,1,8,1
+449,"रु.15,25,00,000",tangal,1 ropani 3 aana 2 paisa,South,5,5,2,1,1,18,1
+450,"रु.4,80,00,000",Maharajgunj,7 aana,South,5,4,2,1,1,13,1
+451,"रु.3,65,00,000",Bhangal,4 aana 2 daam,East,6,5,2,2,1,15,1
+452,"रु.3,85,00,000",Narayanthan,4 Aana 1 Paisa,South,6,5,2,2,1,,1
+453,"रु.2,60,00,000",Gharipatan,115 sq m,North,3,3,1,1,7,20/14,1
+454,"रु.2,45,00,000",Dhungedhara,6anna2paisa,East,7,7,3,1,1,,3.5
+455,"रु.4,10,00,000",Imadol,4 aana 2 daam,South,6,6,2,2,1,13,1
+456,"रु.4,45,00,000",Tikathali,4 aana,East,7,6,2,2,1,23,1
+457,"रु.4,00,00,000",Bhangal,5 Aana,West,4,4,1,1,6,30,2.5
+458,"रु.1,95,00,000",Chunnikhel,3 aana 2 paisa,North,2,1,1,1,1,14,1
+459,"रु.3,15,00,000",Imadol,3 aana 3 dam,South,5,5,2,2,1,13,1
+460,"रु.2,55,00,000",Imadol,3 Aana,East,5,4,2,2,1,13,1
+461,"रु.2,65,00,000",Imadol,3Aana,South,5,4,2,2,9,13,3
+462,"रु.1,70,00,000",Tikathali,3 Aana 2 Paisa,East,2,1,1,1,1,13,1
+463,"रु.2,95,00,000",Harisiddhi,4 aana,East,7,3,2,2,1,13,1
+464,"रु.2,35,00,000",Imadol,2 Aana 3 Paisa,South,4,4,2,2,1,13,1
+465,"रु.2,20,00,000",Imadol,2 Aana 2 paisa,North,4,4,2,2,1,13,1
+466,"रु.5,00,00,000",near,4anna,East,12-Aug,4,1,2,1,,3.5
+467,"रु.7,00,00,000",Indrapuri,11 Ana,West,5,2,1,1,7,,2.5
+468,"रु.2,65,00,000",Imadol,3 Aana 2 Poisa 2 Daam,South,5,5,2,2,9,20,3
+469,"रु.2,90,00,000",Imadol,3 Aana 2 Daam,North,7,3,3,3,13+,20,2.5
+470,"रु.10,00,00,000",Dadhikot,approx. 14 aana,North,5,6,2,1,7,26,2.5
+471,"रु.15,50,00,000",Chyasundol,17 Aana,East,6,6,2,1,1,20,2.5
+472,"रु.1,60,00,000",Tikathali,2Aana 3poisa 2daam,West,2,1,1,1,4,13,1
+473,"रु.2,60,00,000",Tikathjali,3 Aana,East,6,3,2,2,10,13,3
+474,"रु.1,65,00,000",tikathali,3 Aana 1 Poisa 2 Daam,East,2,1,1,1,4,13,1
+475,"रु.3,30,00,000",Imadol,4Aana 1 Poisa,South,7,5,3,3,13+,10,3
+476,"रु.2,90,00,000",Imadol,4 Aana 2 Daam,North,4,4,2,2,8,13,3
+477,"रु.2,50,00,000",Tikathali,2 Aana 3 Poisa,South,3,4,2,2,7,14,2.5
+478,"रु.5,50,00,000",Imadol,5 Aana 1 Poisa,South,5,6,2,2,9,13,3
+479,"रु.3,55,00,000",Imadol,3 Aana 2Poisa,South,6,5,2,2,10,13,3
+480,"रु.2,95,00,000",Imadol,3 Aana 1 Poisa,South,5,4,2,2,9,13,2.5
+481,"रु.2,90,00,000",Imadol,4 Aana 2 poisa,South,6,4,2,2,10,16,3
+482,"रु.2,65,00,000",Imadol,3 Aana,South,4,4,2,2,8,13,2.5
+483,"रु.2,75,00,000",Imadol,3 Aana,East,5,4,2,2,9,13,3
+484,"रु.2,30,00,000",Imadol,2 Aana 3 Poisa,West,6,4,2,2,10,13,2.5
+485,"रु.3,20,00,000","Imadol,shital",3Aana 1Poisa,East,5,4,2,2,9,13,3
+486,"रु.3,95,00,000",Harisiddhi,0-3-1-0,West,5,5,2,2,9,20,3
+487,"रु.1,75,00,000",Dhunge,2 Aana 3 Paisa 2 Daam,North,2,1,1,1,4,13,1
+488,"रु.3,80,00,000",Harhar,4 aana,West,7,10-Aug,2,2,14,13,3.5
+489,"रु.3,95,00,000",Imadol,4 Aana,South,5,6,1,1,1,13,1
+490,"रु.2,65,00,000",Imadol,3 Aana 1 Paisa,South,4,3,2,2,1,12,1
+491,"रु.2,65,00,000",Imadol,3 Aana 2 Daam,South,5,4,2,2,1,16,1
+492,"रु.1,45,00,000",Imadol,2 Aana 2 Paisa 2 Daam,West,2,1,1,1,1,13,1
+493,"रु.3,50,00,000",Tikathali,4 Aana,North,5,4,2,2,1,13,1
+494,"रु.3,55,00,000",Imadol,3 Aana 3 Paisa,South,5,6,2,2,1,13,1
+495,"रु.2,99,00,000",Imadole,3 Aana 1 Paisa,South,5,5,2,2,1,13,2.5
+496,"रु.2,15,00,000",Tikathali,3 Aana,South,4,4,2,2,1,13,1
+497,"रु.5,30,00,000",Balkot,5 Aana 2 Paisa 2 Daam,North,3,4,2,2,1,24,1
+498,"रु.3,95,00,000",Kupondole,3 Aana,East,3,3,1,1,1,18,1
+499,"रु.2,65,00,000",IMADOLE,3 Aana 1 Pais,South,4,3,2,2,1,13,2.5
+500,"रु.4,60,00,000",Ganesh,4 Aana 3 Paisa,East,7,5,2,2,1,14,1
+501,"रु.3,35,00,000",Imadol,4 Aana 1 Daam,South,5,4,2,2,1,13,2.5
+502,"रु.2,25,00,000",Tikathali,3 Aana 2 Paisa 1 Daam,East,6,3,3,3,1,13,3
+503,"रु.3,50,00,000",Tikathali,4 Aana,North,5,4,2,2,1,13,3
+504,"रु.4,30,00,000",Ganesh,5 Aana,West,5,1,1,1,1,13,1
+505,"रु.3,80,00,000",Binayak,4 Aana 2 Daam,West,6,5,2,2,1,13,1
+506,"रु.4,50,00,000",Bhaisepati,5 Aana,North,4,5,1,1,1,14,1
+507,"रु.3,35,00,000",imadol,4 Aana 2 Daam,South,6,5,2,2,1,13,3
+508,"रु.2,25,00,000",Bashundhara,3.5,North,12-Aug,4,1,4,11,20,3.5
+509,"रु.11,99,00,000",Dholahiti,20 Aanna,West,5,4,1,1,10,20,2.5
+510,"रु.3,55,00,000",Imadol,1155.3,East,5,4,2,2,1,13,1
+511,"रु.3,35,00,000",Imadol,8 aana 1 daam,North,5,5,2,2,1,13,1
+512,"रु.3,15,00,000",Imadol,3 Aana 1 Paisa,South,5,4,2,2,1,13,2.5
+513,"रु.4,15,00,000",khumaltar,4 aana 2 paisa,West,6,5,2,2,1,13,1
+514,"रु.14,00,00,000",bhaisepati,17 Aana,North,5,3,1,1,1,20,1
+515,"रु.26,00,00,000",Mudkhu,13 Ropani,North,5,3,2,1,1,20,1
+516,"रु.2,90,00,000",Imadol,3 Aana ! Daam,West,5,4,2,2,1,13,1
+517,"रु.6,50,00,000",Bhaisepati,5.5 Aana,North,4,5,2,1,1,13,2.5
+518,"रु.4,00,00,000",Godawari,0-5-1-1,South,5,4,1,1,6,30,2.5
+519,"रु.7,25,00,000",Khumaltar,10 aana,North,5,5,1,1,7,20ft,2.5
+520,"रु.4,90,00,000",Dholahiti,6-3-1-0 2023 sq ft,East,12-Aug,5,4,3,15,13,3.5
+521,"रु.4,40,00,000",Rajmargha,9.3188 aana / 3189.375 sq.ft.,South,12-Aug,5,2,2,8,20,2.5
+522,"रु.2,70,00,000","Lolang,",0-4-2-0,North,12-Aug,6,1,1,14,12,3.5
+523,"रु.1,45,00,000",Tejvinayak,3 Aana,East,4,2,1,1,6,13feet,1.5
+524,"रु.7,00,00,000",pokhara,11 aana,North,12-Aug,5,2,2,12,26,3
+525,"रु.1,35,00,000","Thali,",3 Ana 1 paisa,East,4,2,2,2,8,10,2.5
+526,"रु.3,50,00,000",Kapan,4anna2dam,West,5,4,2,2,9,13,1
+527,"रु.10,50,00,000",New,10anna,North,4,4,1,1,1,13,1
+528,"रु.4,75,00,000",Buddhanilkantha,5 Ana,East,6,4,2,2,10,20,1
+529,"रु.3,50,00,000","Budhanilkantha,Mahankal",4 aana 2 daam,East,4,4,1,1,6,13,2
+530,"रु.4,75,00,000","Budhanilkantha,Mahankal",5 aana,North,5,4,1,1,7,16,2.5
+531,"रु.4,25,00,000","Budhanilkantha,Mahakal",4.1 aana,East,7,3,2,2,11,20,2.5
+532,"रु.2,70,00,000","Thulobharwang,swyambhu",3.75 anna,East,7,5,3,3,15,12,3.5
+533,"रु.4,75,00,000",Budhanilkantha,5 aana,East,6,3,2,2,10,13,2
+534,"रु.3,15,00,000",Satdobato,4 aana,South,5,4,1,1,7,13,2.5
+535,"रु.3,20,00,000",Lampati,2.5,South,3,3,1,1,10,13,3.5
+536,"रु.2,85,00,000","Chardobato,",4 aana,South,5,3,2,2,9,,2.5
+537,"रु.3,05,00,000","Imadol,Lalitpur",3 aana 1 paisa,South,5,4,2,2,9,13,3.5
+538,"रु.5,50,00,000",Imadol,5 aana 1 paisa,South,6,7,2,2,10,13,3.5
+539,"रु.5,60,00,000",Chandol,5 aana 2 paisa 2 daam,East,3,3,2,1,5,12,2.5
+540,"रु.5,50,00,000",Imadol,5 aana 1 paisa,South,6,5,4,2,12,16,3.5
+541,"रु.3,10,00,000",Imadol,3 aana 1 paisa,West,5,4,2,2,9,13,3
+542,"रु.4,75,00,000",yagyapuri,4 Kattha,East,5,1,1,1,1,,3
+543,"रु.1,75,00,000",Lamatar,3 aana 3 dam,South,3,3,1,1,5,13,2
+544,"रु.7,00,00,000",Baneshwor,8 aana 1 paisa,East,5,4,1,1,7,13,2
+545,"रु.3,00,00,000",Imadol,3aana,North,6,4,2,3,11,20,3.5
+546,"रु.4,25,00,000",Gharipatan,4.5 aana,East,7,7,1,1,9,20,2.5
+547,"रु.2,40,00,000","Setipakha,Imadol",3 aana,West,4,4,2,2,8,13,3
+548,"रु.2,85,00,000",Harisiddhi,3 aana 3 paisa,North,5,4,2,1,8,13,3.5
+549,"रु.3,35,00,000","Sitapakha,Imadol",4aana,South,5,4,3,2,10,13,3
+550,"रु.2,85,00,000",Harisiddhi,3 aana 2 paisa 2 dam,North,4,4,2,2,8,20,3
+551,"रु.6,50,00,000","Gharipatan,Pokhara",4 aana 1 paisa,South,5,4,1,1,7,22,3.5
+552,"रु.2,20,00,000","Imadol,",4 aana,South,6,3,1,1,8,13,3
+553,"रु.3,55,00,000",Ochu,3 aana 1 paisa 2 dam,South,5,5,2,2,9,20,3
+554,"रु.2,35,00,000",imadol,3 anna,South,5,3,1,2,8,13,1
+555,"रु.85,00,000",Jharuwarasi,2.5 aana,East,1,1,1,1,4,10,1
+556,"रु.5,56,00,000",Deuba,8 aana,East,12-Aug,4,1,2,11,13,2.5
+557,"रु.1,40,00,000",Jhaukhel,0-4-0-0,North,2,1,1,1,1,12,1
+558,"रु.3,20,00,000",Dhapakhel,6.5 anna,East,4,2,1,2,7,16,2
+559,"रु.2,30,00,000",Tikathali,2 aana 3 paisa 1 dam,East,4,3,1,2,7,13,2.5
+560,"रु.6,50,00,000",Baluwakhani,9 aana,West,7,4,3,3,13+,13,3.5
+561,"रु.3,80,00,000",Bouddha,4.1 aana,South,7,4,2,2,11,13,3.5
+562,"रु.4,70,00,000",Ochu,5 aana,West,5,6,1,2,8,14,3.5
+563,"रु.2,30,00,000",Shital,2aana 3 paisa 2dam,East,4,4,2,2,8,13,2.5
+564,"रु.2,99,00,000","Imadol,Mahalaxmi",3 aana 1 paisa 2 dam,North,6,5,1,2,9,13,2.5
+565,"रु.2,80,00,000","Imadol,Mahalaxmi",3 aana,South,6,4,1,2,9,13,3
+566,"रु.2,75,00,000",Imadol,3 aana,East,4,4,2,2,8,13,3
+567,"रु.7,50,00,000",Budhanilkantha,7 aana,East,4,5,1,1,6,20,2
+568,"रु.3,25,00,000",LMC,4.2 aana,North,5,5,3,3,1,26,3
+569,"रु.2,00,00,000",Lubhu,3 aana 1 paisa,West,7,3,2,3,12,13,2.5
+570,"रु.3,50,00,000",Bhaisipati,4aana,North,4,5,1,1,6,15,3
+571,"रु.1,65,00,000",Lubhu,3 aana,East,5,4,1,1,7,18,2.5
+572,"रु.2,75,00,000",Nakhipot,3 anna 2 paisa,North,5,4,1,2,8,16,1
+573,"रु.4,95,00,000",Infront,15 dhur,East,6,4,1,2,6,30,2.5
+574,"रु.1,80,00,000",Tikathali,3 aana 2paisa,North,2,1,1,1,4,13,1
+575,"रु.2,60,00,000",Tikathali,3 aana 3 dam,East,5,3,2,2,9,11ft,2.5
+576,"रु.4,25,00,000",Dholahiti,4 aana 1 paisa 1 dam,South,12-Aug,5,1,2,11,16,2.5
+577,"रु.3,95,00,000",Sital,4 aana 1.5 dam,South,6,5,2,2,10,13,3.5
+578,"रु.2,35,00,000",Shital,2 aana 3 paisa,South,4,3,2,2,8,13,2.5
+579,"रु.4,80,00,000",Imadol,5 aana 2 paisa,South,5,5,1,1,7,20,2.5
+580,"रु.3,10,00,000",Dhapakhel,4 aana,North,7,5,1,2,10,20,3.5
+581,"रु.2,75,00,000",Dhapakhel,0-3-1-1,North,6,3,3,3,12,13,3.5
+582,"रु.2,10,00,000",imadol,2 anna 3 paisa,South,4,4,1,2,7,13,1
+583,"रु.3,10,00,000","Bojhepokhari,",3 aana 2 paisa 2 dam,South,5,5,1,2,8,13,3
+584,"रु.3,99,99,999","Hattiban,",4 aana,South,6,4,1,1,8,13,2.5
+585,"रु.1,70,00,000","Lubhu,Mahalaxmi",3 aana 2 paisa,North,2,1,1,1,4,20,1
+586,"रु.1,95,00,000","JitpurRoad,Tarakeshwor",4 aana 2 paisa,West,2,1,1,1,4,26,1
+587,"रु.4,50,00,000",Lalitpur,6 aana 2 paisa,West,5,5,1,1,7,13,2.5
+588,"रु.3,30,00,000",Tikathali,4 aana 2 paisa,North,6,5,3,3,12,10,3
+589,"रु.3,10,00,000",setipakha,5.5 aana,East,4,4,2,2,7,10,2.5
+590,"रु.1,60,00,000",changathali,3 anna 2 paisa,South,2,1,1,1,4,13,1
+591,"रु.1,55,00,000",Makalbari,800 sqft,East,1,1,1,1,1,,1.5
+592,"रु.3,00,00,000",Opposite,6ana3dam,West,1,1,1,1,1,30,2
+593,"रु.1,20,00,000",Dhapakhel,2 aana 3 paisa,South,1,1,1,1,3,10,1
+594,"रु.3,10,00,000",Bhaisipati,5 aana,East,6,3,2,2,10,13,1
+595,"रु.3,65,00,000",Imadol,3 aana 3 paisa,East,5,3,2,2,9,13,1
+596,"रु.1,50,00,000",Sheetal,2 aana 3 paisa,West,6,4,2,2,10,10,1
+597,"रु.2,20,00,000",Tikathali,2 anna 3 paisa,North,5,3,3,2,10,13,1
+598,"रु.3,90,00,000","Budhanilkantha,",4 anna,East,6,5,2,2,1,13,2.5
+599,"रु.2,75,00,000",Shital,3 anna,West,4,4,2,2,8,13,1
+600,"रु.4,25,00,000",imadol,4anna 1 paisa,South,6,4,1,2,11,13,1
+601,"रु.5,00,00,000",Hattigauda,1500 Sqft,North,7,6,15,,,17,3
+602,"रु.1,60,00,000",Teku,3657.8,South,1,1,1,,,,1
+603,"रु.4,25,00,000","Shantinagar,",3 aana,South,6,4,3,2,11,10,4
+604,"रु.6,00,00,000",Bir,700 sqft,East,1,1,5,,,6,6
+605,"रु.12,00,00,000",Banedwor,12anna,North,2,2,12,,,20,2
+606,"रु.1,95,00,000",Sainik,3 aana 1 paisa 2 dam,North,4,3,8,2,8,20,2
+607,"रु.4,20,00,000",Manohara,4aana 2 dam,East,4,7,7,,,20,4.5
+608,"रु.2,75,00,000",Near,3.1.2,West,6,4,11,,,13,3
+609,"रु.2,25,00,000",NEAR,3 aana,East,5,3,11,,,10,3
+610,"रु.3,30,00,000",Hariyali,1280,East,3,4,6,,,20,2.5
+611,"रु.2,50,00,000",Oppsite,3 anna,East,3,3,11,,,13,3
+612,"रु.2,50,00,000",Simara,5 aana,West,1,3,15,,,20,3
+613,"रु.5,50,00,000",Dhumbhari,5anna,South,3,3,1,,,20,3
+614,"रु.2,90,00,000",Iscon,1500 Sqft,East,1,1,1,,,16,2.5
+615,"रु.2,50,00,000",Bhangal,3.50anna,South,4,4,9,,,13,3.5
+616,"रु.1,05,00,000",Goldhunga,3 aana,East,2,1,4,,,13,1
+617,"रु.1,99,99,999","Dhumbarai-4,Near",3.5ana,North,6,2,9,,,8,2.5
+618,"रु.3,00,00,000",Fulbari,1615,West,4,2,1,,,12,2
+619,"रु.1,95,00,000",Gokarna,3Anna,East,4,3,7,,,13,2.5
+620,"रु.6,75,00,000","Golfutar,",8 aana/3200 sq ft.,South,5,4,12,,,13,3.5
+621,"रु.2,90,00,000",Kageshwori,0-10-0-1,West,5,3,10,,,20,2.5
+622,"रु.1,30,00,000",Ansari,900 sqft,South,2,2,3,,,13,1.5
+623,"रु.3,30,00,000",kapurdhara,4.39 ana,North,5,4,9,,,4,3
+624,"रु.1,43,00,000",Lamatar,0-3-1,North,5,2,10,,,20,2.5
+625,"रु.15,50,00,000",Mahalaxmithan,18 Anna,North,6,3,9,1,9,6m,1
+626,"रु.8,49,99,996",Kalimati-Kalanki,Complete house,East,1,1,1,,,20,5+
+627,"रु.9,00,00,000",Maharajgunj,4 aana,East,5,4,1,1,7,13,2
+628,"रु.1,10,00,000",Ganesh,2.5ana,East,2,1,4,,,13,1
+629,"रु.1,10,00,000",Charikot,1500 Sqft,East,1,6,10,,,20,3
+630,"रु.3,00,00,000",Gothatar,4 aana,East,5,3,9,,,20,2.5
+631,"रु.2,09,99,999",KamalDada,14.5 Dhur,East,6,3,10,,,20,2
+632,"रु.55,00,000","Khanidada,",1kattha,North,7,3,7,,,,3
+633,"रु.3,15,00,000",Near,1200 sqft,East,4,3,1,,,,3
+634,"रु.2,75,00,000",Lele,"4anna,5anna",North,3,3,1,,,13,3
+635,"रु.1,65,00,000",Lubu,2/2/2002,North,5,2,8,,,13,2.5
+636,"रु.1,10,00,00,000",Akasay,16,East,3,3,1,,,,3
+637,"रु.2,68,00,000",imadol,3.75 aana,East,4,4,2,,,16,3
+638,"रु.70,00,000",Nepalgunj,2227 sq ft,West,2,1,5,,,27,1
+639,"रु.1,65,00,000",Darjelling,0-2-2-0,East,3,3,5,,,13,2.5
+640,"रु.1,90,00,000",Ochu,0-2-3-0,East,5,3,9,,,13,1
+641,"रु.3,03,00,000",Imadol,0-3-3-0,East,6,4,11,,,16,2.5
+642,"रु.1,55,00,000",Gothatar,3 aana,South,2,1,4,,,13,1
+643,"रु.2,17,00,000",Kadaghari,3 aana,East,6,4,11,,,13,2.5
+644,"रु.2,62,00,000",Gothatar,4 aana,East,5,4,10,,,13,2.5
+645,"रु.3,05,00,000",Swayambhu,0-3-0-1,East,6,5,11,,,16,2.5
+646,"रु.1,75,00,000",Gothatar,3 aana,East,2,2,4,,,13,1
+647,"रु.3,50,00,000",Sundar,0-3-3-0,East,4,4,10,,,13,2.5
+648,"रु.3,15,00,000",Bhangal,0-3-0-2,South,6,4,10,,,13,2.5
+649,"रु.2,70,00,000",Bhangal,3 aana,East,6,4,10,,,13,2.5
+650,"रु.3,95,00,000",Imadol,4 aana,North,7,6,13+,,,18,3.5
+651,"रु.2,45,00,000",Imadol,3 aana,East,5,4,10,,,13,2.5
+652,"रु.2,80,00,000",Imadol,0-3-0-2,East,6,4,11,,,13,2.5
+653,"रु.2,20,00,000",Tikathali,3 aana,South,5,4,11,,,13,2.5
+654,"रु.4,90,00,000",Pokhara,2000 Sqft,East,6,3,1,,,20,2.5
+655,"रु.3,25,00,000",Kapan,6 anna,West,5,3,9,,,13,2.5
+656,"रु.1,75,00,000",Tilathali,3 aana,South,2,1,1,1,4,10,1
+657,"रु.7,25,00,000",150,11 aana 2 paisa,East,3,3,5,,,13,2
+658,"रु.1,20,00,000",Campus,2300sqft,West,2,2,6,,,32ft,1
+659,"रु.2,30,00,000",Machhegau,0-3-2-0,North,7,4,11,,,13,2
+660,"रु.4,07,00,000",Nakhu,11 Aana,North,2,2,2,,,13,1
+661,"रु.5,70,00,000",Gyaneshwor,6 aana,South,6,4,13+,,,14,3.5
+662,"रु.1,50,00,000",Kapan,2 aana,East,1,1,9,,,8,3
+663,"रु.1,60,00,000",Ghatta,3 aana,North,2,1,1,1,4,12,1
+664,"रु.3,25,00,000","Imadol,",4 Aana,East,7,5,11,,,16,3.5
+665,"रु.2,00,00,000",Araniko,3 Anna,South,3,3,8,,,,2.5
+666,"रु.2,80,00,000",Chamati,3.2 aana,East,4,3,1,,,26,2.5
+667,"रु.2,40,00,000",Sukedhara,2.50anna,East,1,1,1,,,20,1
+668,"रु.25,20,00,000",Baneshwor,28 Aana,East,4,4,1,,,13,2.5
+669,"रु.7,75,00,000",Rudreshwor,8 Aana,South,6,5,1,,,13,2.5
+670,"रु.23,00,00,000",Dhapasi,24 aana,East,12-Aug,10-Aug,15,,,40+,4
+671,"रु.3,30,00,000",bijeshwori,3,East,1,1,1,,,,1
+672,"रु.5,25,00,000",muhanpokhari,11 aana 2 paisa,East,4,5,7,,,13,2.5
+673,"रु.2,20,00,000",Ratnanagar,1500 Sqft,South,12-Aug,10-Aug,10,,,16,1
+674,"रु.2,20,00,000",Near,1000 sqft,West,12-Aug,6,10,,,20,3
+675,"रु.3,00,00,000",Near,1300sft,East,12-Aug,6,11,,,Only,3
+676,"रु.2,10,00,000","Kadaghari,birendra",3.5 aana,East,6,3,11,,,6,2.5
+677,"रु.2,85,00,000",Jarankhu,1100 sqft,East,6,3,11,,,,3
+678,"रु.4,00,00,000",dhapasi,0-4-2-0 aana,West,7,6,12,,,13ft,2.5
+679,"रु.2,80,00,000",Near,1000 sqft,East,7,4,11,,,Only,2.5
+680,"रु.2,60,00,000",Near,1200 sqft,West,6,4,9,,,13,2.5
+681,"रु.2,75,00,000",Naya,1000 sqft,East,7,6,10,,,20,3
+682,"रु.2,85,00,000",Near,1300 sqft,East,7,6,11,,,13,3
+683,"रु.10,50,00,000",hattigauda,15.2 aana,South,5,4,9,,,20,2.5
+684,"रु.2,10,00,000",Thankot,3 Aana,East,4,3,7,,,300m,2.5
+685,"रु.2,40,00,000",Hattiban,3,North,3,4,1,,,20,2.5
+686,"रु.3,20,00,000",bhangal,4.5 aana,West,7,5,12,,,13ft,2.5
+687,"रु.3,80,00,000",Mid,700 sqft,East,1,1,1,,,,3
+688,"रु.6,03,00,000",Hepali,7 Ana +,East,4,4,9,,,,3.5
+689,"रु.1,90,00,000",imadol,3 aana,East,4,3,1,,,6,2.5
+690,"रु.2,75,00,000",Ochuheight,1100 sqft,East,5,5,1,,,"13,",3
+691,"रु.2,50,00,000","Lasuntar,Kapan",3 aana,North,5,3,9,,,14ft,2.5
+692,"रु.6,00,00,000",Budhanilkantha,6,North,5,5,1,,,16,2.5
+693,"रु.12,00,00,000",GahanaPokhari,10,North,6,6,1,,,14,2.5
+694,"रु.3,00,00,000",Chhapkaiya,10.75 dhur,South,12-Aug,7,15,,,7m,6
+695,"रु.2,35,00,000",Tikathali,0-3-0-3,East,5,4,1,2,9,13,2.5
+696,"रु.2,80,00,000",Puja,3.5 aana,East,12-Aug,10-Aug,15,5+,15,"6,7,12ft",9+
+697,"रु.2,40,00,000",Maitidevi,1500 Sqft,South,5,3,2,2,7,13,2.5
+698,"रु.2,60,00,000",Mahadevsthan,1500 Sqft,East,7,5,8,,,13,2.5
+699,"रु.3,40,00,000",Grande,3.75,South,6,4,9,,,13,2.5
+700,"रु.10,00,00,001",jharuwarashi,5814,South,12-Aug,10-Aug,1,,,10,3.5
+701,"रु.1,80,00,000",Balaju,"2,5",South,3,2,1,,,,3
+702,"रु.90,00,000",Ugranchandi,2.3,East,4,2,6,,,13,4.5
+703,"रु.4,75,00,000",Rudreshwor,5.5,South,4,5,1,,,14,2.5
+704,"रु.3,75,00,000",Muhan,5,South,6,5,1,,,14,2.5
+705,"रु.12,00,00,000",Near,13,North,5,4,1,,,14,2.5
+706,"रु.2,60,00,000",Itram,13.84 anna,West,2,2,4,,,Above,1
+707,"रु.6,00,00,000",Kuleshore,6 Aana 2 Paisa 2 Daam,South,1,1,1,,,16,3
+708,"रु.2,80,00,000",Bharatpur,26.5 dhur,East,3,6,8,,,20,2
+709,"रु.98,00,000",GAGAN,5.5,East,4,4,1,,,,1
+710,"रु.1,15,00,000",Surunga,1361,East,3,3,7,,,,2.5
+711,"रु.7,75,00,000",Teku,2560,East,7,4,13+,,,10,3.5
+712,"रु.6,50,00,000",Tangal,7.2,North,5,3,9,,,16,3.5
+713,"रु.5,70,00,000",Kupondole,7.5. Anna,North,6,3,11,,,5.5tr,2.5
+714,"रु.2,50,00,000",Changathali,4.25 Aana,South,6,3,11,3,,12-Oct,2.5
+715,"रु.3,50,00,000",Sanepa,2.85 aanas,East,3,2,5,,,,3
+716,"रु.7,35,00,000",Manamaiju,9.25 aanas,South,4,3,7,,,13,3
+717,"रु.85,00,000","Yogikuti,",5.5 dhur,North,2,1,3,,,10,1
+718,"रु.2,15,00,000",Purwanchal,12 dhur,East,12-Aug,10-Aug,15,,,20,4
+719,"रु.3,00,00,000",Tallo,6 aana,East,12-Aug,7,14,,,25,3
+720,"रु.10,00,00,000",Basundhara,0-10-0-0,East,5,5,14,,,22,2.5
+721,"रु.2,25,00,000",400m,3 Aana,East,6,3,11,,,16,3
+722,"रु.2,80,00,000",Hattiban,3 aana,North,4,4,1,1,6,,2.5
+723,"रु.3,15,00,000",Beside,4.25 aana,North,6,4,10,,,13,2.5
+724,"रु.3,40,00,000",1500mtr,5.5aana,South,5,3,8,1,8,13feet,3
+725,"रु.4,50,00,000",Kusunti-13,1000 sqft,West,6,5,9,,,,3.5
+726,"रु.3,35,00,000",Kalanki,4 anna,East,1,3,13+,,,10,3
+727,"रु.2,25,00,000",Belbari,22 Dhur,East,4,3,6,,,20,1
+728,"रु.3,07,50,000",Imadol,1070,South,3,4,7,,,10,2.5
+729,"रु.7,70,00,000",hattigauda,0-6-2-3.066,West,4,5,1,,,30,2.5
+730,"रु.18,70,00,000",Bhaisepati,22,East,1,1,1,,,13,1
+731,"रु.13,50,00,000",Bhaisepati,13,South,1,1,1,,,16,1
+732,"रु.3,00,00,000",Bharatpur,7 dhur,West,1,1,1,,,6,1
+733,"रु.6,00,00,000",manahari,15 dhur,North,8+,8+,1,,,east,2.5
+734,"रु.3,20,00,000",Dadhikot,4.75,East,7,4,13+,,,13,3.5
+735,"रु.2,50,00,000",Thankot,4 anna,South,1,4,11,,,13,2.5
+736,"रु.1,60,00,000",Basantapur,700 sqft,East,12-Aug,10-Aug,1,,,,7
+737,"रु.6,00,00,000",Sitapaila,9 .85 aana,South,5,3,5,,,12,2.5
+738,"रु.3,50,00,000",Chapagaun,5/2/2003,West,12-Aug,2,10,,,20,2.5
+739,"रु.2,50,00,000","Ringroad,",0-6-2-0,South,7,6,14,,,10,3.5
+740,"रु.40,00,000","26.7102432,",1800 sqft,East,3,1,1,1,6,16,1
+741,"रु.2,80,00,000",Chauthe,900 sqft,South,6,6,10,,,20,2.5
+742,"रु.40,00,000",Thasikhel,0-4-1-2,West,6,2,9,,,3.5,2
+743,"रु.3,00,00,000",Dhapasi,126.15 sqmt,East,3,2,1,1,6,,3
+744,"रु.3,90,00,000",Baluwakhani,4 aana / 2 paisa,East,6,4,12,,,12,3.5
+745,"रु.1,35,00,000",Tarkari,2.5 Aana,East,4,2,1,,,16,2.5
+746,"रु.3,50,00,000",Dhapakhel,5 aana 1 paisa 3daam,East,12-Aug,7,2,3,13+,13,3.5
+747,"रु.1,85,00,000",Sangla,700 sqft,South,3,4,9,,,12,3
+748,"रु.1,50,00,000",Swayambhu,1000 sqft,East,1,1,1,,,,1
+749,"रु.3,60,00,000","Nakhkhu,",4.25 aana,South,4,5,6,,,13,2.5
+750,"रु.1,00,00,000","Bansbari,",0-5-0-0,East,2,1,4,,,13,1
+751,"रु.3,80,00,000",tarksewor,4 anna,North,12-Aug,5,15,,,13,4.5
+752,"रु.2,00,00,000",Hattiban,3 aana,South,3,2,6,,,13,2
+753,"रु.5,95,00,000",Dadhikot,10 Aana,East,5,6,11,,,14ft,2.5
+754,"रु.2,70,00,000",Tarkeshwor,1711 Sqft,East,6,2,10,,,20,2
+755,"रु.2,50,00,000",Near,3/1/2001,West,4,4,6,,,16,2.5
+756,"रु.3,50,00,000",Rudreshor,6aana,East,5,3,15,,,13,2.5
+757,"रु.57,00,000",Chitawon,1200 sqft,East,1,1,1,,,,1
+758,"रु.3,90,00,000",Godawari,4.5 - 11 aana,East,5,4,5,,,20,2.5
+759,"रु.4,35,00,000",kotesower,1500 Sqft,East,1,1,1,,,,3.5
+760,"रु.1,36,00,000",jhaukhel,4 aana,East,1,1,1,,,,1
+761,"रु.8,70,00,000",New,0-8-1-2,East,6,3,1,1,,,2
+762,"रु.4,35,00,000",kotesore,4.5 anna,East,1,1,1,,,,3.5
+763,"रु.3,40,00,000",khusibu,3.2,East,5,3,5,,,13,2.5
+764,"रु.2,45,00,000","Narayantar,",3 Aana,East,5,3,11,,,13,2.5
+765,"रु.2,50,00,000",Narayanthan,1100 sqft,East,2,1,1,1,4,13,3
+766,"रु.1,60,00,000",Budibazar,4 aana,East,5,5,7,,,25,2
+767,"रु.3,68,00,000",In,6.5 ana,East,12-Aug,3,15,,,13,3.5
+768,"रु.4,15,00,000",Lalitpur,3800 Sq feet,West,6,6,12,3,12,16,3
+769,"रु.2,70,00,000",Gatthghar,700 sqft,East,3,1,4,,,6,3
+770,"रु.1,62,00,000",Sesmati,1100 sqft,North,12-Aug,6,14,,,,3.5
+771,"रु.2,64,00,000",Jarankhu,5 aana,East,5,6,13+,,,20,3
+772,"रु.2,45,00,000",600,3,North,4,4,9,,,15,2.5
+773,"रु.32,00,000",Buddhanagar,1200 sqft,East,2,2,4,,,20,1
+774,"रु.7,00,00,000",Near,7,South,5,5,1,,,,2.5
+775,"रु.7,50,00,000",Inside,10,North,5,4,1,,,,2.5
+776,"रु.15,95,00,000",150,29,East,5,4,1,,,13,2.5
+777,"रु.3,50,00,000",Kapan,4.5,East,6,4,9,,,13,3.5
+778,"रु.1,35,00,000",balaju,1100 sqft,South,4,2,6,,,16,2.5
+779,"रु.3,00,00,000",Banasthali,3.8,South,3,2,2,,,10,3.5
+780,"रु.3,50,00,000","Bhangal,sundar",7aana,South,1,1,1,,,10,1
+781,"रु.3,00,00,000",Bhangal,3.5 aana,South,3,3,1,2,9,10,2
+782,"रु.4,50,00,000","Imadol,",5,North,1,1,1,,,13,1
+783,"रु.3,25,00,000",Tikathali,3.3.2,South,1,1,1,,,13,2.5
+784,"रु.3,30,00,000","Imadol,",3.3,West,1,1,1,,,,2.5
+785,"रु.4,20,00,000",Near,4.1,South,7,5,1,,,13,2.5
+786,"रु.2,80,00,000",Guheshwori,700 sqft,North,5,4,15,,,13,3.5
+787,"रु.3,20,00,000",Gairikhet,3,North,7,3,12,,,18,2.5
+788,"रु.20,00,00,000",Narayangarh,3 kattha,East,1,1,1,,,20,2
+789,"रु.8,99,00,000",Baneshwor,2203.22,East,8+,4,1,,,,4
+790,"रु.2,75,00,000",Baluwakhani,4 aana,West,6,3,11,,,20,2.5
+791,"रु.65,00,000",Tankisinwari,3 kattha 4 dhur,East,3,3,14,,,,3
+792,"रु.1,15,00,000",Inedrayani,3aana,East,2,1,3,,,20,1
+793,"रु.1,55,00,000",Khatris,3.5,East,2,1,1,,,14,1
+794,"रु.1,70,00,000",Thankot,3.5 aana,East,6,3,10,,,,2.5
+795,"रु.8,00,00,000",Ganesh,8.1,East,5,5,1,,,20,2.5
+796,"रु.10,50,00,000","Maharajgunj,",11,East,4,4,1,,,10,2.5
+797,"रु.13,50,00,000",Dhapasi,16,East,5,5,1,,,13,2.5
+798,"रु.7,90,00,000",Deuba,8,East,5,5,1,,,20,2.5
+799,"रु.8,50,00,000","Rudreshwor,",11,South,6,6,1,,,,2.5
+800,"रु.7,15,00,000",Bhaisepati,6,North,4,5,1,,,16,2.5
+801,"रु.6,75,00,000","Rudreshwor,",6.3,East,5,4,1,,,20,2.5
+802,"रु.10,00,00,000",Pasikot,20,South,5,4,1,,,16,2.5
+803,"रु.5,75,00,000",Muhan-Pokhari,11,North,5,5,1,,,16,2.5
+804,"रु.4,80,00,000",Budhanilkantha,10.5,East,1,1,1,,,13,1
+805,"रु.2,50,00,000","Imadol,",3,East,1,1,1,,,16,1
+806,"रु.8,50,00,000","Golfutar,",9,East,1,1,1,,,20,1
+807,"रु.3,45,00,000",600,4.1.2,North,1,1,1,,,,1
+808,"रु.8,50,00,000",Bhaisepati,7,East,5,6,1,,,13,2.5
+809,"रु.1,20,00,000","lalbandi,",1280,South,4,2,2,2,8,8,2
+810,"रु.14,00,00,000",Bhaisepati,8,East,6,7,1,,,,2.5
+811,"रु.7,80,00,000","Bhaisepati,",6.02,South,5,5,1,,,,2
+812,"रु.8,50,00,000",Bhaisepati,7,South,5,5,1,,,,2.5
+813,"रु.4,75,00,000",Mandikatar,5,South,6,6,1,,,,2.5
+814,"रु.3,90,00,000",Mandikatar,4,East,1,1,1,,,,2.5
+815,"रु.4,75,00,000","Rudreshwor,",4.5,East,4,4,1,,,20,2.5
+816,"रु.4,20,00,000",Pasikot,5,East,1,1,1,,,,2.5
+817,"रु.1,40,00,000",Basudev,1000 sqft,North,5,2,1,2,9,2m,2.5
+818,"रु.4,60,00,000",laliguras,7 anna,South,12-Aug,10-Aug,10,,,12,4.5
+819,"रु.1,75,00,000","Tarkeswor,",3 anna,South,12-Aug,3,11,,,13,3.5
+820,"रु.2,50,00,000",Brahmakhel,0-3-2-0,North,4,2,1,,,22,2
+821,"रु.1,35,00,000",Dhapasi,2.5,East,6,2,1,,,6,1.5
+822,"रु.7,00,00,000",Budhanagar,1200sqft,East,7,3,10,,,16,2
+823,"रु.2,10,00,000",Nepaltar,1020 sqft,East,12-Aug,4,13+,,,9,3.5
+824,"रु.2,25,00,000",Sesmati,3.1 Aana,South,12-Aug,5,13+,,,13,3
+825,"रु.2,85,00,000",Jaranku,5 Aaana,East,5,6,10,,,20,3.5
+826,"रु.2,20,00,000",Jaranku,0-3-0-1,West,12-Aug,5,1,,,13,3
+827,"रु.2,19,00,000",Jaranku,3 Aana,North,12-Aug,5,11,,,13,3
+828,"रु.2,50,00,000",Airport,1500 Sqft,East,1,1,1,,,,1
+829,"रु.2,90,00,000",Lolang,1205,South,7,6,13+,,,13,3.5
+830,"रु.45,00,000",Imiliya-9,23.004sqt,West,3,1,1,1,5,20,1
+831,"रु.1,85,00,000",Tarkeshower,1000 sqft,East,1,3,11,2,11,10,2.5
+832,"रु.32,00,000",near,1275.75,East,1,1,1,,,,1
+833,"रु.3,00,00,000","Banglamukhi,",732.81 sqft,East,3,2,1,1,5,,5+
+834,"रु.3,20,00,000",Pepsicola,4 Ana,South,12-Aug,3,15,,,13,3
+835,"रु.1,80,00,000",BIRATNAGAR,1822.5,East,6,2,7,,,20,2.5
+836,"रु.3,67,00,000","Maitidevi,",3 aana,North,4,4,15,,,8,4
+837,"रु.2,16,00,000",Nepaltar,3 aana 1 dam,North,12-Aug,4,14,,,11,3.5
+838,"रु.1,50,00,000",Thali,4,East,2,1,1,1,4,12,1
+839,"रु.6,60,00,000","Balkumari,",7 aana 1 paisa,North,3,6,13+,,,16,4.5
+840,"रु.6,17,50,000",Bhaisipati,9.5 aana,East,5,2,10,,,12,3
+841,"रु.2,19,00,000","Nepaltar,",3 aana,East,1,1,13+,,,11,1
+842,"रु.2,95,00,000",Imadole,3.2 aana,East,5,3,6,,,28ft,2.5
+843,"रु.5,00,00,000",Birendra,5 aana 2 paisa,East,12-Aug,10-Aug,15,,,16,4
+844,"रु.3,80,00,000",sitapaila,6 anna,East,6,6,2,3,,13,2.5
+845,"रु.3,80,00,000",Ram,6ana,North,5,5,2,1,8,13,3.5
+846,"रु.2,95,00,000",Dhapakhel,0-2-2-2 Ropani,West,6,4,2,2,,13,3
+847,"रु.3,00,00,000",Maitidevi,3 aana,South,5,3,9,,,8,3
+848,"रु.4,60,00,000",Shantinagar,3 aana,South,12-Aug,1,11,,,10,4
+849,"रु.1,90,00,000",Sanogau,4anna,East,6,4,9,1,9,16ft,1.5
+850,"रु.3,00,00,000",Kumaarigal,3aana3paisa,East,5,4,15,,,8,3.5
+851,"रु.2,40,00,000",Thapa,1500 Sqft,North,4,2,7,,,26,2
+852,"रु.6,25,00,000",Sitapaila,0-7-2-3.14,South,4,5,1,,,20,2.5
+853,"रु.1,60,00,000",Near,1000 sqft,East,4,2,8,,,10,2.5
+854,"रु.1,95,00,000",Changunarayan,4 ana 2 dam,East,6,3,1,,,,3.5
+855,"रु.5,00,00,000",Bhaisepati,5,East,1,1,1,,,,2.5
+856,"रु.3,99,00,000","Sundarbasti,",5 aana,East,1,1,13+,,,20,2.5
+857,"रु.2,75,00,000",Dhalmal,1200 sqft,South,7,3,11,,,12,2.5
+858,"रु.55,00,000",Phutung,4anna,North,4,2,7,,,,2
+859,"रु.2,66,00,000",tikathali,3 ana 1 paisa,South,6,3,11,,,12,2.5
+860,"रु.6,15,00,000",Lamahi,2 kattha,North,12-Aug,7,1,,,20,3
+861,"रु.4,15,00,000",koteshwor,4aana,South,5,5,13+,,,6,3.5
+862,"रु.3,15,00,000","Shankhamul,",3 aana,South,4,3,1,,,10,3
+863,"रु.6,50,00,000",Dhumbarahi,0-5-2-0,North,12-Aug,7,15,,,13,3.5
+864,"रु.6,75,00,000",Dhumbhari,0-6-2-0,South,12-Aug,5,1,,,16,2.5
+865,"रु.3,00,00,000","Chunikhel,",3 aana 3 paisa,South,6,5,11,,,13,3
+866,"रु.1,00,00,000",Phutung,3 aana 2 dam,East,2,1,4,,,8,1
+867,"रु.2,35,00,000",Pepsicola,3.5 Anna,North,6,5,10,2,10,12,3
+868,"रु.5,25,00,000",Tahachal,6 ana 1 paisa chanchun,East,1,1,8,,,8,2.5
+869,"रु.1,95,00,000","Chunikhel,",2 aana 2 paisa 2 dam,South,4,3,9,,,10,2.5
+870,"रु.3,60,00,000",dhapasi,2053.5 aqft,West,12-Aug,5,1,,,15,4
+871,"रु.1,70,00,000","Tarkeshwor-08,",3 aana,East,12-Aug,6,14,,,10,3.5
+872,"रु.3,50,00,000",Jorpati,1600 Sqft,South,12-Aug,5,15,,,12,3.5
+873,"रु.1,15,00,000","Chandragiri,",3 aana 5 paisa,South,3,1,4,,,22,1
+874,"रु.3,50,00,000","Kalanki,",3 aana,East,12-Aug,7,15,,,14,4
+875,"रु.2,80,00,000",Manamaiju,3 aana 1 paisa,East,12-Aug,6,1,,,11,3
+876,"रु.2,80,00,000",Balaju,3 aana 5 paisa,West,12-Aug,10-Aug,15,,,26,3.5
+877,"रु.1,65,00,000","Thankot,",3 aana 1 Paisa,West,5,1,6,,,,2
+878,"रु.7,50,00,000",Swoyambhu,4.5 ana,East,12-Aug,3,12,,,12,2.5
+879,"रु.4,15,00,000Starting",,,,,,,,,,
+880,"रु.2,80,00,000","Ramkot,",4 aana 1 paisa 2 dam,East,1,1,1,,,16,2.5
+881,"रु.2,50,00,000",Harisiddhi,700 sqft,East,6,3,1,,,16,4
+882,"रु.7,00,00,000",Satdobato,0-10-00-00,East,12-Aug,6,1,,,16,2.5
+883,"रु.1,35,00,000",Thankot,3 aana,West,7,2,1,,,,3
+884,"रु.1,70,00,000",Thankot,0-3-1-2,North,6,3,1,,,11,3
+885,"रु.1,70,00,000",Thankot,3 aana 3 paisa,North,4,4,9,,,13,3
+886,"रु.2,20,00,000",Kadaghari,3 aana 3 paisa,West,4,1,1,,,30,2.5
+887,"रु.95,00,000",Sindhuli,3.5,East,4,2,1,,4,,2
+888,"रु.2,90,00,000",Godamchaur,12 aanaa,South,12-Aug,6,15,,,13,2.5
+889,"रु.2,00,00,000Starting",,,,,,,,,,
+890,"रु.3,25,00,000",Kapan,5 aana 3 paisa,South,6,3,3,3,12,13,3
+891,"रु.2,80,00,000",Nayapati,3ana 4 paisa,South,12-Aug,4,1,,,,3.5
+892,"रु.28,00,00,000",Thamel,5.5 aana,East,12-Aug,10-Aug,15,,,20,5+
+893,"रु.3,50,00,000",Bouddh,4 Ana,East,1,1,14,,,10,3.5
+894,"रु.5,15,00,000",Narayanthan,8.1 Aana,South,6,3,8,,,13,3
+895,"रु.3,30,00,000",Rudranagar,4.5 aana,West,6,1,10,,,20,3.5
+896,"रु.2,67,00,000","Chandragiri-06,",5 aana,West,6,1,11,,,20,2.5
+897,"रु.2,85,00,000","Paiyatar,",3 aana 4 paisa 1 daam,East,7,3,11,,,,2.5
+898,"रु.1,80,00,000",Gurung,4 aana 5 paisa,North,2,4,1,,,16,1
+899,"रु.1,20,00,000","Tarkeshwor-04,",0-4-1-3,West,1,1,1,,,3,1
+900,"रु.3,50,00,000",Chappal,0-3-0-0,South,4,4,5,,,16,3.5
+901,"रु.8,50,00,000",Sanobharyang,0-8-2-0,West,7,5,1,,,16,4.5
+902,"रु.1,70,00,000",Kathmandu,0-2-2-0,West,4,2,1,,,16,2.5
+903,"रु.2,95,00,000",Dhapasi,3 Aana,West,5,3,9,,,13,2.5
+904,"रु.2,90,00,000",Jalpa,4 aana,South,1,1,11,,,13,1
+905,"रु.5,75,00,000",Nakhipot,1500 Sqft,East,5,6,15,,,20,3.5
+906,"रु.1,55,00,000",Tahachal,3.3.1 Aana,East,1,1,1,,,8,2
+907,"रु.1,72,00,000","Khahare,",3 aana,South,5,1,9,,,10,1
+908,"रु.3,25,00,000","Kadaghari,",3.5 aana,East,6,1,12,,,13,1
+909,"रु.2,70,00,000","Narephat,",2.5 aana,East,1,1,9,,,28,1
+910,"रु.2,55,00,000","BUDHANILKANTHA,",5.1 aana,East,5,3,9,,,14,1
+911,"रु.2,90,00,000",Kapan,4 Aana,South,1,1,1,,,10,3
+912,"रु.2,75,00,000",Paradise,3 aana 2 paisa,South,3,3,7,,,13,1
+913,"रु.4,10,00,000","Sanep,",3 aana,South,6,5,7,,,10,2.5
+914,"रु.3,85,00,000",Nayabasti,0-4-3 -0,East,6,5,10,,,20,2.5
+915,"रु.2,30,00,000",Siddhikali,4 aana,North,5,3,9,2,9,20,3
+916,"रु.2,05,00,000","Suryabinayak-Katunje,",3 Anna,South,4,3,8,,,,2.5
+917,"रु.2,85,00,000","Besigaun,",4.5 aana,South,5,2,6,2,6,12,2.5
+918,"रु.5,00,00,000",Hattiban,1200 sqft,North,4,3,1,,,20,2.5
+919,"रु.2,60,00,000",Bhojad,26 dhur (13.8 aana),South,4,4,6,,,20,2
+920,"रु.5,80,00,000",Bafal,0-8-3-1,East,6,5,8,,,12,2.5
+921,"रु.16,00,00,000",Samakhusi,1 ropani,West,5,3,8,,,20,5+
+922,"रु.2,05,00,000",Tribhuwan,4 aana,North,5,4,1,2,,13,2.5
+923,"रु.6,00,00,000",Gwarko,8 and half aana,East,12-Aug,6,15,,,10,3.5
+924,"रु.1,75,00,000",Jhakhadi,9.5 Dhur,East,1,1,8,,,13,2.5
+925,"रु.5,60,00,000",Narayanghat,1000 sqft,East,1,1,1,,,6,1
+926,"रु.2,35,00,000",nayabasti,5,South,1,1,8,,,10,2
+927,"रु.2,85,00,000",Chauthe,5.45 anna,South,7,3,9,,,,3
+928,"रु.14,00,00,000",Kupondol,5 aana,East,5,10-Aug,1,,,20,5+
+929,"रु.2,60,00,000",Naikap,4,East,3,3,8,,,13,2.5
+930,"रु.1,30,00,000",gokarna,3 aana,East,2,1,4,,,13,1
+931,"रु.2,70,00,000",jorpati,3/1/2002,South,6,3,11,,,13,2.5
+932,"रु.7,50,00,000",Balkot,10 anna,East,6,5,1,,,13,3.5
+933,"रु.2,50,00,000",Kalikasthan,1 Anna 2 paisa,East,3,2,5,,,,2.5
+934,"रु.3,80,00,000",Sanothimi,4 anna 3 paisa,West,6,4,15,,,13,2.5
+935,"रु.3,25,00,000",Imadol,4 aana,North,5,4,9,,,13,2.5
+936,"रु.5,00,00,000",bhetghat,7 anna,South,4,4,1,,,10,2.5
+937,"रु.65,00,000",Beside,25.2 square ft,North,1,1,1,1,5,18,1
+938,"रु.3,60,00,000",Imadol,7 / 2395.75,North,5,2,1,1,12,20,2.5
+939,"रु.14,00,00,000","Chamati,",0-9-0-0.39,West,1,1,1,,,26,6
+940,"रु.75,00,000",Bhuwanbasti,3645,North,4,1,1,1,6,20,1
+941,"रु.1,60,00,000",Bhuwanbasti,7290,South,6,2,2,2,10,20,2.5
+942,"रु.1,70,00,000",Banepa,1000 sqft,East,12-Aug,4,14,,14,20,3.5
+943,"रु.1,60,00,000",Sitapaila,90.2square meter,West,2,2,2,,,,2
+944,"रु.1,75,00,000",Jorpati,1500 Sqft,East,2,1,5,,,,1.5
+945,"रु.2,70,00,000",Kageshwori,3 aana 2 paisa,North,6,3,11,,,13,2.5
+946,"रु.9,25,00,000",Samakhusi,2000,East,12-Aug,5,1,,,20,5+
+947,"रु.1,60,00,000",Imadol,500 Sqft,South,2,2,5,,,13,1.5
+948,"रु.1,65,00,000","Imadol,",3 aana 3 daam,East,2,1,5,,,13,1.5
+949,"रु.6,75,00,000",Panipokhari,0-4-0-3.79,North,4,1,5,,,20,3.5
+950,"रु.4,50,00,000",Samakhusi,1711.25,East,7,4,2,2,10,10,2.5
+951,"रु.3,00,00,000","Taukhel,",1540.125,East,5,5,8,,,6,2.5
+952,"रु.1,60,00,000",mulpani,1000 sqft,East,4,3,8,,,10,3.5
+953,"रु.1,75,00,000",Gothatar,3 aana,East,4,3,8,2,8,13,2.5
+954,"रु.1,70,00,000",Near,1200 sqft,East,6,2,6,,,10,2.5
+955,"रु.1,85,00,000",Kapan,3 ana,West,3,3,2,1,8,20,2.5
+956,"रु.1,80,00,000",Khurkhure,15.97 ana,West,2,2,1,1,,10m,2
+957,"रु.4,50,00,000",Narayangarh,15 Haat,East,8+,3,14,3,14,22,3
+958,"रु.5,50,00,000",Deuwa,8 aana,East,8+,4,11,,,12,2.5
+959,"रु.3,35,00,000",Chokhel,5anna,East,8+,4,9,,,12,3.5
+960,"रु.2,10,00,000","Sudal,",0-3-3-0,East,8+,3,11,,,10,3.5
+961,"रु.3,35,00,000",Chokhel,5anna,East,8+,4,1,,,12,3.5
+962,"रु.4,95,00,000",Sukedhara,4 Anna,North,1,3,1,,13+,12,2
+963,"रु.10,00,00,000",Bishalnagar,0-8-0-0,South,5,3,6,,,16,2.5
+964,"रु.10,50,00,000",Khusibu,0-7-1-0,South,8+,5+,12,,,16,4
+965,"रु.3,65,00,000",Khumaltar,0-3-2-1,East,3,4,3,,,13,2.5
+966,"रु.7,00,00,000",Sukhedhara,7 aana,East,4,3,4,,,12,2.5
+967,"रु.7,70,00,000",Sanepa,0-9-0-0,East,6,4,9,,,13,2.5
+968,"रु.4,50,00,000",Seti,4.5 anna,East,8+,5+,13+,,,20,4
+969,"रु.2,35,00,000",Imadol,0-3-0-0,East,4,4,1,2,7,13,2.5
+970,"रु.3,10,00,000",Setipakha,4 aana,East,1,1,1,,,,1
+971,"रु.2,60,00,000",Panchakanya,4 aana 3 paisa,North,2,2,1,1,4,10,2
+972,"रु.4,20,00,000",Kohinoor,4 aana,South,4,3,5,,,14,2.5
+973,"रु.16,00,00,000",Koteswore,17 Aana,East,6,4,1,,,20,2.5
+974,"रु.2,30,00,000",Dhunge,3 anna,North,6,3,1,,,,3
+975,"रु.7,50,00,000",sanepa,9 aana,South,5,2,7,,,20,2
+976,"रु.80,00,000",Sanischare,151.25,East,4,1,1,,4,24,1
+977,"रु.6,30,00,000",Dadhikot,10 Anna,South,5,5+,7,,,16,2.5
+978,"रु.2,50,00,000",Tikathali,3.5 anna,South,3,3,3,3,10,13,2.5
+979,"रु.2,35,00,000",Kapan,3.5 aana,South,5,3,10,,,10,2.5
+980,"रु.2,65,00,000",Kapan,4 aana,East,5,3,10,,,10,2.5
+981,"रु.8,00,00,000",Kausaltar,3762 Sqft,North,8+,5+,15,,,20,5+
+982,"रु.1,60,00,000",Imadol,0-3-0-1,East,2,2,1,1,4,13,1
+983,"रु.3,55,00,000",Sitapaila,1500 Sqft,East,6,4,10,,,10,2.5
+984,"रु.15,00,00,000",Futung,3.5,South,2,1,4,,,16,1
+985,"रु.3,00,00,000",Near,0-3-1-0,West,3,4,8,,,13,2.5
+986,"रु.1,95,00,000",3,3 Aana,West,6,3,9,,,13,2.5
+987,"रु.2,80,00,000",Lamachaur,4 aana,East,6,5+,10,2,10,,2.5
+988,"रु.2,50,00,000",College,18 Dhur,North,8+,2,15,,,10,2
+989,"रु.2,23,50,000",Balkhu,3 aaana,North,3,3,1,1,6,5,2.5
+990,"रु.2,95,00,000",Goldhunga,1500 Sqft,West,8+,4,15,,,10,3.5
+991,"रु.4,50,00,000",Banasthali,0-4-2-1,North,7,5+,9,,,13,3
+992,"रु.3,80,00,000",Matatirtha,14 ana,North,8+,5+,15,,,,3
+993,"रु.2,65,00,000",Chundevi,5-Apr,East,8+,4,11,,,13,3.5
+994,"रु.1,27,00,000","Lambagar,",3 aana,North,3,1,4,,,10,1
+995,"रु.1,43,00,000",Jorpati,2.2aana,South,3,3,3,,,10,2.5
+996,"रु.20,00,00,000",Old,1-3-0-0,West,8+,5+,1,,,20,3.5
+997,"रु.3,95,00,000",Grande,4.75 aana,North,4,3,6,,,20,1
+998,"रु.1,15,00,000",Siran,1200 sqft,West,8+,3,3,,,12,2.5
+999,"रु.4,15,00,000",Koteshwor,3 aana,East,1,4,9,,,10,3.5
+1000,"रु.2,40,00,000",Kageshwori,3.5 aana,East,6,3,11,,,20,2.5
+1001,"रु.12,00,00,000",Tinkune,12 aana,South,8+,5+,15,,,20,3.5
+1002,"रु.5,50,00,000",Lubhu,6 Aana,North,7,5+,13+,,,16,3.5
+1003,"रु.75,00,00,000",Duwakot,3.1 aana,South,4,1,4,,,10ft,1
+1004,"रु.2,50,00,000",Imadol,898.44,East,6,3,1,2,12,10,3.5
+1005,"रु.3,20,00,000",Near,3080 Sqft,South,1,2,10,,,32,2.5
+1006,"रु.6,50,00,000",Bhangal,15.2 Aana,West,6,5+,11,,,,3.5
+1007,"रु.2,60,00,000",Tikathali,5aana 2dam,West,5,3,10,,,12,2.5
+1008,"रु.2,35,00,000","Imadol,lalitpur",3aana,East,4,3,7,,,13,2.5
+1009,"रु.2,00,00,000",Imadol,3aana,East,4,3,8,,,13,2.5
+1010,"रु.2,20,00,000",Imadol,3aana 1dam,East,4,3,8,,,13,2.5
+1011,"रु.2,40,00,000",Imadol,3aana 1dam,East,4,3,8,,,13,2.5
+1012,"रु.4,50,00,000",Budhanilkantha,6.25,North,8+,5,1,2,13+,14,2.5
+1013,"रु.1,95,00,000","Imadol,Lalitpur",2.75 aana,East,4,3,8,,,20,2.5
+1014,"रु.1,90,00,000",Lubhu,1000 sqft,East,5,3,8,,,13,2.5
+1015,"रु.2,40,00,000",Radhe,800 sqft,North,4,4,1,,,7.5,4
+1016,"रु.2,10,00,000",Satdobato,4 aana,East,8+,3,2,,11,6,3
+1017,"रु.2,70,00,000",Shankhamul,2.5,West,3,1,8,,,20,4.5
+1018,"रु.2,50,00,000",BASUNDHARA,4 aana,South,6,4,1,3,10,13,3.5
+1019,"रु.1,55,00,000",sitapaila,2.5aana,South,5,3,8,,,13,3
+1020,"रु.5,80,00,000",Dhapasi,9.24,North,5,5+,14,,,6,3.5
+1021,"रु.2,35,00,000",Chasidol,4 aana 1 dam,West,6,3,2,2,13+,13,3
+1022,"रु.3,25,00,000",Golfutar,4 anna,East,5,4,7,,,16,2.5
+1023,"रु.1,85,00,000",Imadol,3aana,South,4,3,7,,,13,2.5
+1024,"रु.2,30,00,000",Tikathali,3.5 ana,South,6,4,10,,,12,2.5
+1025,"रु.2,35,00,000",Hattiban,1197.87,South,5,3,8,,,13,2.5
+1026,"रु.1,75,00,000",Balagau,5aana,East,4,2,8,,,+12ft,2
+1027,"रु.3,50,00,000",Basundhara,5.5 Aana,East,2,1,8,,,13,2.5
+1028,"रु.6,00,00,000",Hupra,1500 Sqft,East,8+,4,1,,,20,3
+1029,"रु.9,55,00,000",Anamnagar,11.5 Anna,East,7,4,3,3,13+,13,3
+1030,"रु.2,50,00,000","Imadol,",3Aana 2Dam,South,4,3,8,,,13,2.5
+1031,"रु.2,40,00,000",Imadol,0-3-0-1,East,4,3,8,,,13,2.5
+1032,"रु.1,90,00,000",Imadol,3 Aana,South,4,3,7,,,13,2.5
+1033,"रु.3,00,00,000",Swoyambhu,7 aana,East,1,1,1,,,,3
+1034,"रु.1,30,00,000",Jharuwarashi,4 aana 3 paisa 1 daam,West,3,2,5,,,12,2
+1035,"रु.1,80,00,000",Bhakumde,6 anna,West,6,5+,9,,,,2.5
+1036,"रु.1,70,00,000",Checkpost,5,East,7,2,1,1,9,,2
+1037,"रु.4,40,00,000",Bhaisepati,5 Anna,South,1,1,7,,,13,2.5
+1038,"रु.2,60,00,000",Bhozad,1 kattha,East,8+,5+,13+,,,,3
+1039,"रु.2,50,00,000",Hattiban,700 sqft,North,6,3,11,,,20,3
+1040,"रु.6,80,00,000",Budhanilkantha,7.2 aana,South,6,5+,11,,,16,1
+1041,"रु.3,70,00,000",Bhaisepati,5 Aana,East,4,4,1,,,16,2.5
+1042,"रु.39,10,00,000",Maitidevi,34 Aana,East,1,1,1,,,,1
+1043,"रु.6,35,00,000",Baneshwor,7.2Aana,North,8+,4,13+,,,20,2.5
+1044,"रु.6,50,00,000",Koteshwor,9.2 Aana,South,6,3,1,,,16,3.5
+1045,"रु.3,90,00,000",Khumaltar,4.2 Aana,East,4,4,1,,,16,2.5
+1046,"रु.2,40,00,000",Budhanilkantha,4 aana,East,1,1,1,,,20,1
+1047,"रु.2,70,00,000",Balwakhani,1440,East,3,3,7,,,12,2.5
+1048,"रु.3,50,00,000",Itahari,15 Dhur,North,6,4,10,,,16,2.5
+1049,"रु.2,00,00,000",Chabahil,4 ana,East,6,2,6,,,6,2.5
+1050,"रु.6,95,00,000",Bhaisepati,6.2 aana,South,6,3,1,,,20,2.5
+1051,"रु.2,30,00,000",Budhanilkantha,3.5 Aana,East,4,3,1,,,16,3
+1052,"रु.1,60,00,000",Chunikhel,3.1,North,2,1,4,,,13,2
+1053,"रु.4,00,00,000",Hanumanghat,1863 Sqft,South,1,4,15,,,12,3.5
+1054,"रु.3,50,00,000","Taukhel,",4,West,5,4,11,,,,1
+1055,"रु.2,25,00,000",Balkumari,3 aana,West,7,1,11,,,13,3.5
+1056,"रु.85,00,000",Jhoor,1 anna 1 paisa,East,1,1,1,,,,5+
+1057,"रु.1,60,00,000",Hattiban,3 aana,East,1,1,1,,,20,3
+1058,"रु.7,00,00,000",Panipokhari,4anna 3.77 dam,East,4,1,1,,,,1
+1059,"रु.2,60,00,000",Balaju,4.5 aana,East,4,3,8,,,13ft,2.5
+1060,"रु.3,50,00,000",Baniyatar,4.5 anna,East,8+,5+,15,,,20,3
+1061,"रु.2,35,00,000",10,10 aana,West,6,2,1,,,,2.5
+1062,"रु.4,50,00,000","Mahankal,",6.5 Anna,East,5,2,7,,,,2.5
+1063,"रु.3,50,00,000",Bhaisapati,3.5 aana,East,4,4,1,,,,1
+1064,"रु.3,95,00,000",Tahachal,4.5 anna,East,1,1,1,,,10,3
+1065,"रु.2,50,00,000",Gokarna,0-5-1-1,East,8+,3,3,1,12,44,2.5
+1066,"रु.3,30,00,000",kathmandu,4.2 ana,North,3,4,1,1,5,12,2.5
+1067,"रु.5,00,00,000",Bhaisepati,10 Anna,East,5,3,1,,,16,2.5
+1068,"रु.1,60,00,000",Harisiddhi,3.5 aana,East,4,3,1,3,8,13,2.5
+1069,"रु.42,00,000",Makwanpur,1200 sqft,East,4,1,3,,,,1
+1070,"रु.4,00,00,000",Hattigauda,0-5-2-0,South,8+,6,1,3,14,28,4
+1071,"रु.3,75,00,000",Deuba,5. 5 anna,South,5,3,1,1,8,13,2.5
+1072,"रु.3,50,00,000",Saurahachowk,1822.5,East,8+,5+,15,,,20,3.5
+1073,"रु.6,50,00,000",Grande,8 aana 2 paisa 2 daam,West,5,5+,8,,,18,3
+1074,"रु.90,00,000",Samanthali,3.1,North,3,2,6,,,10,1.5
+1075,"रु.1,94,99,988",Kalanki,1200 sqft,West,3,3,6,,,6,2.5
+1076,"रु.1,98,00,000",Dhapakhel,0-3-0-0,South,4,3,2,2,8,20,2.5
+1077,"रु.2,90,00,000",Lubhu,1750,South,5,4,9,,,20,1
+1078,"रु.1,80,00,000",Deepnagar,5 dhur,North,8+,3,10,,,,9+
+1079,"रु.2,45,00,000",Sano,3.5 aana,North,5,3,9,,,20,2.5
+1080,"रु.55,00,000",Dhangadhi,800 sqft,North,4,1,4,,,13,1
+1081,"रु.2,68,00,000",Passikot,4 annna,South,5,2,1,1,7,,2.5
+1082,"रु.3,50,00,000",Birtabazar,1500 Sqft,East,4,1,1,,,60,1
+1083,"रु.2,50,00,000",Phutung,0-4-2-1,East,5,4,1,,,12,2.5
+1084,"रु.2,75,00,000",Naikap,4 anna,East,6,5+,11,,,13,2.5
+1085,"रु.3,20,00,000",Panchetaar,4.75 aana,East,5,4,7,1,7,20,2.5
+1086,"रु.2,02,00,000",Suryabinayak,3aana,East,7,4,10,,,10,3
+1087,"रु.1,50,00,000",Dunchepakha,3.1 Ana,North,5,3,8,,,current,3
+1088,"रु.1,10,00,000",Bhainsepati,3 aana,South,3,2,5,,,40feet,2
+1089,"रु.4,50,00,000",Syuchatar,11 aana,East,7,4,1,,,20,3
+1090,"रु.3,15,00,00,000",Naranthan,4ana,East,3,5+,10,,,13,7
+1091,"रु.3,15,00,000",Thulobharyang,5.5ana,East,7,4,1,,,,4
+1092,"रु.1,90,00,000",Kailali,Nepal,West,3,1,4,,,,1
+1093,"रु.3,50,00,000",United,5.5 Aana,West,5,4,2,1,10,13,3
+1094,"रु.1,85,00,000",Sanogaun,3.5 anna,East,5,3,9,,,13,2.5
+1095,"रु.2,30,00,000",Pasikot,4.1paisa,South,1,5+,9,,,13,4
+1096,"रु.91,00,000",Thali,900 sqft,West,3,2,6,,,10,2
+1097,"रु.1,90,00,000",Imadol,0-3-3-0,East,4,3,8,,,14,2.5
+1098,"रु.3,50,00,000",United,5.5 Aana,South,5,4,1,1,10,13,3
+1099,"रु.1,50,00,000",Gundu,10/317.90,West,1,1,1,,,20,1
+1100,"रु.2,80,00,000",Near,3 aana 1 paisa,South,8+,3,14,,,25,4
+1101,"रु.3,20,00,000",near,4.2,East,8+,5+,14,,,20,3
+1102,"रु.4,00,00,000",Harisiddhi,8 aana,East,8+,5+,1,,,12,2.5
+1103,"रु.2,75,00,000",Banasthali,4aana,South,5,5+,2,3,12,13,2.5
+1104,"रु.1,93,10,000",Lubhu,3-4 anna,East,3,2,7,,,,2.5
+1105,"रु.2,85,00,000",7,7 aana,East,1,3,15,,,20,6
+1106,"रु.2,80,00,000",Makalbari,4 anna,South,5,4,2,2,13+,10,2.5
+1107,"रु.3,70,00,000",Kapan,6.1 aana,East,7,4,11,,,20,3.5
+1108,"रु.3,25,00,000",Tinthana,1500 Sqft,East,8+,4,10,,,16,3
+1109,"रु.2,20,00,000",815,4,North,5,3,11,,,20,3
+1110,"रु.15,00,00,000",Dhapasi-Height,32 aana,South,4,4,2,1,8,9,3
+1111,"रु.2,00,00,000",New,7,East,8+,5+,1,,,,3.5
+1112,"रु.1,40,00,000",Kapan,3.5 Anna,East,2,2,9,,,12,3
+1113,"रु.2,65,00,000",kalanki,4 aana,East,1,1,1,,,13,7
+1114,"रु.3,00,00,000",Jorpati,1200 sqft,East,8+,3,12,,,13,3
+1115,"रु.3,00,00,000",Syuchatar,4.5,East,1,5+,14,,,10,3.5
+1116,"रु.8,00,00,000",Ason,0-2-0-3 aana,South,1,4,1,,,20,5+
+1117,"रु.1,15,00,000",Makalbari,63.58,East,2,2,5,,,,2.5
+1118,"रु.3,50,00,000",Gongabu,4 aana 2 dam,South,8+,5,3,3,13+,12,3.5
+1119,"रु.1,45,00,000",Sitapaila,3.2 aana,East,3,3,1,1,8,10,2.5
+1120,"रु.2,60,00,000",Tokha,1500 Sqft,East,5,4,1,,,20,2.5
+1121,"रु.3,45,00,000",Taulung,6-7.5 aana,East,4,4,7,1,,20,2.5
+1122,"रु.5,00,00,000",Balaju,0-4-2-2,South,8+,8+,4,3,14,10,4
+1123,"रु.3,10,00,000",Chabahil,1194,East,8+,5+,15,,,,3.5
+1124,"रु.3,75,00,000",Bhimsenthan,4 aana,East,8+,5+,15,,,12,4
+1125,"रु.3,20,00,000",Tribhuwan,6 anna,East,5,4,3,2,11,20,2.5
+1126,"रु.2,80,00,000",Kapan,0-4-0-0,East,7,4,11,,,13,2.5
+1127,"रु.1,55,00,000",Duwakot,0-6-0-0,East,4,2,2,1,6,20,1.5
+1128,"रु.2,40,00,000",Kapan,3.5,West,7,4,13+,,,13,3.5
+1129,"रु.8,00,00,000",Nayagaun,0-12-0-0,North,7,5+,2,2,14,20,2.5
+1130,"रु.1,60,00,000",Doleswor,700 sqft,East,6,3,7,,,6,3
+1131,"रु.1,60,00,000",Hetauda,2151,East,2,1,1,,,13,1
+1132,"रु.2,75,00,000",Naikap,0-4-0-0,South,5,3,10,,,13,2.5
+1133,"रु.1,39,00,000",KAPAN,1200 sqft,North,2,1,4,,,13,1
+1134,"रु.2,15,00,000",Khumaltar,0-3-1-0,South,3,3,8,,,12,2.5
+1135,"रु.1,90,00,000",Kapan,4,West,2,1,4,,,10,1
+1136,"रु.5,25,00,000",Bhairahawa,3380 sq ft,North,8+,5+,14,4,14,42,2
+1137,"रु.13,00,00,000",Hadigaon,"11 anna 1 Paisa, 3800 sq ft",South,4,5+,2,2,,13,2.5
+1138,"रु.1,50,00,000",Ranjha,18 aana,East,5,4,8,2,8,13,2
+1139,"रु.1,25,00,000",Townplanning,2.5,South,2,1,4,,,8,1
+1140,"रु.1,80,00,000",Bhatkepati,0-3-2-0,South,6,3,1,1,9,13,2.5
+1141,"रु.75,00,000",Dadathok,3 ana,North,2,1,1,1,4,13,1
+1142,"रु.1,05,00,000",Dadathok,0-2-3-2,West,3,2,2,2,7,13,3
+1143,"रु.2,00,00,000",Banasthali,1027,North,5,3,2,2,12,7.6,2.5
+1144,"रु.1,60,00,000",Teku,11 aana,North,1,1,1,,,13,4
+1145,"रु.1,45,00,000",Mathatirtha,4 aana 1 paisa 1 dam,East,8+,3,10,,,13,2.5
+1146,"रु.35,00,00,000","Dillibazar,",1500 Sqft +,South,7,3,1,,,10,3
+1147,"रु.14,00,00,000",Basundhara,1.5 ropani,North,8+,3,3,3,,13,3
+1148,"रु.1,60,00,000",Sukedhara,0-3-0-0,East,6,3,2,2,8,20,2.5
+1149,"रु.3,50,00,000",Pulchowk,1 anna 3 paisa 1 dam,East,4,5+,15,,,7,5+
+1150,"रु.2,10,00,000",Lamatar,4aana,West,7,3,11,,,13,2.5
+1151,"रु.2,55,00,000",Syuchatar,0-5-2-2,West,4,2,7,,,10,2.5
+1152,"रु.65,00,000","Buddhanagar,",8 dhur,North,2,2,1,1,4,12,1
+1153,"रु.1,95,00,000",Imadol,900 sqft,East,5,5+,9,2,9,13,2.5
+1154,"रु.3,00,00,000",Besi,4 Anna,East,6,3,12,,,12,3
+1155,"रु.1,85,00,000",Thankot,9anna,West,4,1,4,,,10,1
+1156,"रु.1,99,00,000",Sanagaun,0-3-2-0,East,8+,4,2,2,11,12,2.5
+1157,"रु.2,20,00,000",bhangal,0-3-2-0,East,7,5+,11,,,13,2.5
+1158,"रु.1,20,00,000",suryabinayak,0-3-0-0,East,2,1,1,1,1,12,1
+1159,"रु.2,30,00,000",Sipadol,0-4-1-2,South,5,3,3,2,9,12,2.5
+1160,"रु.1,15,00,000",Tikathali,0-2-2-0,East,3,1,1,1,4,12,1.5
+1161,"रु.1,90,00,000",Jharankhu,0-0-0-0,East,7,4,2,2,11,13,2.5
+1162,"रु.2,70,00,000",Kapan,0-4-0-0,East,5,5+,10,2,10,13,2.5
+1163,"रु.3,50,00,000",Sukedhara,0-5-2-3,north,9,4,3,3,,12,3.5
+1164,"रु.4,00,00,000",Balkumari,,South,5,4,9,,,20,2.5
+1165,"रु.3,00,00,000",Sanepa,0-4-2-0,East,6,5,2,2,1,12,2.5
